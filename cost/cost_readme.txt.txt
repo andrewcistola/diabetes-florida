@@ -7,34 +7,29 @@ This project is a component of the PreDiabetes prevention and cost study conduct
 Record 
 
 8/21
-nhanes_merged_raw.xlsx file staged in excel for analysis in python
-	isolated the following variables
-		SEQN Respondent sequence number, renamed ID
-		WTINT2YR Full sample 2 year interview weight, renamed Interview Weight
-		WTMEC2YR Full sample 2 year MEC exam weight, renamed ExamWeight
-		DIQ010 Doctor told you have diabetes
-		DIQ160 Ever told you have prediabetes
-		LBXGH Glycohemoglobin (%), renamed HbA1c
-	New categorical Variables Told Diagnosis
-		All obs with DIQ10 value 1, were given Told Diagnosis: Diabetes
-		All obs with DIQ10 value 2, were given ToldDiagnsis: Healthy
-		All obs with DIQ10 value 3, were given ToldDiagnosis: Borderline
-		All obs with DIQ160 value 1, were given ToldDiagnosis: Prediabetes
-		All obs with DIQ160 value 2, were given ToldDiagnosis: Healthy
-		All obs with D1Q160 and DIQ10 value missing were given ToldDiagnosis: NA
-	New categorical Variables LabDiagnosis
-		All obs with HbA1c value <5.7, were given LabDiagnosis: Healthy
-		All obs with HbA1c value 5.7-6.4, were given LabDiagnsis: PreDiabetes
-		All obs with HbA1c value >6.4, were given LabDiagnosis: Diabetes
-		All obs with HbA1c value missing were given LabDiagnosis: NA	
-	All Missing Vlaues in HbA1c converted to NA
-	ID converted to number (integer)
-	HbA1c converted to number (1 deicmal)
-	InterviewWeight converted to number (5 decimals)
-	ExamWeight converted to number (5 decimals)
-saved as nhanes_cost_stage in PreDM/cost
 
-		
+Using Python:
+
+Nhanes_merged_raw.xlsx file read into Python
+Created new column UndgDM based on 
+DIQ10 not being 1 (no diabetes diagnosis)
+DIQ010 not being 1 (no prediabetes diagnosis)
+LBGXGH over 6.4
+1 = undiagnosed dm, 2 = no
+Created new column based on 
+DIQ10 not being 1 (no diabetes diagnosis)
+DIQ010 not being 1 (no prediabetes diagnosis)
+UndgDM not being 1 (not undiagnosed DM)
+LBGXGH between 5.7 and 6.4
+1 = undiagnosed pd, 2 = no
+		“Prediabetes” or “Healthy or Unknown”
+Wrote to csv with added columns nhanes_merged_undg_staged.csv
+Subset by RIDAGEYR 40-70
+BMXBMI over 25
+Removed all extra columns
+Grouped by WTMECYR (MEC weights)
+Exported table and created plots
+
 
 
 
