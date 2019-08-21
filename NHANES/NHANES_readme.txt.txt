@@ -18,4 +18,4 @@ Followed directions to converet to SAS files
 Merged into single SAS dataset, 
 saved code as NHANES_DOWNLOAD in NHANES/CODE
 saved data as MERGE in NHANES/DATA
-exported csv file to PreDM/_data for staging in pythoython
+exported csv file to PreDM/_data for staging in python
