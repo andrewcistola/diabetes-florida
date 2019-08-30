@@ -1,0 +1,61 @@
+DMRisk,DMStat,RaceEthnicity,Frequency,Population
+Not at risk,Healthy,NonHispanic White,1971,109698212
+At risk,Healthy,NonHispanic White,264,28488107
+Not at risk,Healthy,Mexican American,1194,21239025
+Not at risk,Healthy,NonHispanic Black,1237,20564746
+Not at risk,Healthy,Other Hispanic,743,13755781
+Not at risk,Undiagnosed Prediabetes,NonHispanic White,202,12686777
+Not at risk,Healthy,NonHispanic Asian,679,11366887
+At risk,Undiagnosed Prediabetes,NonHispanic White,116,10677858
+Not at risk,Healthy,Other Race Including Multi Racial,380,8905315
+At risk,Diagnosed Prediabetes,NonHispanic White,82,8268499
+At risk,Diagnosed Diabetes,NonHispanic White,94,8229313
+Not at risk,Diagnosed Diabetes,NonHispanic White,119,6648728
+Not at risk,Diagnosed Prediabetes,NonHispanic White,75,5298584
+Not at risk,Undiagnosed Prediabetes,NonHispanic Black,189,3966518
+At risk,Healthy,NonHispanic Black,144,3217755
+At risk,Undiagnosed Prediabetes,NonHispanic Black,147,3130903
+Not at risk,Undiagnosed Prediabetes,Mexican American,116,2662009
+At risk,Healthy,Other Hispanic,125,2431699
+At risk,Healthy,Mexican American,117,2350505
+At risk,Diagnosed Diabetes,NonHispanic Black,114,2202693
+At risk,Undiagnosed Prediabetes,Mexican American,109,1983549
+At risk,Diagnosed Diabetes,Mexican American,107,1701229
+Not at risk,Diagnosed Diabetes,NonHispanic Black,79,1610039
+Not at risk,Undiagnosed Prediabetes,Other Hispanic,82,1568147
+Not at risk,Undiagnosed Prediabetes,NonHispanic Asian,74,1481390
+Not at risk,Diagnosed Diabetes,Mexican American,87,1407461
+At risk,Undiagnosed Diabetes,NonHispanic White,12,1314040
+Not at risk,Diagnosed Prediabetes,NonHispanic Black,55,1218724
+At risk,Undiagnosed Prediabetes,Other Hispanic,72,1149852
+At risk,Diagnosed Diabetes,Other Hispanic,75,1090709
+Not at risk,Diagnosed Diabetes,NonHispanic Asian,53,1058335
+At risk,Diagnosed Prediabetes,NonHispanic Black,49,1051214
+At risk,Healthy,NonHispanic Asian,46,943928
+Not at risk,Diagnosed Prediabetes,NonHispanic Asian,40,914497
+At risk,Undiagnosed Prediabetes,Other Race Including Multi Racial,16,799954
+At risk,Diagnosed Prediabetes,Mexican American,44,788172
+Not at risk,Diagnosed Prediabetes,Other Race Including Multi Racial,17,771569
+At risk,Diagnosed Diabetes,Other Race Including Multi Racial,17,760033
+At risk,Undiagnosed Prediabetes,NonHispanic Asian,36,712811
+Not at risk,Diagnosed Prediabetes,Mexican American,33,701707
+Not at risk,Diagnosed Diabetes,Other Hispanic,44,678261
+At risk,Diagnosed Prediabetes,Other Hispanic,44,675360
+Not at risk,Diagnosed Prediabetes,Other Hispanic,29,673451
+Not at risk,Undiagnosed Prediabetes,Other Race Including Multi Racial,20,618882
+At risk,Healthy,Other Race Including Multi Racial,14,583827
+At risk,Undiagnosed Diabetes,NonHispanic Black,28,570196
+Not at risk,Undiagnosed Diabetes,NonHispanic White,13,557325
+At risk,Diagnosed Prediabetes,Other Race Including Multi Racial,11,504170
+At risk,Diagnosed Diabetes,NonHispanic Asian,21,422904
+Not at risk,Diagnosed Diabetes,Other Race Including Multi Racial,10,381696
+At risk,Undiagnosed Diabetes,Mexican American,21,375023
+At risk,Diagnosed Prediabetes,NonHispanic Asian,18,354107
+Not at risk,Undiagnosed Diabetes,NonHispanic Asian,14,292938
+Not at risk,Undiagnosed Diabetes,NonHispanic Black,10,230532
+At risk,Undiagnosed Diabetes,Other Hispanic,12,229228
+Not at risk,Undiagnosed Diabetes,Mexican American,9,189862
+Not at risk,Undiagnosed Diabetes,Other Hispanic,6,99362
+At risk,Undiagnosed Diabetes,NonHispanic Asian,5,93700
+At risk,Undiagnosed Diabetes,Other Race Including Multi Racial,3,81812
+Not at risk,Undiagnosed Diabetes,Other Race Including Multi Racial,1,51136
