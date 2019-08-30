@@ -1,0 +1,8 @@
+Table,F_RIDRETH3,RIDRETH3,Frequency,WgtFreq,StdDev,Percent,StdErr,_SkipLine
+Table RIDRETH3,Mexican American,Mexican American,1837,33398542,7376037,10.5531,2.4763,
+Table RIDRETH3,Other Hispanic,Other Hispanic,1232,22351850,3050936,7.0626,1.1763,
+Table RIDRETH3,NonHispanic White,NonHispanic White,2948,191867443,22760573,60.6253,4.2033,
+Table RIDRETH3,NonHispanic Black,NonHispanic Black,2052,37763320,6402256,11.9323,2.3844,
+Table RIDRETH3,NonHispanic Asian,NonHispanic Asian,986,17641496,3720530,5.5743,1.2442,
+Table RIDRETH3,Other Race Including Multi Racial,Other Race Including Multi Racial,489,13458394,1393498,4.2525,0.3098,
+Table RIDRETH3,Total,,9544,316481044,17065135,100.0000,_,1
