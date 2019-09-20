@@ -1,0 +1,467 @@
+                          undiagnosed prediabetes and race/sex/age crosstabs                         1
+                                                                      13:21 Friday, September 20, 2019
+
+
+
+                                  S U D A A N
+            Software for the Statistical Analysis of Correlated Data
+          Copyright       Research Triangle Institute       March 2018
+                                 Release 11.0.3
+
+
+DESIGN SUMMARY: Variances will be computed using the Taylor Linearization Method, Assuming a With
+Replacement (WR) Design
+    Sample Weight: WTMEC2YR
+    Stratification Variables(s): SDMVSTRA
+    Primary Sampling Unit: SDMVPSU
+
+
+Number of observations read    :   9544    Weighted count :316481044
+Number of observations skipped :    427
+(WEIGHT variable nonpositive)
+Observations in subpopulation  :   2114    Weighted count : 91483324
+Denominator degrees of freedom :     15
+
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                     Page:  1
+Time: 13:23:58                                                                             Table: 1
+
+Frequencies and Values for CLASS Variables
+by: Gender.
+
+-----------------------------------
+Gender          Frequency     Value
+-----------------------------------
+Ordered
+  Position:
+  1                  1016      male
+Ordered
+  Position:
+  2                  1098    female
+-----------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                     Page:  2
+Time: 13:23:58                                                                             Table: 1
+
+Frequencies and Values for CLASS Variables
+by: respondent race.
+
+----------------------------------------------
+respondent
+  race          Frequency                Value
+----------------------------------------------
+Ordered
+  Position:
+  1                   617             NH White
+Ordered
+  Position:
+  2                   518             NH Black
+Ordered
+  Position:
+  3                   778             Hispanic
+Ordered
+  Position:
+  4                   137             NH Asian
+Ordered
+  Position:
+  5                    64    Other/Multiracial
+----------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                     Page:  3
+Time: 13:23:58                                                                             Table: 1
+
+Frequencies and Values for CLASS Variables
+by: undiagnosed prediabetes indicator.
+
+----------------------------------------------------
+undiagnosed
+  prediabet-
+  es
+  indicator     Frequency                      Value
+----------------------------------------------------
+Ordered
+  Position:
+  1                   496    undiagnosed prediabetes
+Ordered
+  Position:
+  2                  1551              everyone else
+----------------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                     Page:  4
+Time: 13:23:58                                                                             Table: 1
+
+Frequencies and Values for CLASS Variables
+by: age in 5 year increments.
+
+--------------------------------------
+age in 5
+  year
+  increments    Frequency        Value
+--------------------------------------
+Ordered
+  Position:
+  1                   334    age 40-44
+Ordered
+  Position:
+  2                   347    age 45-49
+Ordered
+  Position:
+  3                   353    age 50-54
+Ordered
+  Position:
+  4                   310    age 55-59
+Ordered
+  Position:
+  5                   378    age 60-64
+Ordered
+  Position:
+  6                   392    age 65-70
+--------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                    Page:   5
+Time: 13:23:58                                                                            Table: 1
+
+Variance Estimation Method: Taylor Series (WR)
+For Subpopulation: AGE = 1 AND OO = 1
+Weighted crosstabs and prevalence estimate
+by: undiagnosed prediabetes indicator.
+
+-----------------------------------------------------------------------------
+|                 |                  | undiagnosed prediabetes indicator    |
+|                 |                  |--------------------------------------|
+|                 |                  | Total      | undiagnos- | everyone   |
+|                 |                  |            | ed         | else       |
+|                 |                  |            | prediabet- |            |
+|                 |                  |            | es         |            |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+|                 | Sample Size      |       2047 |        496 |       1551 |
+|                 | Weighted Size    | ********** | ********** | ********** |
+|                 | Row Percent      |     100.00 |      20.61 |      79.39 |
+|                 | Col Percent      |     100.00 |      20.61 |      79.39 |
+-----------------------------------------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                    Page:   6
+Time: 13:23:58                                                                            Table: 2
+
+Variance Estimation Method: Taylor Series (WR)
+For Subpopulation: AGE = 1 AND OO = 1
+Weighted crosstabs and prevalence estimate
+by: respondent race, undiagnosed prediabetes indicator.
+
+-----------------------------------------------------------------------------
+|                 |                  | undiagnosed prediabetes indicator    |
+| respondent race |                  |--------------------------------------|
+|                 |                  | Total      | undiagnos- | everyone   |
+|                 |                  |            | ed         | else       |
+|                 |                  |            | prediabet- |            |
+|                 |                  |            | es         |            |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| Total           | Sample Size      |       2047 |        496 |       1551 |
+|                 | Weighted Size    | ********** | ********** | ********** |
+|                 | Row Percent      |     100.00 |      20.61 |      79.39 |
+|                 | Col Percent      |     100.00 |     100.00 |     100.00 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| NH White        | Sample Size      |        604 |        117 |        487 |
+|                 | Weighted Size    | ********** | ********** | ********** |
+|                 | Row Percent      |     100.00 |      17.69 |      82.31 |
+|                 | Col Percent      |      67.13 |      57.62 |      69.59 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| NH Black        | Sample Size      |        490 |        144 |        346 |
+|                 | Weighted Size    | ********** | 3070128.09 | 7263484.78 |
+|                 | Row Percent      |     100.00 |      29.71 |      70.29 |
+|                 | Col Percent      |      11.58 |      16.69 |      10.25 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| Hispanic        | Sample Size      |        761 |        183 |        578 |
+|                 | Weighted Size    | ********** | 3192560.02 | ********** |
+|                 | Row Percent      |     100.00 |      23.73 |      76.27 |
+|                 | Col Percent      |      15.07 |      17.35 |      14.48 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| NH Asian        | Sample Size      |        131 |         38 |         93 |
+|                 | Weighted Size    | 2674692.99 |  758043.59 | 1916649.40 |
+|                 | Row Percent      |     100.00 |      28.34 |      71.66 |
+|                 | Col Percent      |       3.00 |       4.12 |       2.70 |
+-----------------------------------------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                    Page:   7
+Time: 13:23:58                                                                            Table: 2
+
+Variance Estimation Method: Taylor Series (WR)
+For Subpopulation: AGE = 1 AND OO = 1
+Weighted crosstabs and prevalence estimate
+by: respondent race, undiagnosed prediabetes indicator.
+
+-----------------------------------------------------------------------------
+|                 |                  | undiagnosed prediabetes indicator    |
+| respondent race |                  |--------------------------------------|
+|                 |                  | Total      | undiagnos- | everyone   |
+|                 |                  |            | ed         | else       |
+|                 |                  |            | prediabet- |            |
+|                 |                  |            | es         |            |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| Other/Multirac- | Sample Size      |         61 |         14 |         47 |
+| ial             | Weighted Size    | 2882637.46 |  776183.84 | 2106453.62 |
+|                 | Row Percent      |     100.00 |      26.93 |      73.07 |
+|                 | Col Percent      |       3.23 |       4.22 |       2.97 |
+-----------------------------------------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                    Page:   8
+Time: 13:23:58                                                                            Table: 3
+
+Variance Estimation Method: Taylor Series (WR)
+For Subpopulation: AGE = 1 AND OO = 1
+Weighted crosstabs and prevalence estimate
+by: Gender, undiagnosed prediabetes indicator.
+
+-----------------------------------------------------------------------------
+|                 |                  | undiagnosed prediabetes indicator    |
+| Gender          |                  |--------------------------------------|
+|                 |                  | Total      | undiagnos- | everyone   |
+|                 |                  |            | ed         | else       |
+|                 |                  |            | prediabet- |            |
+|                 |                  |            | es         |            |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| Total           | Sample Size      |       2047 |        496 |       1551 |
+|                 | Weighted Size    | ********** | ********** | ********** |
+|                 | Row Percent      |     100.00 |      20.61 |      79.39 |
+|                 | Col Percent      |     100.00 |     100.00 |     100.00 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| male            | Sample Size      |        983 |        244 |        739 |
+|                 | Weighted Size    | ********** | 8804936.51 | ********** |
+|                 | Row Percent      |     100.00 |      19.54 |      80.46 |
+|                 | Col Percent      |      50.49 |      47.86 |      51.17 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| female          | Sample Size      |       1064 |        252 |        812 |
+|                 | Weighted Size    | ********** | 9593491.93 | ********** |
+|                 | Row Percent      |     100.00 |      21.71 |      78.29 |
+|                 | Col Percent      |      49.51 |      52.14 |      48.83 |
+-----------------------------------------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                    Page:   9
+Time: 13:23:58                                                                            Table: 4
+
+Variance Estimation Method: Taylor Series (WR)
+For Subpopulation: AGE = 1 AND OO = 1
+Weighted crosstabs and prevalence estimate
+by: age in 5 year increments, undiagnosed prediabetes indicator.
+
+-----------------------------------------------------------------------------
+|                 |                  | undiagnosed prediabetes indicator    |
+| age in 5 year   |                  |--------------------------------------|
+| increments      |                  | Total      | undiagnos- | everyone   |
+|                 |                  |            | ed         | else       |
+|                 |                  |            | prediabet- |            |
+|                 |                  |            | es         |            |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| Total           | Sample Size      |       2047 |        496 |       1551 |
+|                 | Weighted Size    | ********** | ********** | ********** |
+|                 | Row Percent      |     100.00 |      20.61 |      79.39 |
+|                 | Col Percent      |     100.00 |     100.00 |     100.00 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| age 40-44       | Sample Size      |        315 |         65 |        250 |
+|                 | Weighted Size    | ********** | 2031692.55 | ********** |
+|                 | Row Percent      |     100.00 |      15.20 |      84.80 |
+|                 | Col Percent      |      14.98 |      11.04 |      16.00 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| age 45-49       | Sample Size      |        336 |         74 |        262 |
+|                 | Weighted Size    | ********** | 3060522.90 | ********** |
+|                 | Row Percent      |     100.00 |      19.28 |      80.72 |
+|                 | Col Percent      |      17.78 |      16.63 |      18.08 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| age 50-54       | Sample Size      |        340 |         91 |        249 |
+|                 | Weighted Size    | ********** | 3331889.89 | ********** |
+|                 | Row Percent      |     100.00 |      21.04 |      78.96 |
+|                 | Col Percent      |      17.74 |      18.11 |      17.65 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| age 55-59       | Sample Size      |        303 |         82 |        221 |
+|                 | Weighted Size    | ********** | 4023441.50 | ********** |
+|                 | Row Percent      |     100.00 |      26.03 |      73.97 |
+|                 | Col Percent      |      17.32 |      21.87 |      16.14 |
+-----------------------------------------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                    Page:   10
+Time: 13:23:58                                                                            Table: 4
+
+Variance Estimation Method: Taylor Series (WR)
+For Subpopulation: AGE = 1 AND OO = 1
+Weighted crosstabs and prevalence estimate
+by: age in 5 year increments, undiagnosed prediabetes indicator.
+
+-----------------------------------------------------------------------------
+|                 |                  | undiagnosed prediabetes indicator    |
+| age in 5 year   |                  |--------------------------------------|
+| increments      |                  | Total      | undiagnos- | everyone   |
+|                 |                  |            | ed         | else       |
+|                 |                  |            | prediabet- |            |
+|                 |                  |            | es         |            |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| age 60-64       | Sample Size      |        370 |         94 |        276 |
+|                 | Weighted Size    | ********** | 2561463.56 | ********** |
+|                 | Row Percent      |     100.00 |      20.14 |      79.86 |
+|                 | Col Percent      |      14.25 |      13.92 |      14.33 |
+-----------------------------------------------------------------------------
+|                 |                  |            |            |            |
+| age 65-70       | Sample Size      |        383 |         90 |        293 |
+|                 | Weighted Size    | ********** | 3389418.04 | ********** |
+|                 | Row Percent      |     100.00 |      21.17 |      78.83 |
+|                 | Col Percent      |      17.94 |      18.42 |      17.81 |
+-----------------------------------------------------------------------------
+
+                          undiagnosed prediabetes and race/sex/age crosstabs                        12
+                                                                      13:21 Friday, September 20, 2019
+
+
+
+                                  S U D A A N
+            Software for the Statistical Analysis of Correlated Data
+          Copyright       Research Triangle Institute       March 2018
+                                 Release 11.0.3
+
+
+DESIGN SUMMARY: Variances will be computed using the Taylor Linearization Method, Assuming a With
+Replacement (WR) Design
+    Sample Weight: WTMEC2YR
+    Stratification Variables(s): SDMVSTRA
+    Primary Sampling Unit: SDMVPSU
+
+
+Number of observations read    :   9544    Weighted count :316481044
+Number of observations skipped :    427
+(WEIGHT variable nonpositive)
+Observations in subpopulation  :   2114    Weighted count : 91483324
+Denominator degrees of freedom :     15
+
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                     Page:  1
+Time: 13:23:59                                                                             Table: 1
+
+Frequencies and Values for CLASS Variables
+by: all prediabetes.
+
+--------------------------------------------
+all
+  prediabet-
+  es            Frequency              Value
+--------------------------------------------
+Ordered
+  Position:
+  1                   810    all prediabetes
+Ordered
+  Position:
+  2                  1304      everyone else
+--------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                     Page:  2
+Time: 13:23:59                                                                             Table: 1
+
+Frequencies and Values for CLASS Variables
+by: prediabetes.
+
+----------------------------------------------------
+prediabetes     Frequency                      Value
+----------------------------------------------------
+Ordered
+  Position:
+  1                   496    undiagnosed prediabetes
+Ordered
+  Position:
+  2                   314      diagnosed prediabetes
+----------------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                    Page:   3
+Time: 13:23:59                                                                            Table: 1
+
+Variance Estimation Method: Taylor Series (WR)
+For Subpopulation: AGE = 1 AND OO = 1
+Weighted all prediabetes estimate and percentage of prediabetes who are undiagnosed
+by: all prediabetes.
+
+--------------------------------------------------------------------------------------------
+|                 |                  | all prediabetes                                     |
+|                 |                  |-----------------------------------------------------|
+|                 |                  | Total           | all prediabetes | everyone else   |
+--------------------------------------------------------------------------------------------
+|                 |                  |                 |                 |                 |
+|                 | Sample Size      |            2114 |             810 |            1304 |
+|                 | Weighted Size    |     91483323.93 |     32609725.00 |     58873598.93 |
+|                 | Row Percent      |          100.00 |           35.65 |           64.35 |
+|                 | Col Percent      |          100.00 |           35.65 |           64.35 |
+--------------------------------------------------------------------------------------------
+
+
+
+
+Date: 09-20-2019                                SUDAAN                                    Page:   4
+Time: 13:23:59                                                                            Table: 2
+
+Variance Estimation Method: Taylor Series (WR)
+For Subpopulation: AGE = 1 AND OO = 1
+Weighted all prediabetes estimate and percentage of prediabetes who are undiagnosed
+by: prediabetes.
+
+--------------------------------------------------------------------------------------------
+|                 |                  | prediabetes                                         |
+|                 |                  |-----------------------------------------------------|
+|                 |                  | Total           | undiagnosed     | diagnosed       |
+|                 |                  |                 | prediabetes     | prediabetes     |
+--------------------------------------------------------------------------------------------
+|                 |                  |                 |                 |                 |
+|                 | Sample Size      |             810 |             496 |             314 |
+|                 | Weighted Size    |     32609725.00 |     18398428.44 |     14211296.56 |
+|                 | Row Percent      |          100.00 |           56.42 |           43.58 |
+|                 | Col Percent      |          100.00 |           56.42 |           43.58 |
+--------------------------------------------------------------------------------------------
