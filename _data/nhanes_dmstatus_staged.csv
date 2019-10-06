@@ -1,0 +1,2353 @@
+Status,Risk,BMI,Age,Race,Sex,N,Population,Percent
+Diagnosed Diabetes,At risk,Obese,Under 40,Mexican American,Male,4,121968,5.5387
+Diagnosed Diabetes,At risk,Obese,Under 40,Mexican American,Female,14,327961,14.893
+Diagnosed Diabetes,At risk,Obese,Under 40,Mexican American,,18,449929,20.4317
+Diagnosed Diabetes,At risk,Obese,Under 40,Other Hispanic,Male,3,111248,5.0519
+Diagnosed Diabetes,At risk,Obese,Under 40,Other Hispanic,Female,3,90195,4.0958
+Diagnosed Diabetes,At risk,Obese,Under 40,Other Hispanic,,6,201443,9.1477
+Diagnosed Diabetes,At risk,Obese,Under 40,NonHispanic White,Male,5,421218,19.1279
+Diagnosed Diabetes,At risk,Obese,Under 40,NonHispanic White,Female,6,456543,20.732
+Diagnosed Diabetes,At risk,Obese,Under 40,NonHispanic White,,11,877761,39.8599
+Diagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Black,Male,6,174569,7.9273
+Diagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Black,Female,14,381128,17.3073
+Diagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Black,,20,555696,25.2347
+Diagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Asian,Male,1,9307,0.4226
+Diagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Asian,Female,1,45284,2.0564
+Diagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Asian,,2,54592,2.4791
+Diagnosed Diabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,Male,1,22897,1.0398
+Diagnosed Diabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,Female,1,39799,1.8073
+Diagnosed Diabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,,2,62695,2.847
+Diagnosed Diabetes,At risk,Obese,Under 40,,Male,20,861206,39.1081
+Diagnosed Diabetes,At risk,Obese,Under 40,,Female,39,1340909,60.8919
+Diagnosed Diabetes,At risk,Obese,Under 40,,,59,2202115,100
+Diagnosed Diabetes,At risk,Obese,40-44,Mexican American,Male,3,98165,7.475
+Diagnosed Diabetes,At risk,Obese,40-44,Mexican American,Female,7,175821,13.3883
+Diagnosed Diabetes,At risk,Obese,40-44,Mexican American,,10,273985,20.8633
+Diagnosed Diabetes,At risk,Obese,40-44,Other Hispanic,Male,1,30837,2.3482
+Diagnosed Diabetes,At risk,Obese,40-44,Other Hispanic,Female,1,19412,1.4782
+Diagnosed Diabetes,At risk,Obese,40-44,Other Hispanic,,2,50249,3.8263
+Diagnosed Diabetes,At risk,Obese,40-44,NonHispanic White,Male,5,283653,21.5995
+Diagnosed Diabetes,At risk,Obese,40-44,NonHispanic White,Female,4,378854,28.8489
+Diagnosed Diabetes,At risk,Obese,40-44,NonHispanic White,,9,662507,50.4484
+Diagnosed Diabetes,At risk,Obese,40-44,NonHispanic Black,Male,2,39297,2.9924
+Diagnosed Diabetes,At risk,Obese,40-44,NonHispanic Black,Female,8,182027,13.8609
+Diagnosed Diabetes,At risk,Obese,40-44,NonHispanic Black,,10,221325,16.8533
+Diagnosed Diabetes,At risk,Obese,40-44,NonHispanic Asian,Male,0,,
+Diagnosed Diabetes,At risk,Obese,40-44,NonHispanic Asian,Female,1,28199,2.1473
+Diagnosed Diabetes,At risk,Obese,40-44,NonHispanic Asian,,1,28199,2.1473
+Diagnosed Diabetes,At risk,Obese,40-44,Other Race Including Multi Racial,Male,2,37330,2.8426
+Diagnosed Diabetes,At risk,Obese,40-44,Other Race Including Multi Racial,Female,1,39643,3.0187
+Diagnosed Diabetes,At risk,Obese,40-44,Other Race Including Multi Racial,,3,76973,5.8613
+Diagnosed Diabetes,At risk,Obese,40-44,,Male,13,489282,37.2577
+Diagnosed Diabetes,At risk,Obese,40-44,,Female,22,823956,62.7423
+Diagnosed Diabetes,At risk,Obese,40-44,,,35,1313238,100
+Diagnosed Diabetes,At risk,Obese,45-49,Mexican American,Male,6,195081,12.901
+Diagnosed Diabetes,At risk,Obese,45-49,Mexican American,Female,7,165904,10.9715
+Diagnosed Diabetes,At risk,Obese,45-49,Mexican American,,13,360984,23.8725
+Diagnosed Diabetes,At risk,Obese,45-49,Other Hispanic,Male,4,117432,7.766
+Diagnosed Diabetes,At risk,Obese,45-49,Other Hispanic,Female,4,85443,5.6505
+Diagnosed Diabetes,At risk,Obese,45-49,Other Hispanic,,8,202875,13.4165
+Diagnosed Diabetes,At risk,Obese,45-49,NonHispanic White,Male,4,407464,26.9463
+Diagnosed Diabetes,At risk,Obese,45-49,NonHispanic White,Female,0,,
+Diagnosed Diabetes,At risk,Obese,45-49,NonHispanic White,,4,407464,26.9463
+Diagnosed Diabetes,At risk,Obese,45-49,NonHispanic Black,Male,9,188145,12.4424
+Diagnosed Diabetes,At risk,Obese,45-49,NonHispanic Black,Female,8,184625,12.2096
+Diagnosed Diabetes,At risk,Obese,45-49,NonHispanic Black,,17,372769,24.6519
+Diagnosed Diabetes,At risk,Obese,45-49,NonHispanic Asian,Male,4,73243,4.8437
+Diagnosed Diabetes,At risk,Obese,45-49,NonHispanic Asian,Female,3,72110,4.7687
+Diagnosed Diabetes,At risk,Obese,45-49,NonHispanic Asian,,7,145352,9.6124
+Diagnosed Diabetes,At risk,Obese,45-49,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,At risk,Obese,45-49,Other Race Including Multi Racial,Female,1,22687,1.5003
+Diagnosed Diabetes,At risk,Obese,45-49,Other Race Including Multi Racial,,1,22687,1.5003
+Diagnosed Diabetes,At risk,Obese,45-49,,Male,27,981364,64.8994
+Diagnosed Diabetes,At risk,Obese,45-49,,Female,23,530768,35.1006
+Diagnosed Diabetes,At risk,Obese,45-49,,,50,1512131,100
+Diagnosed Diabetes,At risk,Obese,50-54,Mexican American,Male,6,144172,6.7283
+Diagnosed Diabetes,At risk,Obese,50-54,Mexican American,Female,8,159727,7.4542
+Diagnosed Diabetes,At risk,Obese,50-54,Mexican American,,14,303900,14.1826
+Diagnosed Diabetes,At risk,Obese,50-54,Other Hispanic,Male,6,153375,7.1578
+Diagnosed Diabetes,At risk,Obese,50-54,Other Hispanic,Female,6,114805,5.3578
+Diagnosed Diabetes,At risk,Obese,50-54,Other Hispanic,,12,268180,12.5156
+Diagnosed Diabetes,At risk,Obese,50-54,NonHispanic White,Male,9,573766,26.7769
+Diagnosed Diabetes,At risk,Obese,50-54,NonHispanic White,Female,6,428442,19.9948
+Diagnosed Diabetes,At risk,Obese,50-54,NonHispanic White,,15,1002208,46.7717
+Diagnosed Diabetes,At risk,Obese,50-54,NonHispanic Black,Male,7,154902,7.2291
+Diagnosed Diabetes,At risk,Obese,50-54,NonHispanic Black,Female,8,166699,7.7796
+Diagnosed Diabetes,At risk,Obese,50-54,NonHispanic Black,,15,321601,15.0087
+Diagnosed Diabetes,At risk,Obese,50-54,NonHispanic Asian,Male,4,70527,3.2914
+Diagnosed Diabetes,At risk,Obese,50-54,NonHispanic Asian,Female,0,,
+Diagnosed Diabetes,At risk,Obese,50-54,NonHispanic Asian,,4,70527,3.2914
+Diagnosed Diabetes,At risk,Obese,50-54,Other Race Including Multi Racial,Male,2,176351,8.23
+Diagnosed Diabetes,At risk,Obese,50-54,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,At risk,Obese,50-54,Other Race Including Multi Racial,,2,176351,8.23
+Diagnosed Diabetes,At risk,Obese,50-54,,Male,34,1273092,59.4135
+Diagnosed Diabetes,At risk,Obese,50-54,,Female,28,869674,40.5865
+Diagnosed Diabetes,At risk,Obese,50-54,,,62,2142766,100
+Diagnosed Diabetes,At risk,Obese,55-59,Mexican American,Male,7,153201,5.2176
+Diagnosed Diabetes,At risk,Obese,55-59,Mexican American,Female,7,138999,4.7339
+Diagnosed Diabetes,At risk,Obese,55-59,Mexican American,,14,292200,9.9514
+Diagnosed Diabetes,At risk,Obese,55-59,Other Hispanic,Male,5,109058,3.7142
+Diagnosed Diabetes,At risk,Obese,55-59,Other Hispanic,Female,8,122962,4.1877
+Diagnosed Diabetes,At risk,Obese,55-59,Other Hispanic,,13,232020,7.9019
+Diagnosed Diabetes,At risk,Obese,55-59,NonHispanic White,Male,12,841895,28.6723
+Diagnosed Diabetes,At risk,Obese,55-59,NonHispanic White,Female,7,824731,28.0878
+Diagnosed Diabetes,At risk,Obese,55-59,NonHispanic White,,19,1666627,56.7601
+Diagnosed Diabetes,At risk,Obese,55-59,NonHispanic Black,Male,11,263775,8.9833
+Diagnosed Diabetes,At risk,Obese,55-59,NonHispanic Black,Female,7,170470,5.8057
+Diagnosed Diabetes,At risk,Obese,55-59,NonHispanic Black,,18,434245,14.789
+Diagnosed Diabetes,At risk,Obese,55-59,NonHispanic Asian,Male,2,36774,1.2524
+Diagnosed Diabetes,At risk,Obese,55-59,NonHispanic Asian,Female,1,18703,0.637
+Diagnosed Diabetes,At risk,Obese,55-59,NonHispanic Asian,,3,55476,1.8893
+Diagnosed Diabetes,At risk,Obese,55-59,Other Race Including Multi Racial,Male,2,197426,6.7237
+Diagnosed Diabetes,At risk,Obese,55-59,Other Race Including Multi Racial,Female,1,58271,1.9845
+Diagnosed Diabetes,At risk,Obese,55-59,Other Race Including Multi Racial,,3,255697,8.7082
+Diagnosed Diabetes,At risk,Obese,55-59,,Male,39,1602129,54.5635
+Diagnosed Diabetes,At risk,Obese,55-59,,Female,31,1334137,45.4365
+Diagnosed Diabetes,At risk,Obese,55-59,,,70,2936266,100
+Diagnosed Diabetes,At risk,Obese,60-64,Mexican American,Male,22,207482,5.935
+Diagnosed Diabetes,At risk,Obese,60-64,Mexican American,Female,13,114131,3.2647
+Diagnosed Diabetes,At risk,Obese,60-64,Mexican American,,35,321613,9.1997
+Diagnosed Diabetes,At risk,Obese,60-64,Other Hispanic,Male,9,76773,2.1961
+Diagnosed Diabetes,At risk,Obese,60-64,Other Hispanic,Female,11,93556,2.6761
+Diagnosed Diabetes,At risk,Obese,60-64,Other Hispanic,,20,170329,4.8722
+Diagnosed Diabetes,At risk,Obese,60-64,NonHispanic White,Male,13,1361915,38.9575
+Diagnosed Diabetes,At risk,Obese,60-64,NonHispanic White,Female,10,955229,27.3243
+Diagnosed Diabetes,At risk,Obese,60-64,NonHispanic White,,23,2317144,66.2817
+Diagnosed Diabetes,At risk,Obese,60-64,NonHispanic Black,Male,15,202480,5.7919
+Diagnosed Diabetes,At risk,Obese,60-64,NonHispanic Black,Female,17,342955,9.8102
+Diagnosed Diabetes,At risk,Obese,60-64,NonHispanic Black,,32,545435,15.6021
+Diagnosed Diabetes,At risk,Obese,60-64,NonHispanic Asian,Male,1,28123,0.8044
+Diagnosed Diabetes,At risk,Obese,60-64,NonHispanic Asian,Female,1,14902,0.4263
+Diagnosed Diabetes,At risk,Obese,60-64,NonHispanic Asian,,2,43025,1.2307
+Diagnosed Diabetes,At risk,Obese,60-64,Other Race Including Multi Racial,Male,1,32906,0.9413
+Diagnosed Diabetes,At risk,Obese,60-64,Other Race Including Multi Racial,Female,3,65448,1.8721
+Diagnosed Diabetes,At risk,Obese,60-64,Other Race Including Multi Racial,,4,98354,2.8134
+Diagnosed Diabetes,At risk,Obese,60-64,,Male,61,1909679,54.6262
+Diagnosed Diabetes,At risk,Obese,60-64,,Female,55,1586221,45.3738
+Diagnosed Diabetes,At risk,Obese,60-64,,,116,3495900,100
+Diagnosed Diabetes,Not at risk,Obese,65-70,Mexican American,Male,18,173159,4.4671
+Diagnosed Diabetes,Not at risk,Obese,65-70,Mexican American,Female,11,112546,2.9034
+Diagnosed Diabetes,Not at risk,Obese,65-70,Mexican American,,29,285705,7.3706
+Diagnosed Diabetes,Not at risk,Obese,65-70,Other Hispanic,Male,11,95509,2.4639
+Diagnosed Diabetes,Not at risk,Obese,65-70,Other Hispanic,Female,13,112995,2.915
+Diagnosed Diabetes,Not at risk,Obese,65-70,Other Hispanic,,24,208504,5.379
+Diagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic White,Male,19,1681309,43.3742
+Diagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic White,Female,12,1033287,26.6566
+Diagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic White,,31,2714596,70.0308
+Diagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Black,Male,19,249267,6.4306
+Diagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Black,Female,11,207919,5.3639
+Diagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Black,,30,457187,11.7945
+Diagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Asian,Male,1,21398,0.552
+Diagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Asian,Female,3,58927,1.5202
+Diagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Asian,,4,80325,2.0722
+Diagnosed Diabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,Male,1,13778,0.3555
+Diagnosed Diabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,Female,3,116193,2.9975
+Diagnosed Diabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,,4,129971,3.353
+Diagnosed Diabetes,Not at risk,Obese,65-70,,Male,69,2234421,57.6433
+Diagnosed Diabetes,Not at risk,Obese,65-70,,Female,53,1641867,42.3567
+Diagnosed Diabetes,Not at risk,Obese,65-70,,,122,3876287,100
+Diagnosed Diabetes,Not at risk,Obese,Over 70,Mexican American,Male,18,187157,3.6031
+Diagnosed Diabetes,Not at risk,Obese,Over 70,Mexican American,Female,16,200378,3.8576
+Diagnosed Diabetes,Not at risk,Obese,Over 70,Mexican American,,34,387535,7.4608
+Diagnosed Diabetes,Not at risk,Obese,Over 70,Other Hispanic,Male,7,65137,1.254
+Diagnosed Diabetes,Not at risk,Obese,Over 70,Other Hispanic,Female,10,113460,2.1843
+Diagnosed Diabetes,Not at risk,Obese,Over 70,Other Hispanic,,17,178597,3.4383
+Diagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic White,Male,53,2260421,43.5172
+Diagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic White,Female,24,1443593,27.7918
+Diagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic White,,77,3704014,71.309
+Diagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Black,Male,10,148351,2.856
+Diagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Black,Female,17,343822,6.6192
+Diagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Black,,27,492173,9.4752
+Diagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Asian,Male,4,69262,1.3334
+Diagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Asian,Female,9,191480,3.6863
+Diagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Asian,,13,260742,5.0198
+Diagnosed Diabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Male,4,153579,2.9567
+Diagnosed Diabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Female,1,17677,0.3403
+Diagnosed Diabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,,5,171256,3.297
+Diagnosed Diabetes,Not at risk,Obese,Over 70,,Male,96,2883906,55.5204
+Diagnosed Diabetes,Not at risk,Obese,Over 70,,Female,77,2310411,44.4796
+Diagnosed Diabetes,Not at risk,Obese,Over 70,,,173,5194317,100
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,Mexican American,Male,2,70296,56.8985
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,Mexican American,,2,70296,56.8985
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,Other Hispanic,Male,1,18535,15.0025
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,Other Hispanic,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,Other Hispanic,,1,18535,15.0025
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,NonHispanic White,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,NonHispanic Black,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,NonHispanic Black,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,NonHispanic Asian,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,NonHispanic Asian,Female,2,34715,28.099
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,NonHispanic Asian,,2,34715,28.099
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,,Male,3,88831,71.901
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,,Female,2,34715,28.099
+Diagnosed Diabetes,Not at risk,Overwweight,Under 40,,,5,123546,100
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,Mexican American,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,Mexican American,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,Other Hispanic,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,Other Hispanic,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,NonHispanic White,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,NonHispanic Black,Male,1,17830,35.8038
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,NonHispanic Black,,1,17830,35.8038
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,NonHispanic Asian,Male,2,31969,64.1962
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,NonHispanic Asian,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,NonHispanic Asian,,2,31969,64.1962
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,,Male,3,49800,100
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,40-44,,,3,49800,100
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,Mexican American,Male,1,24610,42.2546
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,Mexican American,,1,24610,42.2546
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,Other Hispanic,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,Other Hispanic,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic White,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Black,Male,1,16743,28.7483
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Black,,1,16743,28.7483
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,Female,1,16888,28.9971
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,,1,16888,28.9971
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,,Male,2,41353,71.0029
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,,Female,1,16888,28.9971
+Diagnosed Diabetes,Not at risk,Overwweight,45-49,,,3,58241,100
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,Mexican American,Male,2,52904,10.9007
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,Mexican American,,2,52904,10.9007
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,Other Hispanic,Female,2,31819,6.5562
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,Other Hispanic,,2,31819,6.5562
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic White,Female,2,280732,57.844
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic White,,2,280732,57.844
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Black,Male,4,93903,19.3484
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Black,,4,93903,19.3484
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,Female,1,25968,5.3507
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,,1,25968,5.3507
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,,Male,6,146807,30.2491
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,,Female,5,338519,69.7509
+Diagnosed Diabetes,Not at risk,Overwweight,50-54,,,11,485326,100
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,Mexican American,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,Mexican American,Female,2,29956,7.4976
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,Mexican American,,2,29956,7.4976
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,Other Hispanic,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,Other Hispanic,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic White,Male,2,303039,75.8457
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic White,,2,303039,75.8457
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Black,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Black,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,Male,1,14228,3.5609
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,Female,1,16901,4.23
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,,2,31128,7.7909
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Male,1,35423,8.8659
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,,1,35423,8.8659
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,,Male,4,352690,88.2724
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,,Female,3,46857,11.7276
+Diagnosed Diabetes,Not at risk,Overwweight,55-59,,,7,399547,100
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,Mexican American,Male,1,7739,4.1605
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,Mexican American,Female,3,27538,14.8044
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,Mexican American,,4,35277,18.9649
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,Other Hispanic,Female,1,8532,4.587
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,Other Hispanic,,1,8532,4.587
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic White,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Black,Male,2,26255,14.1145
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Black,Female,1,25888,13.9175
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Black,,3,52143,28.032
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,Male,4,90059,48.4161
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,,4,90059,48.4161
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,,Male,7,124053,66.6911
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,,Female,5,61958,33.3089
+Diagnosed Diabetes,Not at risk,Overwweight,60-64,,,12,186011,100
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,Mexican American,Male,2,22780,7.1733
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,Mexican American,,2,22780,7.1733
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,Other Hispanic,Male,2,18422,5.8011
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,Other Hispanic,Female,1,8580,2.7018
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,Other Hispanic,,3,27002,8.5028
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic White,Female,1,41995,13.2237
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic White,,1,41995,13.2237
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Black,Male,3,51668,16.2697
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Black,,3,51668,16.2697
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,Male,5,108907,34.294
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,Female,3,65217,20.5364
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,,8,174125,54.8304
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,,Male,12,201778,63.5381
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,,Female,5,115792,36.4619
+Diagnosed Diabetes,Not at risk,Overwweight,65-70,,,17,317570,100
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,Mexican American,Male,3,31371,4.3808
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,Mexican American,Female,1,15570,2.1743
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,Mexican American,,4,46941,6.5551
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Hispanic,Male,1,7125,0.9949
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Hispanic,Female,1,12499,1.7454
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Hispanic,,2,19623,2.7403
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic White,Male,7,270560,37.7824
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic White,Female,3,150465,21.0117
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic White,,10,421024,58.7941
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,Male,1,12734,1.7783
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,Female,3,56529,7.894
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,,4,69263,9.6723
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,Male,6,111511,15.5719
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,Female,2,47738,6.6663
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,,8,159248,22.2382
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,,Male,18,433300,60.5083
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,,Female,10,282800,39.4917
+Diagnosed Diabetes,Not at risk,Overwweight,Over 70,,,28,716100,100
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,Mexican American,Male,2,70219,21.0106
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,Mexican American,,2,70219,21.0106
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,Other Hispanic,Male,1,40314,12.0625
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,Other Hispanic,Female,1,13806,4.1311
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,Other Hispanic,,2,54120,16.1936
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,NonHispanic White,Male,3,189380,56.6658
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,NonHispanic White,,3,189380,56.6658
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,NonHispanic Black,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,NonHispanic Black,Female,1,8582,2.5679
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,NonHispanic Black,,1,8582,2.5679
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,NonHispanic Asian,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,NonHispanic Asian,Female,1,11905,3.5621
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,NonHispanic Asian,,1,11905,3.5621
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,,Male,6,299913,89.7389
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,,Female,3,34293,10.2611
+Diagnosed Diabetes,Not at risk,Healthy,Under 40,,,9,334206,100
+Diagnosed Diabetes,Not at risk,Healthy,45-49,Mexican American,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,Mexican American,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,Other Hispanic,Male,1,44735,100
+Diagnosed Diabetes,Not at risk,Healthy,45-49,Other Hispanic,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,Other Hispanic,,1,44735,100
+Diagnosed Diabetes,Not at risk,Healthy,45-49,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,NonHispanic White,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,NonHispanic Black,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,NonHispanic Black,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,NonHispanic Asian,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,NonHispanic Asian,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,NonHispanic Asian,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,,Male,1,44735,100
+Diagnosed Diabetes,Not at risk,Healthy,45-49,,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,45-49,,,1,44735,100
+Diagnosed Diabetes,Not at risk,Healthy,50-54,Mexican American,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,Mexican American,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,Other Hispanic,Female,1,18275,30.6234
+Diagnosed Diabetes,Not at risk,Healthy,50-54,Other Hispanic,,1,18275,30.6234
+Diagnosed Diabetes,Not at risk,Healthy,50-54,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,NonHispanic White,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,NonHispanic Black,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,NonHispanic Black,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,NonHispanic Asian,Male,1,9706,16.2646
+Diagnosed Diabetes,Not at risk,Healthy,50-54,NonHispanic Asian,Female,2,31696,53.112
+Diagnosed Diabetes,Not at risk,Healthy,50-54,NonHispanic Asian,,3,41402,69.3766
+Diagnosed Diabetes,Not at risk,Healthy,50-54,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,50-54,,Male,1,9706,16.2646
+Diagnosed Diabetes,Not at risk,Healthy,50-54,,Female,3,49971,83.7354
+Diagnosed Diabetes,Not at risk,Healthy,50-54,,,4,59677,100
+Diagnosed Diabetes,Not at risk,Healthy,55-59,Mexican American,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,Mexican American,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,Other Hispanic,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,Other Hispanic,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,NonHispanic White,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,NonHispanic Black,Male,1,20538,100
+Diagnosed Diabetes,Not at risk,Healthy,55-59,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,NonHispanic Black,,1,20538,100
+Diagnosed Diabetes,Not at risk,Healthy,55-59,NonHispanic Asian,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,NonHispanic Asian,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,NonHispanic Asian,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,,Male,1,20538,100
+Diagnosed Diabetes,Not at risk,Healthy,55-59,,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,55-59,,,1,20538,100
+Diagnosed Diabetes,Not at risk,Healthy,60-64,Mexican American,Male,1,8114,3.7354
+Diagnosed Diabetes,Not at risk,Healthy,60-64,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,60-64,Mexican American,,1,8114,3.7354
+Diagnosed Diabetes,Not at risk,Healthy,60-64,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,60-64,Other Hispanic,Female,1,7122,3.2789
+Diagnosed Diabetes,Not at risk,Healthy,60-64,Other Hispanic,,1,7122,3.2789
+Diagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic White,Male,2,75284,34.6599
+Diagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic White,Female,1,36047,16.5954
+Diagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic White,,3,111331,51.2553
+Diagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Black,Male,1,11901,5.4791
+Diagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Black,,1,11901,5.4791
+Diagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Asian,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Asian,Female,2,45267,20.8406
+Diagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Asian,,2,45267,20.8406
+Diagnosed Diabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Male,1,33473,15.4107
+Diagnosed Diabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,,1,33473,15.4107
+Diagnosed Diabetes,Not at risk,Healthy,60-64,,Male,5,128772,59.2851
+Diagnosed Diabetes,Not at risk,Healthy,60-64,,Female,4,88436,40.7149
+Diagnosed Diabetes,Not at risk,Healthy,60-64,,,9,217208,100
+Diagnosed Diabetes,Not at risk,Healthy,65-70,Mexican American,Male,1,8403,34.0654
+Diagnosed Diabetes,Not at risk,Healthy,65-70,Mexican American,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,Mexican American,,1,8403,34.0654
+Diagnosed Diabetes,Not at risk,Healthy,65-70,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,Other Hispanic,Female,2,16265,65.9346
+Diagnosed Diabetes,Not at risk,Healthy,65-70,Other Hispanic,,2,16265,65.9346
+Diagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic White,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic White,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic White,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Black,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Black,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Asian,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Asian,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Asian,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,,0,,
+Diagnosed Diabetes,Not at risk,Healthy,65-70,,Male,1,8403,34.0654
+Diagnosed Diabetes,Not at risk,Healthy,65-70,,Female,2,16265,65.9346
+Diagnosed Diabetes,Not at risk,Healthy,65-70,,,3,24669,100
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,Mexican American,Male,3,29919,7.5745
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,Mexican American,Female,2,22687,5.7437
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,Mexican American,,5,52606,13.3182
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,Other Hispanic,Male,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,Other Hispanic,Female,1,10745,2.7204
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,Other Hispanic,,1,10745,2.7204
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic White,Male,2,108179,27.3878
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic White,Female,1,70040,17.7321
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic White,,3,178219,45.1199
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Black,Male,4,54564,13.814
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Black,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Black,,4,54564,13.814
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,Male,1,20008,5.0654
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,,1,20008,5.0654
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Male,1,78848,19.962
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Female,0,,
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,,1,78848,19.962
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,,Male,11,291518,73.8038
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,,Female,4,103472,26.1962
+Diagnosed Diabetes,Not at risk,Healthy,Over 70,,,15,394990,100
+Diagnosed Prediabetes,At risk,Obese,Under 40,Mexican American,Male,5,129712,3.7276
+Diagnosed Prediabetes,At risk,Obese,Under 40,Mexican American,Female,8,183101,5.2619
+Diagnosed Prediabetes,At risk,Obese,Under 40,Mexican American,,13,312812,8.9895
+Diagnosed Prediabetes,At risk,Obese,Under 40,Other Hispanic,Male,4,167163,4.8039
+Diagnosed Prediabetes,At risk,Obese,Under 40,Other Hispanic,Female,9,232332,6.6767
+Diagnosed Prediabetes,At risk,Obese,Under 40,Other Hispanic,,13,399495,11.4806
+Diagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic White,Male,8,631412,18.1453
+Diagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic White,Female,10,745697,21.4296
+Diagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic White,,18,1377108,39.575
+Diagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Black,Male,13,292144,8.3956
+Diagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Black,Female,12,332069,9.5429
+Diagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Black,,25,624213,17.9385
+Diagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Asian,Male,4,114016,3.2766
+Diagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Asian,Female,7,166171,4.7754
+Diagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Asian,,11,280187,8.0519
+Diagnosed Prediabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,Male,3,113733,3.2684
+Diagnosed Prediabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,Female,7,372197,10.6961
+Diagnosed Prediabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,,10,485930,13.9645
+Diagnosed Prediabetes,At risk,Obese,Under 40,,Male,37,1448180,41.6174
+Diagnosed Prediabetes,At risk,Obese,Under 40,,Female,53,2031566,58.3826
+Diagnosed Prediabetes,At risk,Obese,Under 40,,,90,3479746,100
+Diagnosed Prediabetes,At risk,Obese,40-44,Mexican American,Male,3,117192,6.3552
+Diagnosed Prediabetes,At risk,Obese,40-44,Mexican American,Female,4,84055,4.5582
+Diagnosed Prediabetes,At risk,Obese,40-44,Mexican American,,7,201246,10.9134
+Diagnosed Prediabetes,At risk,Obese,40-44,Other Hispanic,Male,2,72522,3.9328
+Diagnosed Prediabetes,At risk,Obese,40-44,Other Hispanic,Female,3,83125,4.5078
+Diagnosed Prediabetes,At risk,Obese,40-44,Other Hispanic,,5,155647,8.4406
+Diagnosed Prediabetes,At risk,Obese,40-44,NonHispanic White,Male,2,176621,9.578
+Diagnosed Prediabetes,At risk,Obese,40-44,NonHispanic White,Female,8,861662,46.7271
+Diagnosed Prediabetes,At risk,Obese,40-44,NonHispanic White,,10,1038283,56.3051
+Diagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Black,Male,3,81074,4.3966
+Diagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Black,Female,7,168111,9.1165
+Diagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Black,,10,249186,13.5131
+Diagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Asian,Male,2,52426,2.843
+Diagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Asian,Female,1,19599,1.0628
+Diagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Asian,,3,72024,3.9058
+Diagnosed Prediabetes,At risk,Obese,40-44,Other Race Including Multi Racial,Male,4,98452,5.339
+Diagnosed Prediabetes,At risk,Obese,40-44,Other Race Including Multi Racial,Female,1,29192,1.583
+Diagnosed Prediabetes,At risk,Obese,40-44,Other Race Including Multi Racial,,5,127644,6.922
+Diagnosed Prediabetes,At risk,Obese,40-44,,Male,16,598286,32.4445
+Diagnosed Prediabetes,At risk,Obese,40-44,,Female,24,1245744,67.5555
+Diagnosed Prediabetes,At risk,Obese,40-44,,,40,1844030,100
+Diagnosed Prediabetes,At risk,Obese,45-49,Mexican American,Male,2,83944,5.5461
+Diagnosed Prediabetes,At risk,Obese,45-49,Mexican American,Female,3,64795,4.281
+Diagnosed Prediabetes,At risk,Obese,45-49,Mexican American,,5,148739,9.8271
+Diagnosed Prediabetes,At risk,Obese,45-49,Other Hispanic,Male,1,30979,2.0468
+Diagnosed Prediabetes,At risk,Obese,45-49,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,At risk,Obese,45-49,Other Hispanic,,1,30979,2.0468
+Diagnosed Prediabetes,At risk,Obese,45-49,NonHispanic White,Male,8,701189,46.3275
+Diagnosed Prediabetes,At risk,Obese,45-49,NonHispanic White,Female,6,388728,25.6832
+Diagnosed Prediabetes,At risk,Obese,45-49,NonHispanic White,,14,1089917,72.0107
+Diagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Black,Male,2,46802,3.0922
+Diagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Black,Female,2,47849,3.1614
+Diagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Black,,4,94650,6.2535
+Diagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Asian,Male,4,79593,5.2587
+Diagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Asian,Female,2,45432,3.0017
+Diagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Asian,,6,125025,8.2604
+Diagnosed Prediabetes,At risk,Obese,45-49,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,At risk,Obese,45-49,Other Race Including Multi Racial,Female,1,24238,1.6014
+Diagnosed Prediabetes,At risk,Obese,45-49,Other Race Including Multi Racial,,1,24238,1.6014
+Diagnosed Prediabetes,At risk,Obese,45-49,,Male,17,942507,62.2713
+Diagnosed Prediabetes,At risk,Obese,45-49,,Female,14,571042,37.7287
+Diagnosed Prediabetes,At risk,Obese,45-49,,,31,1513549,100
+Diagnosed Prediabetes,At risk,Obese,50-54,Mexican American,Male,4,101383,4.7473
+Diagnosed Prediabetes,At risk,Obese,50-54,Mexican American,Female,6,114565,5.3645
+Diagnosed Prediabetes,At risk,Obese,50-54,Mexican American,,10,215947,10.1119
+Diagnosed Prediabetes,At risk,Obese,50-54,Other Hispanic,Male,5,109035,5.1056
+Diagnosed Prediabetes,At risk,Obese,50-54,Other Hispanic,Female,4,54150,2.5356
+Diagnosed Prediabetes,At risk,Obese,50-54,Other Hispanic,,9,163185,7.6412
+Diagnosed Prediabetes,At risk,Obese,50-54,NonHispanic White,Male,6,747372,34.9961
+Diagnosed Prediabetes,At risk,Obese,50-54,NonHispanic White,Female,7,765304,35.8358
+Diagnosed Prediabetes,At risk,Obese,50-54,NonHispanic White,,13,1512676,70.8319
+Diagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Black,Male,4,87499,4.0972
+Diagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Black,Female,4,89010,4.1679
+Diagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Black,,8,176508,8.2651
+Diagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Asian,Male,2,31020,1.4525
+Diagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Asian,Female,0,,
+Diagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Asian,,2,31020,1.4525
+Diagnosed Prediabetes,At risk,Obese,50-54,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,At risk,Obese,50-54,Other Race Including Multi Racial,Female,1,36250,1.6974
+Diagnosed Prediabetes,At risk,Obese,50-54,Other Race Including Multi Racial,,1,36250,1.6974
+Diagnosed Prediabetes,At risk,Obese,50-54,,Male,21,1076308,50.3987
+Diagnosed Prediabetes,At risk,Obese,50-54,,Female,22,1059278,49.6013
+Diagnosed Prediabetes,At risk,Obese,50-54,,,43,2135586,100
+Diagnosed Prediabetes,At risk,Obese,55-59,Mexican American,Male,4,87612,3.2237
+Diagnosed Prediabetes,At risk,Obese,55-59,Mexican American,Female,6,95486,3.5134
+Diagnosed Prediabetes,At risk,Obese,55-59,Mexican American,,10,183098,6.7371
+Diagnosed Prediabetes,At risk,Obese,55-59,Other Hispanic,Male,2,38146,1.4036
+Diagnosed Prediabetes,At risk,Obese,55-59,Other Hispanic,Female,5,86031,3.1655
+Diagnosed Prediabetes,At risk,Obese,55-59,Other Hispanic,,7,124177,4.5691
+Diagnosed Prediabetes,At risk,Obese,55-59,NonHispanic White,Male,9,703042,25.8683
+Diagnosed Prediabetes,At risk,Obese,55-59,NonHispanic White,Female,11,1410016,51.8813
+Diagnosed Prediabetes,At risk,Obese,55-59,NonHispanic White,,20,2113058,77.7496
+Diagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Black,Male,6,145841,5.3662
+Diagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Black,Female,4,101743,3.7436
+Diagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Black,,10,247584,9.1098
+Diagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Asian,Male,2,32061,1.1797
+Diagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Asian,Female,0,,
+Diagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Asian,,2,32061,1.1797
+Diagnosed Prediabetes,At risk,Obese,55-59,Other Race Including Multi Racial,Male,1,17796,0.6548
+Diagnosed Prediabetes,At risk,Obese,55-59,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,At risk,Obese,55-59,Other Race Including Multi Racial,,1,17796,0.6548
+Diagnosed Prediabetes,At risk,Obese,55-59,,Male,24,1024497,37.6962
+Diagnosed Prediabetes,At risk,Obese,55-59,,Female,26,1693277,62.3038
+Diagnosed Prediabetes,At risk,Obese,55-59,,,50,2717773,100
+Diagnosed Prediabetes,At risk,Obese,60-64,Mexican American,Male,3,26885,1.6734
+Diagnosed Prediabetes,At risk,Obese,60-64,Mexican American,Female,8,78265,4.8714
+Diagnosed Prediabetes,At risk,Obese,60-64,Mexican American,,11,105150,6.5448
+Diagnosed Prediabetes,At risk,Obese,60-64,Other Hispanic,Male,4,39149,2.4367
+Diagnosed Prediabetes,At risk,Obese,60-64,Other Hispanic,Female,5,45161,2.811
+Diagnosed Prediabetes,At risk,Obese,60-64,Other Hispanic,,9,84310,5.2477
+Diagnosed Prediabetes,At risk,Obese,60-64,NonHispanic White,Male,6,622698,38.7584
+Diagnosed Prediabetes,At risk,Obese,60-64,NonHispanic White,Female,5,596112,37.1036
+Diagnosed Prediabetes,At risk,Obese,60-64,NonHispanic White,,11,1218810,75.8619
+Diagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Black,Male,3,37738,2.3489
+Diagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Black,Female,6,123341,7.6771
+Diagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Black,,9,161079,10.026
+Diagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Asian,Female,1,16375,1.0192
+Diagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Asian,,1,16375,1.0192
+Diagnosed Prediabetes,At risk,Obese,60-64,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,At risk,Obese,60-64,Other Race Including Multi Racial,Female,1,20892,1.3004
+Diagnosed Prediabetes,At risk,Obese,60-64,Other Race Including Multi Racial,,1,20892,1.3004
+Diagnosed Prediabetes,At risk,Obese,60-64,,Male,16,726469,45.2173
+Diagnosed Prediabetes,At risk,Obese,60-64,,Female,26,880147,54.7827
+Diagnosed Prediabetes,At risk,Obese,60-64,,,42,1606616,100
+Diagnosed Prediabetes,Not at risk,Obese,65-70,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Obese,65-70,Mexican American,Female,5,48489,2.1589
+Diagnosed Prediabetes,Not at risk,Obese,65-70,Mexican American,,5,48489,2.1589
+Diagnosed Prediabetes,Not at risk,Obese,65-70,Other Hispanic,Male,4,33844,1.5069
+Diagnosed Prediabetes,Not at risk,Obese,65-70,Other Hispanic,Female,9,83217,3.7051
+Diagnosed Prediabetes,Not at risk,Obese,65-70,Other Hispanic,,13,117061,5.212
+Diagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic White,Male,6,364881,16.2458
+Diagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic White,Female,10,1151306,51.2602
+Diagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic White,,16,1516187,67.506
+Diagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Black,Male,4,50833,2.2632
+Diagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Black,Female,6,127859,5.6927
+Diagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Black,,10,178692,7.956
+Diagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Asian,Male,1,22090,0.9835
+Diagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Asian,Female,4,86134,3.835
+Diagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Asian,,5,108224,4.8185
+Diagnosed Prediabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,Male,1,130600,5.8148
+Diagnosed Prediabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,Female,1,146751,6.5339
+Diagnosed Prediabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,,2,277352,12.3487
+Diagnosed Prediabetes,Not at risk,Obese,65-70,,Male,16,602248,26.8142
+Diagnosed Prediabetes,Not at risk,Obese,65-70,,Female,35,1643756,73.1858
+Diagnosed Prediabetes,Not at risk,Obese,65-70,,,51,2246004,100
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,Mexican American,Male,2,23421,1.0071
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,Mexican American,Female,7,95967,4.1267
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,Mexican American,,9,119388,5.1339
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,Other Hispanic,Male,1,6119,0.2631
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,Other Hispanic,Female,6,64916,2.7915
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,Other Hispanic,,7,71035,3.0546
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic White,Male,14,667725,28.7133
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic White,Female,16,1105173,47.5243
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic White,,30,1772898,76.2375
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Black,Male,4,55390,2.3819
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Black,Female,8,149333,6.4216
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Black,,12,204723,8.8034
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Asian,Male,1,19843,0.8533
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Asian,Female,3,64619,2.7787
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Asian,,4,84463,3.632
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Male,1,14380,0.6184
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Female,2,58606,2.5202
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,,3,72986,3.1385
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,,Male,23,786878,33.837
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,,Female,42,1538615,66.163
+Diagnosed Prediabetes,Not at risk,Obese,Over 70,,,65,2325493,100
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Hispanic,Male,1,48209,6.332
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Hispanic,Female,2,58098,7.631
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Hispanic,,3,106307,13.963
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic White,Male,1,170718,22.4232
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic White,Female,4,359433,47.2103
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic White,,5,530151,69.6335
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Black,Male,1,23366,3.069
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Black,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Black,,1,23366,3.069
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Asian,Female,4,85758,11.264
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Asian,,4,85758,11.264
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,Male,1,15763,2.0704
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,,1,15763,2.0704
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,,Male,4,258056,33.8947
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,,Female,10,503288,66.1053
+Diagnosed Prediabetes,Not at risk,Overwweight,Under 40,,,14,761344,100
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,Mexican American,Female,2,71595,35.9727
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,Mexican American,,2,71595,35.9727
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Hispanic,Female,1,22276,11.1927
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Hispanic,,1,22276,11.1927
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic White,Male,1,36375,18.2767
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic White,,1,36375,18.2767
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Black,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Black,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Black,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Asian,Male,2,44535,22.3766
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Asian,Female,1,24244,12.1813
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Asian,,3,68779,34.5579
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,,Male,3,80910,40.6534
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,,Female,4,118115,59.3466
+Diagnosed Prediabetes,Not at risk,Overwweight,40-44,,,7,199025,100
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Hispanic,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic White,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic White,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Black,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Black,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Black,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,Female,1,15422,100
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,,1,15422,100
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,,Female,1,15422,100
+Diagnosed Prediabetes,Not at risk,Overwweight,45-49,,,1,15422,100
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Hispanic,Female,1,14229,4.4327
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Hispanic,,1,14229,4.4327
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic White,Male,2,184173,57.3745
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic White,Female,1,44897,13.9866
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic White,,3,229070,71.3611
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Black,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Black,Female,1,28874,8.9951
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Black,,1,28874,8.9951
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,Female,2,48828,15.2111
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,,2,48828,15.2111
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,,Male,2,184173,57.3745
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,,Female,5,136829,42.6255
+Diagnosed Prediabetes,Not at risk,Overwweight,50-54,,,7,321002,100
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Hispanic,Male,1,25961,7.5958
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Hispanic,,1,25961,7.5958
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic White,Male,2,126060,36.8838
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic White,,2,126060,36.8838
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Black,Male,2,50902,14.8935
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Black,Female,1,34523,10.1012
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Black,,3,85426,24.9947
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,Male,2,40554,11.8657
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,Female,1,24382,7.1338
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,,3,64936,18.9995
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Male,1,19694,5.7621
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Female,1,19700,5.7641
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,,2,39394,11.5262
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,,Male,8,263170,77.0009
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,,Female,3,78605,22.9991
+Diagnosed Prediabetes,Not at risk,Overwweight,55-59,,,11,341775,100
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Hispanic,Male,1,7285,1.8701
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Hispanic,,1,7285,1.8701
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic White,Male,1,134254,34.4624
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic White,Female,1,45992,11.8059
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic White,,2,180246,46.2682
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Black,Male,2,21482,5.5144
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Black,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Black,,2,21482,5.5144
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,Male,1,23058,5.9189
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,,1,23058,5.9189
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Female,1,157496,40.4283
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,,1,157496,40.4283
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,,Male,5,186080,47.7658
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,,Female,2,203488,52.2342
+Diagnosed Prediabetes,Not at risk,Overwweight,60-64,,,7,389568,100
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,Mexican American,Male,1,11757,4.0716
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,Mexican American,,1,11757,4.0716
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Hispanic,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic White,Male,1,185427,64.2171
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic White,Female,1,35383,12.2539
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic White,,2,220810,76.471
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Black,Male,1,15021,5.202
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Black,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Black,,1,15021,5.202
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,Female,2,41163,14.2554
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,,2,41163,14.2554
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,,Male,3,212204,73.4907
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,,Female,3,76546,26.5093
+Diagnosed Prediabetes,Not at risk,Overwweight,65-70,,,6,288750,100
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,Mexican American,Male,2,22712,6.0468
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,Mexican American,,2,22712,6.0468
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Hispanic,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic White,Male,4,115013,30.6212
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic White,Female,2,173182,46.1082
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic White,,6,288195,76.7294
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,Female,1,23381,6.225
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,,1,23381,6.225
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,Male,1,19345,5.1505
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,Female,1,21966,5.8483
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,,2,41311,10.9988
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,,Male,7,157070,41.8185
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,,Female,4,218529,58.1815
+Diagnosed Prediabetes,Not at risk,Overwweight,Over 70,,,11,375599,100
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,Mexican American,Male,1,16210,15.7745
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,Mexican American,Female,1,32736,31.8565
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,Mexican American,,2,48946,47.631
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Hispanic,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic White,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic White,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Black,Male,1,8831,8.5937
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Black,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Black,,1,8831,8.5937
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Asian,Female,2,44984,43.7752
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Asian,,2,44984,43.7752
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,,Male,2,25041,24.3683
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,,Female,3,77719,75.6317
+Diagnosed Prediabetes,Not at risk,Healthy,Under 40,,,5,102760,100
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,Other Hispanic,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic White,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic White,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Black,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Black,Female,1,22313,32.8787
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Black,,1,22313,32.8787
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Asian,Female,2,45552,67.1213
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Asian,,2,45552,67.1213
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,,Female,3,67866,100
+Diagnosed Prediabetes,Not at risk,Healthy,40-44,,,3,67866,100
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,Other Hispanic,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic White,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic White,Female,2,247594,92.5921
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic White,,2,247594,92.5921
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Black,Male,1,19809,7.4079
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Black,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Black,,1,19809,7.4079
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Asian,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Asian,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,,Male,1,19809,7.4079
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,,Female,2,247594,92.5921
+Diagnosed Prediabetes,Not at risk,Healthy,45-49,,,3,267403,100
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,Other Hispanic,Female,1,18990,31.9081
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,Other Hispanic,,1,18990,31.9081
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic White,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic White,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Black,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Black,Female,1,21271,35.7395
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Black,,1,21271,35.7395
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Asian,Female,1,19255,32.3524
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Asian,,1,19255,32.3524
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,,Female,3,59516,100
+Diagnosed Prediabetes,Not at risk,Healthy,50-54,,,3,59516,100
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,Other Hispanic,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic White,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic White,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Black,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Black,Female,1,26702,100
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Black,,1,26702,100
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Asian,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Asian,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,,Female,1,26702,100
+Diagnosed Prediabetes,Not at risk,Healthy,55-59,,,1,26702,100
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,Other Hispanic,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic White,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic White,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Black,Male,1,16147,100
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Black,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Black,,1,16147,100
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Asian,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Asian,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,,Male,1,16147,100
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,60-64,,,1,16147,100
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,Other Hispanic,Female,1,7873,28.0652
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,Other Hispanic,,1,7873,28.0652
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic White,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic White,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Black,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Black,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Black,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Asian,Male,1,20179,71.9348
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Asian,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Asian,,1,20179,71.9348
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,,Male,1,20179,71.9348
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,,Female,1,7873,28.0652
+Diagnosed Prediabetes,Not at risk,Healthy,65-70,,,2,28052,100
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,Mexican American,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,Mexican American,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,Mexican American,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Hispanic,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Hispanic,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Hispanic,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic White,Male,1,20281,49.5143
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic White,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic White,,1,20281,49.5143
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Black,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Black,Female,1,20679,50.4857
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Black,,1,20679,50.4857
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Male,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Female,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,,0,,
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,,Male,1,20281,49.5143
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,,Female,1,20679,50.4857
+Diagnosed Prediabetes,Not at risk,Healthy,Over 70,,,2,40961,100
+Undiagnosed Diabetes,At risk,Obese,Under 40,Mexican American,Male,4,111746,20.172
+Undiagnosed Diabetes,At risk,Obese,Under 40,Mexican American,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,Under 40,Mexican American,,4,111746,20.172
+Undiagnosed Diabetes,At risk,Obese,Under 40,Other Hispanic,Male,1,27745,5.0084
+Undiagnosed Diabetes,At risk,Obese,Under 40,Other Hispanic,Female,1,31441,5.6756
+Undiagnosed Diabetes,At risk,Obese,Under 40,Other Hispanic,,2,59186,10.684
+Undiagnosed Diabetes,At risk,Obese,Under 40,NonHispanic White,Male,1,44758,8.0795
+Undiagnosed Diabetes,At risk,Obese,Under 40,NonHispanic White,Female,1,111468,20.1217
+Undiagnosed Diabetes,At risk,Obese,Under 40,NonHispanic White,,2,156226,28.2012
+Undiagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Black,Male,2,53982,9.7446
+Undiagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Black,Female,5,129542,23.3844
+Undiagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Black,,7,183524,33.129
+Undiagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Asian,Male,1,24664,4.4522
+Undiagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Asian,Female,1,18623,3.3617
+Undiagnosed Diabetes,At risk,Obese,Under 40,NonHispanic Asian,,2,43286,7.8139
+Undiagnosed Diabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,At risk,Obese,Under 40,,Male,9,262895,47.4567
+Undiagnosed Diabetes,At risk,Obese,Under 40,,Female,8,291073,52.5433
+Undiagnosed Diabetes,At risk,Obese,Under 40,,,17,553969,100
+Undiagnosed Diabetes,At risk,Obese,40-44,Mexican American,Male,1,35119,7.2323
+Undiagnosed Diabetes,At risk,Obese,40-44,Mexican American,Female,1,21073,4.3397
+Undiagnosed Diabetes,At risk,Obese,40-44,Mexican American,,2,56192,11.572
+Undiagnosed Diabetes,At risk,Obese,40-44,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,40-44,Other Hispanic,Female,2,46847,9.6475
+Undiagnosed Diabetes,At risk,Obese,40-44,Other Hispanic,,2,46847,9.6475
+Undiagnosed Diabetes,At risk,Obese,40-44,NonHispanic White,Male,1,126793,26.1114
+Undiagnosed Diabetes,At risk,Obese,40-44,NonHispanic White,Female,1,28601,5.8901
+Undiagnosed Diabetes,At risk,Obese,40-44,NonHispanic White,,2,155394,32.0014
+Undiagnosed Diabetes,At risk,Obese,40-44,NonHispanic Black,Male,5,125062,25.7548
+Undiagnosed Diabetes,At risk,Obese,40-44,NonHispanic Black,Female,4,79312,16.3332
+Undiagnosed Diabetes,At risk,Obese,40-44,NonHispanic Black,,9,204373,42.088
+Undiagnosed Diabetes,At risk,Obese,40-44,NonHispanic Asian,Male,1,22779,4.6911
+Undiagnosed Diabetes,At risk,Obese,40-44,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,40-44,NonHispanic Asian,,1,22779,4.6911
+Undiagnosed Diabetes,At risk,Obese,40-44,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,40-44,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,40-44,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,At risk,Obese,40-44,,Male,8,309753,63.7895
+Undiagnosed Diabetes,At risk,Obese,40-44,,Female,8,175833,36.2105
+Undiagnosed Diabetes,At risk,Obese,40-44,,,16,485586,100
+Undiagnosed Diabetes,At risk,Obese,45-49,Mexican American,Male,2,57380,13.7094
+Undiagnosed Diabetes,At risk,Obese,45-49,Mexican American,Female,2,49866,11.9142
+Undiagnosed Diabetes,At risk,Obese,45-49,Mexican American,,4,107246,25.6236
+Undiagnosed Diabetes,At risk,Obese,45-49,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,45-49,Other Hispanic,Female,1,21429,5.12
+Undiagnosed Diabetes,At risk,Obese,45-49,Other Hispanic,,1,21429,5.12
+Undiagnosed Diabetes,At risk,Obese,45-49,NonHispanic White,Male,1,47080,11.2485
+Undiagnosed Diabetes,At risk,Obese,45-49,NonHispanic White,Female,1,117609,28.0995
+Undiagnosed Diabetes,At risk,Obese,45-49,NonHispanic White,,2,164689,39.3481
+Undiagnosed Diabetes,At risk,Obese,45-49,NonHispanic Black,Male,1,21834,5.2166
+Undiagnosed Diabetes,At risk,Obese,45-49,NonHispanic Black,Female,4,80522,19.2386
+Undiagnosed Diabetes,At risk,Obese,45-49,NonHispanic Black,,5,102356,24.4551
+Undiagnosed Diabetes,At risk,Obese,45-49,NonHispanic Asian,Male,1,22824,5.4532
+Undiagnosed Diabetes,At risk,Obese,45-49,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,45-49,NonHispanic Asian,,1,22824,5.4532
+Undiagnosed Diabetes,At risk,Obese,45-49,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,45-49,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,45-49,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,At risk,Obese,45-49,,Male,5,149118,35.6277
+Undiagnosed Diabetes,At risk,Obese,45-49,,Female,8,269427,64.3723
+Undiagnosed Diabetes,At risk,Obese,45-49,,,13,418544,100
+Undiagnosed Diabetes,At risk,Obese,50-54,Mexican American,Male,2,71104,13.0005
+Undiagnosed Diabetes,At risk,Obese,50-54,Mexican American,Female,3,49225,9.0003
+Undiagnosed Diabetes,At risk,Obese,50-54,Mexican American,,5,120329,22.0008
+Undiagnosed Diabetes,At risk,Obese,50-54,Other Hispanic,Male,1,24573,4.4929
+Undiagnosed Diabetes,At risk,Obese,50-54,Other Hispanic,Female,1,12511,2.2875
+Undiagnosed Diabetes,At risk,Obese,50-54,Other Hispanic,,2,37084,6.7804
+Undiagnosed Diabetes,At risk,Obese,50-54,NonHispanic White,Male,1,146672,26.8174
+Undiagnosed Diabetes,At risk,Obese,50-54,NonHispanic White,Female,1,126323,23.0968
+Undiagnosed Diabetes,At risk,Obese,50-54,NonHispanic White,,2,272995,49.9142
+Undiagnosed Diabetes,At risk,Obese,50-54,NonHispanic Black,Male,2,46248,8.4559
+Undiagnosed Diabetes,At risk,Obese,50-54,NonHispanic Black,Female,2,57156,10.4503
+Undiagnosed Diabetes,At risk,Obese,50-54,NonHispanic Black,,4,103403,18.9062
+Undiagnosed Diabetes,At risk,Obese,50-54,NonHispanic Asian,Male,1,13118,2.3984
+Undiagnosed Diabetes,At risk,Obese,50-54,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,50-54,NonHispanic Asian,,1,13118,2.3984
+Undiagnosed Diabetes,At risk,Obese,50-54,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,50-54,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,50-54,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,At risk,Obese,50-54,,Male,7,301714,55.1652
+Undiagnosed Diabetes,At risk,Obese,50-54,,Female,7,245215,44.8348
+Undiagnosed Diabetes,At risk,Obese,50-54,,,14,546929,100
+Undiagnosed Diabetes,At risk,Obese,55-59,Mexican American,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,55-59,Mexican American,Female,1,18471,3.4348
+Undiagnosed Diabetes,At risk,Obese,55-59,Mexican American,,1,18471,3.4348
+Undiagnosed Diabetes,At risk,Obese,55-59,Other Hispanic,Male,3,79699,14.8202
+Undiagnosed Diabetes,At risk,Obese,55-59,Other Hispanic,Female,1,18419,3.4251
+Undiagnosed Diabetes,At risk,Obese,55-59,Other Hispanic,,4,98118,18.2454
+Undiagnosed Diabetes,At risk,Obese,55-59,NonHispanic White,Male,1,177064,32.9255
+Undiagnosed Diabetes,At risk,Obese,55-59,NonHispanic White,Female,1,162305,30.1811
+Undiagnosed Diabetes,At risk,Obese,55-59,NonHispanic White,,2,339369,63.1066
+Undiagnosed Diabetes,At risk,Obese,55-59,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,55-59,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,55-59,NonHispanic Black,,0,,
+Undiagnosed Diabetes,At risk,Obese,55-59,NonHispanic Asian,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,55-59,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,55-59,NonHispanic Asian,,0,,
+Undiagnosed Diabetes,At risk,Obese,55-59,Other Race Including Multi Racial,Male,2,61307,11.4002
+Undiagnosed Diabetes,At risk,Obese,55-59,Other Race Including Multi Racial,Female,1,20505,3.813
+Undiagnosed Diabetes,At risk,Obese,55-59,Other Race Including Multi Racial,,3,81812,15.2132
+Undiagnosed Diabetes,At risk,Obese,55-59,,Male,6,318070,59.146
+Undiagnosed Diabetes,At risk,Obese,55-59,,Female,4,219701,40.854
+Undiagnosed Diabetes,At risk,Obese,55-59,,,10,537771,100
+Undiagnosed Diabetes,At risk,Obese,60-64,Mexican American,Male,2,16209,3.5466
+Undiagnosed Diabetes,At risk,Obese,60-64,Mexican American,Female,3,25306,5.5371
+Undiagnosed Diabetes,At risk,Obese,60-64,Mexican American,,5,41515,9.0838
+Undiagnosed Diabetes,At risk,Obese,60-64,Other Hispanic,Male,1,10240,2.2406
+Undiagnosed Diabetes,At risk,Obese,60-64,Other Hispanic,Female,1,7354,1.609
+Undiagnosed Diabetes,At risk,Obese,60-64,Other Hispanic,,2,17594,3.8496
+Undiagnosed Diabetes,At risk,Obese,60-64,NonHispanic White,Male,1,116270,25.4406
+Undiagnosed Diabetes,At risk,Obese,60-64,NonHispanic White,Female,1,116658,25.5255
+Undiagnosed Diabetes,At risk,Obese,60-64,NonHispanic White,,2,232928,50.9661
+Undiagnosed Diabetes,At risk,Obese,60-64,NonHispanic Black,Male,3,32110,7.0258
+Undiagnosed Diabetes,At risk,Obese,60-64,NonHispanic Black,Female,6,116006,25.3829
+Undiagnosed Diabetes,At risk,Obese,60-64,NonHispanic Black,,9,148116,32.4087
+Undiagnosed Diabetes,At risk,Obese,60-64,NonHispanic Asian,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,60-64,NonHispanic Asian,Female,1,16873,3.6918
+Undiagnosed Diabetes,At risk,Obese,60-64,NonHispanic Asian,,1,16873,3.6918
+Undiagnosed Diabetes,At risk,Obese,60-64,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,At risk,Obese,60-64,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,At risk,Obese,60-64,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,At risk,Obese,60-64,,Male,7,174829,38.2536
+Undiagnosed Diabetes,At risk,Obese,60-64,,Female,12,282197,61.7464
+Undiagnosed Diabetes,At risk,Obese,60-64,,,19,457026,100
+Undiagnosed Diabetes,Not at risk,Obese,65-70,Mexican American,Male,2,22392,8.9907
+Undiagnosed Diabetes,Not at risk,Obese,65-70,Mexican American,Female,4,39795,15.9781
+Undiagnosed Diabetes,Not at risk,Obese,65-70,Mexican American,,6,62188,24.9688
+Undiagnosed Diabetes,Not at risk,Obese,65-70,Other Hispanic,Male,1,8156,3.2748
+Undiagnosed Diabetes,Not at risk,Obese,65-70,Other Hispanic,Female,0,,
+Undiagnosed Diabetes,Not at risk,Obese,65-70,Other Hispanic,,1,8156,3.2748
+Undiagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic White,Male,1,25409,10.2018
+Undiagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic White,Female,1,123255,49.4879
+Undiagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic White,,2,148664,59.6898
+Undiagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Black,Male,1,11947,4.7969
+Undiagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Black,,1,11947,4.7969
+Undiagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Asian,Male,0,,
+Undiagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Asian,Female,1,18106,7.2697
+Undiagnosed Diabetes,Not at risk,Obese,65-70,NonHispanic Asian,,1,18106,7.2697
+Undiagnosed Diabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Obese,65-70,,Male,5,67905,27.2642
+Undiagnosed Diabetes,Not at risk,Obese,65-70,,Female,6,181156,72.7358
+Undiagnosed Diabetes,Not at risk,Obese,65-70,,,11,249061,100
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,Mexican American,Female,2,27842,6.3997
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,Mexican American,,2,27842,6.3997
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,Other Hispanic,Female,3,32102,7.3791
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,Other Hispanic,,3,32102,7.3791
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic White,Male,4,103190,23.7193
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic White,Female,2,109700,25.2157
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic White,,6,212889,48.9349
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Black,Male,2,30106,6.9203
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Black,Female,1,16902,3.8851
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Black,,3,47008,10.8053
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Asian,Male,2,39192,9.0087
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Asian,Female,1,24876,5.718
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,NonHispanic Asian,,3,64068,14.7267
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Female,1,51136,11.7542
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,,1,51136,11.7542
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,,Male,8,172488,39.6483
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,,Female,10,262558,60.3517
+Undiagnosed Diabetes,Not at risk,Obese,Over 70,,,18,435046,100
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,Mexican American,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,Mexican American,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,Other Hispanic,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,Other Hispanic,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic White,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic White,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic White,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Black,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,Female,1,16287,100
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,,1,16287,100
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,,Female,1,16287,100
+Undiagnosed Diabetes,Not at risk,Overwweight,45-49,,,1,16287,100
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,Mexican American,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,Mexican American,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,Other Hispanic,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,Other Hispanic,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic White,Male,1,37981,100
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic White,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic White,,1,37981,100
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Black,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,,Male,1,37981,100
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,50-54,,,1,37981,100
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,Mexican American,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,Mexican American,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,Other Hispanic,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,Other Hispanic,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic White,Male,1,32402,70.6433
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic White,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic White,,1,32402,70.6433
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Black,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,Male,1,13465,29.3567
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,,1,13465,29.3567
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,,Male,2,45867,100
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,55-59,,,2,45867,100
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,Mexican American,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,Mexican American,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,Other Hispanic,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,Other Hispanic,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic White,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic White,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic White,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Black,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,Male,1,20837,100
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,,1,20837,100
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,,Male,1,20837,100
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,60-64,,,1,20837,100
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,Mexican American,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,Mexican American,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,Other Hispanic,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,Other Hispanic,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic White,Male,1,19559,20.532
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic White,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic White,,1,19559,20.532
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Black,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,Male,2,49918,52.4007
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,Female,1,25785,27.0672
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,,3,75703,79.468
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,,Male,3,69477,72.9328
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,,Female,1,25785,27.0672
+Undiagnosed Diabetes,Not at risk,Overwweight,65-70,,,4,95262,100
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,Mexican American,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,Mexican American,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Hispanic,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Hispanic,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic White,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic White,Female,2,98268,100
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic White,,2,98268,100
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,,Male,0,,
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,,Female,2,98268,100
+Undiagnosed Diabetes,Not at risk,Overwweight,Over 70,,,2,98268,100
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,Mexican American,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,Mexican American,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,Other Hispanic,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,Other Hispanic,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic White,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic White,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic White,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Black,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Asian,Male,1,21948,100
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,NonHispanic Asian,,1,21948,100
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,,Male,1,21948,100
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,60-64,,,1,21948,100
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,Mexican American,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,Mexican American,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,Other Hispanic,Female,1,8074,29.3677
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,Other Hispanic,,1,8074,29.3677
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic White,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic White,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic White,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Black,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Asian,Male,1,19418,70.6323
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,NonHispanic Asian,,1,19418,70.6323
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,,Male,1,19418,70.6323
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,,Female,1,8074,29.3677
+Undiagnosed Diabetes,Not at risk,Healthy,65-70,,,2,27492,100
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,Mexican American,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,Mexican American,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,Mexican American,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,Other Hispanic,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,Other Hispanic,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,Other Hispanic,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic White,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic White,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic White,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Black,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Black,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Black,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,Male,1,17927,100
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,,1,17927,100
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,,Male,1,17927,100
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,,Female,0,,
+Undiagnosed Diabetes,Not at risk,Healthy,Over 70,,,1,17927,100
+Undiagnosed Prediabetes,At risk,Obese,Under 40,Mexican American,Male,33,1043754,14.8605
+Undiagnosed Prediabetes,At risk,Obese,Under 40,Mexican American,Female,31,734709,10.4604
+Undiagnosed Prediabetes,At risk,Obese,Under 40,Mexican American,,64,1778463,25.3209
+Undiagnosed Prediabetes,At risk,Obese,Under 40,Other Hispanic,Male,14,385160,5.4837
+Undiagnosed Prediabetes,At risk,Obese,Under 40,Other Hispanic,Female,17,488742,6.9585
+Undiagnosed Prediabetes,At risk,Obese,Under 40,Other Hispanic,,31,873902,12.4422
+Undiagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic White,Male,16,1328045,18.9081
+Undiagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic White,Female,12,797797,11.3586
+Undiagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic White,,28,2125842,30.2667
+Undiagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Black,Male,42,973039,13.8537
+Undiagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Black,Female,31,766675,10.9155
+Undiagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Black,,73,1739714,24.7692
+Undiagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Asian,Male,9,163590,2.3291
+Undiagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Asian,Female,6,143541,2.0437
+Undiagnosed Prediabetes,At risk,Obese,Under 40,NonHispanic Asian,,15,307131,4.3728
+Undiagnosed Prediabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,Male,3,90615,1.2901
+Undiagnosed Prediabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,Female,5,108032,1.5381
+Undiagnosed Prediabetes,At risk,Obese,Under 40,Other Race Including Multi Racial,,8,198647,2.8282
+Undiagnosed Prediabetes,At risk,Obese,Under 40,,Male,117,3984202,56.7251
+Undiagnosed Prediabetes,At risk,Obese,Under 40,,Female,102,3039496,43.2749
+Undiagnosed Prediabetes,At risk,Obese,Under 40,,,219,7023698,100
+Undiagnosed Prediabetes,At risk,Obese,40-44,Mexican American,Male,6,200961,10.3195
+Undiagnosed Prediabetes,At risk,Obese,40-44,Mexican American,Female,9,190048,9.7591
+Undiagnosed Prediabetes,At risk,Obese,40-44,Mexican American,,15,391009,20.0785
+Undiagnosed Prediabetes,At risk,Obese,40-44,Other Hispanic,Male,7,269152,13.8211
+Undiagnosed Prediabetes,At risk,Obese,40-44,Other Hispanic,Female,2,51276,2.633
+Undiagnosed Prediabetes,At risk,Obese,40-44,Other Hispanic,,9,320428,16.4541
+Undiagnosed Prediabetes,At risk,Obese,40-44,NonHispanic White,Male,2,150588,7.7328
+Undiagnosed Prediabetes,At risk,Obese,40-44,NonHispanic White,Female,4,416008,21.3623
+Undiagnosed Prediabetes,At risk,Obese,40-44,NonHispanic White,,6,566597,29.095
+Undiagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Black,Male,10,233526,11.9917
+Undiagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Black,Female,13,266163,13.6676
+Undiagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Black,,23,499689,25.6593
+Undiagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Asian,Male,5,90399,4.642
+Undiagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Asian,Female,2,40681,2.089
+Undiagnosed Prediabetes,At risk,Obese,40-44,NonHispanic Asian,,7,131080,6.731
+Undiagnosed Prediabetes,At risk,Obese,40-44,Other Race Including Multi Racial,Male,2,38597,1.982
+Undiagnosed Prediabetes,At risk,Obese,40-44,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,At risk,Obese,40-44,Other Race Including Multi Racial,,2,38597,1.982
+Undiagnosed Prediabetes,At risk,Obese,40-44,,Male,32,983223,50.489
+Undiagnosed Prediabetes,At risk,Obese,40-44,,Female,30,964176,49.511
+Undiagnosed Prediabetes,At risk,Obese,40-44,,,62,1947399,100
+Undiagnosed Prediabetes,At risk,Obese,45-49,Mexican American,Male,8,271699,8.9088
+Undiagnosed Prediabetes,At risk,Obese,45-49,Mexican American,Female,8,223779,7.3375
+Undiagnosed Prediabetes,At risk,Obese,45-49,Mexican American,,16,495478,16.2464
+Undiagnosed Prediabetes,At risk,Obese,45-49,Other Hispanic,Male,3,103604,3.3971
+Undiagnosed Prediabetes,At risk,Obese,45-49,Other Hispanic,Female,4,83464,2.7367
+Undiagnosed Prediabetes,At risk,Obese,45-49,Other Hispanic,,7,187068,6.1338
+Undiagnosed Prediabetes,At risk,Obese,45-49,NonHispanic White,Male,10,799210,26.2055
+Undiagnosed Prediabetes,At risk,Obese,45-49,NonHispanic White,Female,8,802175,26.3027
+Undiagnosed Prediabetes,At risk,Obese,45-49,NonHispanic White,,18,1601385,52.5082
+Undiagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Black,Male,10,247992,8.1315
+Undiagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Black,Female,15,330749,10.845
+Undiagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Black,,25,578741,18.9765
+Undiagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Asian,Male,2,33760,1.107
+Undiagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Asian,Female,5,129548,4.2478
+Undiagnosed Prediabetes,At risk,Obese,45-49,NonHispanic Asian,,7,163309,5.3548
+Undiagnosed Prediabetes,At risk,Obese,45-49,Other Race Including Multi Racial,Male,1,23798,0.7803
+Undiagnosed Prediabetes,At risk,Obese,45-49,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,At risk,Obese,45-49,Other Race Including Multi Racial,,1,23798,0.7803
+Undiagnosed Prediabetes,At risk,Obese,45-49,,Male,34,1480064,48.5302
+Undiagnosed Prediabetes,At risk,Obese,45-49,,Female,40,1569714,51.4698
+Undiagnosed Prediabetes,At risk,Obese,45-49,,,74,3049779,100
+Undiagnosed Prediabetes,At risk,Obese,50-54,Mexican American,Male,7,181250,5.4471
+Undiagnosed Prediabetes,At risk,Obese,50-54,Mexican American,Female,12,187071,5.6221
+Undiagnosed Prediabetes,At risk,Obese,50-54,Mexican American,,19,368320,11.0692
+Undiagnosed Prediabetes,At risk,Obese,50-54,Other Hispanic,Male,5,114411,3.4384
+Undiagnosed Prediabetes,At risk,Obese,50-54,Other Hispanic,Female,8,129931,3.9049
+Undiagnosed Prediabetes,At risk,Obese,50-54,Other Hispanic,,13,244342,7.3433
+Undiagnosed Prediabetes,At risk,Obese,50-54,NonHispanic White,Male,8,781387,23.4832
+Undiagnosed Prediabetes,At risk,Obese,50-54,NonHispanic White,Female,11,819296,24.6224
+Undiagnosed Prediabetes,At risk,Obese,50-54,NonHispanic White,,19,1600683,48.1056
+Undiagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Black,Male,11,237467,7.1366
+Undiagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Black,Female,16,411473,12.3661
+Undiagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Black,,27,648940,19.5027
+Undiagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Asian,Male,5,64751,1.946
+Undiagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Asian,Female,3,69705,2.0949
+Undiagnosed Prediabetes,At risk,Obese,50-54,NonHispanic Asian,,8,134457,4.0408
+Undiagnosed Prediabetes,At risk,Obese,50-54,Other Race Including Multi Racial,Male,3,73426,2.2067
+Undiagnosed Prediabetes,At risk,Obese,50-54,Other Race Including Multi Racial,Female,2,257269,7.7317
+Undiagnosed Prediabetes,At risk,Obese,50-54,Other Race Including Multi Racial,,5,330694,9.9384
+Undiagnosed Prediabetes,At risk,Obese,50-54,,Male,39,1452692,43.658
+Undiagnosed Prediabetes,At risk,Obese,50-54,,Female,52,1874744,56.342
+Undiagnosed Prediabetes,At risk,Obese,50-54,,,91,3327437,100
+Undiagnosed Prediabetes,At risk,Obese,55-59,Mexican American,Male,7,186245,4.2824
+Undiagnosed Prediabetes,At risk,Obese,55-59,Mexican American,Female,10,162163,3.7287
+Undiagnosed Prediabetes,At risk,Obese,55-59,Mexican American,,17,348408,8.011
+Undiagnosed Prediabetes,At risk,Obese,55-59,Other Hispanic,Male,5,107209,2.4651
+Undiagnosed Prediabetes,At risk,Obese,55-59,Other Hispanic,Female,4,61596,1.4163
+Undiagnosed Prediabetes,At risk,Obese,55-59,Other Hispanic,,9,168805,3.8814
+Undiagnosed Prediabetes,At risk,Obese,55-59,NonHispanic White,Male,15,1485769,34.1626
+Undiagnosed Prediabetes,At risk,Obese,55-59,NonHispanic White,Female,15,1398971,32.1669
+Undiagnosed Prediabetes,At risk,Obese,55-59,NonHispanic White,,30,2884740,66.3295
+Undiagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Black,Male,14,314767,7.2375
+Undiagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Black,Female,15,363733,8.3634
+Undiagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Black,,29,678500,15.6009
+Undiagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Asian,Male,5,78497,1.8049
+Undiagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Asian,Female,2,45090,1.0368
+Undiagnosed Prediabetes,At risk,Obese,55-59,NonHispanic Asian,,7,123587,2.8417
+Undiagnosed Prediabetes,At risk,Obese,55-59,Other Race Including Multi Racial,Male,1,130693,3.0051
+Undiagnosed Prediabetes,At risk,Obese,55-59,Other Race Including Multi Racial,Female,1,14374,0.3305
+Undiagnosed Prediabetes,At risk,Obese,55-59,Other Race Including Multi Racial,,2,145066,3.3355
+Undiagnosed Prediabetes,At risk,Obese,55-59,,Male,47,2303179,52.9575
+Undiagnosed Prediabetes,At risk,Obese,55-59,,Female,47,2045926,47.0425
+Undiagnosed Prediabetes,At risk,Obese,55-59,,,94,4349105,100
+Undiagnosed Prediabetes,At risk,Obese,60-64,Mexican American,Male,12,107553,3.9405
+Undiagnosed Prediabetes,At risk,Obese,60-64,Mexican American,Female,17,162445,5.9517
+Undiagnosed Prediabetes,At risk,Obese,60-64,Mexican American,,29,269997,9.8922
+Undiagnosed Prediabetes,At risk,Obese,60-64,Other Hispanic,Male,13,105589,3.8686
+Undiagnosed Prediabetes,At risk,Obese,60-64,Other Hispanic,Female,6,55493,2.0332
+Undiagnosed Prediabetes,At risk,Obese,60-64,Other Hispanic,,19,161083,5.9018
+Undiagnosed Prediabetes,At risk,Obese,60-64,NonHispanic White,Male,6,665877,24.3965
+Undiagnosed Prediabetes,At risk,Obese,60-64,NonHispanic White,Female,12,1032395,37.825
+Undiagnosed Prediabetes,At risk,Obese,60-64,NonHispanic White,,18,1698272,62.2214
+Undiagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Black,Male,15,187074,6.854
+Undiagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Black,Female,12,273288,10.0128
+Undiagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Black,,27,460363,16.8668
+Undiagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Asian,Male,2,37184,1.3623
+Undiagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Asian,Female,1,25657,0.94
+Undiagnosed Prediabetes,At risk,Obese,60-64,NonHispanic Asian,,3,62840,2.3024
+Undiagnosed Prediabetes,At risk,Obese,60-64,Other Race Including Multi Racial,Male,1,9396,0.3443
+Undiagnosed Prediabetes,At risk,Obese,60-64,Other Race Including Multi Racial,Female,2,67450,2.4712
+Undiagnosed Prediabetes,At risk,Obese,60-64,Other Race Including Multi Racial,,3,76846,2.8155
+Undiagnosed Prediabetes,At risk,Obese,60-64,,Male,49,1112673,40.7662
+Undiagnosed Prediabetes,At risk,Obese,60-64,,Female,50,1616728,59.2338
+Undiagnosed Prediabetes,At risk,Obese,60-64,,,99,2729401,100
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,Mexican American,Male,3,28060,0.7689
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,Mexican American,Female,13,125244,3.432
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,Mexican American,,16,153304,4.2009
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,Other Hispanic,Male,9,88364,2.4214
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,Other Hispanic,Female,12,98900,2.7101
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,Other Hispanic,,21,187264,5.1315
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic White,Male,13,970039,26.5816
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic White,Female,17,1653892,45.3209
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic White,,30,2623931,71.9025
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Black,Male,11,145935,3.999
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Black,Female,10,221961,6.0823
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Black,,21,367895,10.0813
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Asian,Male,4,85006,2.3294
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Asian,Female,2,46935,1.2861
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,NonHispanic Asian,,6,131941,3.6155
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,Male,2,165138,4.5252
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,Female,1,19814,0.543
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,Other Race Including Multi Racial,,3,184952,5.0682
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,,Male,42,1482542,40.6255
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,,Female,55,2166746,59.3745
+Undiagnosed Prediabetes,Not at risk,Obese,65-70,,,97,3649288,100
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,Mexican American,Male,11,109015,2.0597
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,Mexican American,Female,12,159006,3.0042
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,Mexican American,,23,268022,5.0639
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,Other Hispanic,Male,7,61852,1.1686
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,Other Hispanic,Female,13,147726,2.7911
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,Other Hispanic,,20,209578,3.9597
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic White,Male,42,1564352,29.5561
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic White,Female,41,2552918,48.2336
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic White,,83,4117270,77.7898
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Black,Male,7,106068,2.004
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Black,Female,19,369146,6.9745
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Black,,26,475214,8.9785
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Asian,Male,2,39023,0.7373
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Asian,Female,2,40117,0.758
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,NonHispanic Asian,,4,79140,1.4952
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Female,3,143593,2.713
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,Other Race Including Multi Racial,,3,143593,2.713
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,,Male,69,1880310,35.5257
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,,Female,90,3412507,64.4743
+Undiagnosed Prediabetes,Not at risk,Obese,Over 70,,,159,5292817,100
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,Mexican American,Male,2,63620,5.4489
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,Mexican American,Female,4,99353,8.5094
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,Mexican American,,6,162974,13.9583
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Hispanic,Male,1,24648,2.1111
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Hispanic,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Hispanic,,1,24648,2.1111
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic White,Male,6,376975,32.2871
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic White,Female,1,38025,3.2568
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic White,,7,415001,35.5438
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Black,Male,13,263593,22.5761
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Black,Female,2,49164,4.2108
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Black,,15,312757,26.7869
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Asian,Male,3,46380,3.9724
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Asian,Female,4,84327,7.2224
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,NonHispanic Asian,,7,130708,11.1948
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,Female,1,121486,10.405
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,,1,121486,10.405
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,,Male,25,775218,66.3956
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,,Female,12,392357,33.6044
+Undiagnosed Prediabetes,Not at risk,Overwweight,Under 40,,,37,1167574,100
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,Mexican American,Male,1,21941,5.1589
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,Mexican American,Female,1,43662,10.2664
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,Mexican American,,2,65603,15.4253
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Hispanic,Female,1,18954,4.4566
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Hispanic,,1,18954,4.4566
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic White,Male,1,26870,6.3179
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic White,Female,2,169495,39.8534
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic White,,3,196364,46.1713
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Black,Male,5,105074,24.7062
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Black,Female,1,39300,9.2407
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Black,,6,144374,33.9468
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Asian,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Asian,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,NonHispanic Asian,,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,,Male,7,153885,36.183
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,,Female,5,271411,63.817
+Undiagnosed Prediabetes,Not at risk,Overwweight,40-44,,,12,425296,100
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,Mexican American,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,Mexican American,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,Mexican American,,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Hispanic,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Hispanic,,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic White,Male,1,25871,6.765
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic White,Female,2,230076,60.1638
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic White,,3,255947,66.9288
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Black,Male,1,17605,4.6035
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Black,Female,2,43352,11.3362
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Black,,3,60956,15.9398
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,Male,1,19504,5.1002
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,Female,2,46009,12.0312
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,NonHispanic Asian,,3,65513,17.1314
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,,Male,3,62979,16.4688
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,,Female,6,319437,83.5312
+Undiagnosed Prediabetes,Not at risk,Overwweight,45-49,,,9,382416,100
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,Mexican American,Male,1,16604,1.5992
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,Mexican American,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,Mexican American,,1,16604,1.5992
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Hispanic,Female,1,17276,1.6639
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Hispanic,,1,17276,1.6639
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic White,Male,2,350343,33.7421
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic White,Female,3,420979,40.5452
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic White,,5,771323,74.2873
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Black,Male,3,78234,7.5348
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Black,Female,2,43285,4.1688
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Black,,5,121519,11.7036
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,Male,5,86712,8.3513
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,Female,1,24865,2.3947
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,NonHispanic Asian,,6,111576,10.7461
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,,Male,11,531893,51.2274
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,,Female,7,506404,48.7726
+Undiagnosed Prediabetes,Not at risk,Overwweight,50-54,,,18,1038298,100
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,Mexican American,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,Mexican American,Female,1,11742,1.4225
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,Mexican American,,1,11742,1.4225
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Hispanic,Female,2,42601,5.161
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Hispanic,,2,42601,5.161
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic White,Male,2,70247,8.5102
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic White,Female,5,486566,58.946
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic White,,7,556813,67.4562
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Black,Male,3,73762,8.936
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Black,Female,3,70428,8.5321
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Black,,6,144189,17.4681
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,Male,2,31556,3.8229
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,Female,2,38543,4.6693
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,NonHispanic Asian,,4,70098,8.4922
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,,Male,7,175564,21.2691
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,,Female,13,649879,78.7309
+Undiagnosed Prediabetes,Not at risk,Overwweight,55-59,,,20,825444,100
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,Mexican American,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,Mexican American,Female,2,17025,2.4056
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,Mexican American,,2,17025,2.4056
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Hispanic,Male,1,7275,1.0279
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Hispanic,Female,1,7996,1.1299
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Hispanic,,2,15271,2.1578
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic White,Male,3,307251,43.4153
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic White,Female,2,188738,26.6691
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic White,,5,495990,70.0844
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Black,Male,5,59058,8.3451
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Black,Female,2,33308,4.7066
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Black,,7,92367,13.0516
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,Male,3,65447,9.2477
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,Female,1,21605,3.0528
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,NonHispanic Asian,,4,87051,12.3006
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,,Male,12,439031,62.036
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,,Female,8,268673,37.964
+Undiagnosed Prediabetes,Not at risk,Overwweight,60-64,,,20,707704,100
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,Mexican American,Male,1,10457,1.2044
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,Mexican American,Female,1,10309,1.1874
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,Mexican American,,2,20765,2.3918
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Hispanic,Male,4,33911,3.906
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Hispanic,Female,2,17457,2.0107
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Hispanic,,6,51368,5.9167
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic White,Male,3,220158,25.3586
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic White,Female,5,516209,59.4589
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic White,,8,736367,84.8175
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Black,Male,1,12728,1.4661
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Black,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Black,,1,12728,1.4661
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,Male,1,23362,2.6909
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,Female,1,23588,2.7169
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,NonHispanic Asian,,2,46950,5.4078
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,,Male,10,300616,34.626
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,,Female,9,567562,65.374
+Undiagnosed Prediabetes,Not at risk,Overwweight,65-70,,,19,868178,100
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,Mexican American,Male,4,49466,2.8946
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,Mexican American,Female,1,9461,0.5536
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,Mexican American,,5,58927,3.4482
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Hispanic,Male,1,10895,0.6376
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Hispanic,Female,2,26116,1.5282
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Hispanic,,3,37011,2.1657
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic White,Male,11,401244,23.4793
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic White,Female,15,905371,52.9788
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic White,,26,1306615,76.458
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,Male,5,66510,3.8919
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,Female,3,51899,3.037
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Black,,8,118410,6.9289
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,Male,3,56200,3.2886
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,Female,5,113707,6.6537
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,NonHispanic Asian,,8,169907,9.9423
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Female,1,18062,1.0569
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,,1,18062,1.0569
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,,Male,24,584316,34.1919
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,,Female,27,1124615,65.8081
+Undiagnosed Prediabetes,Not at risk,Overwweight,Over 70,,,51,1708931,100
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,Mexican American,Male,4,137627,13.9541
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,Mexican American,Female,1,20670,2.0957
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,Mexican American,,5,158297,16.0498
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Hispanic,Male,2,38232,3.8764
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Hispanic,Female,5,102834,10.4264
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Hispanic,,7,141066,14.3027
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic White,Male,5,167847,17.018
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic White,Female,1,73212,7.423
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic White,,6,241059,24.4411
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Black,Male,13,249575,25.3045
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Black,Female,7,128608,13.0396
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Black,,20,378183,38.3441
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Asian,Male,1,15450,1.5665
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Asian,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,NonHispanic Asian,,1,15450,1.5665
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,Male,3,38107,3.8637
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,Female,1,14125,1.4322
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,,4,52232,5.2958
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,,Male,28,646838,65.5831
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,,Female,15,339449,34.4169
+Undiagnosed Prediabetes,Not at risk,Healthy,Under 40,,,43,986287,100
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,Mexican American,Male,1,32539,18.1441
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,Mexican American,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,Mexican American,,1,32539,18.1441
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,Other Hispanic,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,Other Hispanic,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic White,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic White,Female,1,122919,68.5418
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic White,,1,122919,68.5418
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Black,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Black,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Black,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Asian,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Asian,Female,1,23877,13.3141
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,NonHispanic Asian,,1,23877,13.3141
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,,Male,1,32539,18.1441
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,,Female,2,146796,81.8559
+Undiagnosed Prediabetes,Not at risk,Healthy,40-44,,,3,179334,100
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,Mexican American,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,Mexican American,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,Mexican American,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,Other Hispanic,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,Other Hispanic,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic White,Male,1,136207,80.1826
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic White,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic White,,1,136207,80.1826
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Black,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Black,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Black,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Asian,Male,1,21979,12.9383
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Asian,Female,1,11685,6.879
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,NonHispanic Asian,,2,33664,19.8174
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,,Male,2,158186,93.121
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,,Female,1,11685,6.879
+Undiagnosed Prediabetes,Not at risk,Healthy,45-49,,,3,169871,100
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,Mexican American,Male,1,28082,11.2123
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,Mexican American,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,Mexican American,,1,28082,11.2123
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,Other Hispanic,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,Other Hispanic,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic White,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic White,Female,1,138099,55.1395
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic White,,1,138099,55.1395
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Black,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Black,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Black,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Asian,Male,1,16932,6.7605
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Asian,Female,3,67341,26.8876
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,NonHispanic Asian,,4,84273,33.6482
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,,Male,2,45014,17.9729
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,,Female,4,205439,82.0271
+Undiagnosed Prediabetes,Not at risk,Healthy,50-54,,,6,250453,100
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,Mexican American,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,Mexican American,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,Mexican American,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,Other Hispanic,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,Other Hispanic,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic White,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic White,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic White,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Black,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Black,Female,1,22658,32.4725
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Black,,1,22658,32.4725
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Asian,Male,2,35019,50.1863
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Asian,Female,1,12100,17.3412
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,NonHispanic Asian,,3,47119,67.5275
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,Other Race Including Multi Racial,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,,Male,2,35019,50.1863
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,,Female,2,34759,49.8137
+Undiagnosed Prediabetes,Not at risk,Healthy,55-59,,,4,69777,100
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,Mexican American,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,Mexican American,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,Mexican American,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,Other Hispanic,Male,1,9119,2.7435
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,Other Hispanic,Female,1,8215,2.4713
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,Other Hispanic,,2,17334,5.2148
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic White,Male,1,160571,48.3065
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic White,Female,1,33111,9.9613
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic White,,2,193682,58.2678
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Black,Male,2,23024,6.9264
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Black,Female,2,45101,13.5684
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Black,,4,68125,20.4948
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Asian,Male,1,20580,6.1915
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Asian,Female,1,18524,5.5727
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,NonHispanic Asian,,2,39104,11.7642
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Male,1,14155,4.2585
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,Other Race Including Multi Racial,,1,14155,4.2585
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,,Male,6,227449,68.4264
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,,Female,5,104951,31.5736
+Undiagnosed Prediabetes,Not at risk,Healthy,60-64,,,11,332400,100
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,Mexican American,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,Mexican American,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,Mexican American,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,Other Hispanic,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,Other Hispanic,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic White,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic White,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic White,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Black,Male,1,15515,19.2079
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Black,Female,1,20753,25.6924
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Black,,2,36268,44.9003
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Asian,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Asian,Female,1,22944,28.4046
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,NonHispanic Asian,,1,22944,28.4046
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Female,1,21563,26.6951
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,Other Race Including Multi Racial,,1,21563,26.6951
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,,Male,1,15515,19.2079
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,,Female,3,65259,80.7921
+Undiagnosed Prediabetes,Not at risk,Healthy,65-70,,,4,80774,100
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,Mexican American,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,Mexican American,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,Mexican American,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Hispanic,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Hispanic,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Hispanic,,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic White,Male,3,59836,11.0128
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic White,Female,7,321696,59.2085
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic White,,10,381532,70.2213
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Black,Male,3,50324,9.2621
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Black,Female,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Black,,3,50324,9.2621
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,Male,1,20557,3.7835
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,Female,2,41771,7.688
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,NonHispanic Asian,,3,62328,11.4715
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Male,0,,
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Female,1,49144,9.0451
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,,1,49144,9.0451
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,,Male,7,130716,24.0585
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,,Female,10,412612,75.9415
+Undiagnosed Prediabetes,Not at risk,Healthy,Over 70,,,17,543328,100
+Healthy,At risk,Obese,Under 40,Mexican American,Male,164,4150603,7.6058
+Healthy,At risk,Obese,Under 40,Mexican American,Female,177,4003442,7.3361
+Healthy,At risk,Obese,Under 40,Mexican American,,341,8154045,14.9419
+Healthy,At risk,Obese,Under 40,Other Hispanic,Male,97,2772517,5.0805
+Healthy,At risk,Obese,Under 40,Other Hispanic,Female,90,2166904,3.9707
+Healthy,At risk,Obese,Under 40,Other Hispanic,,187,4939421,9.0513
+Healthy,At risk,Obese,Under 40,NonHispanic White,Male,192,15127042,27.7196
+Healthy,At risk,Obese,Under 40,NonHispanic White,Female,210,14861380,27.2328
+Healthy,At risk,Obese,Under 40,NonHispanic White,,402,29988422,54.9524
+Healthy,At risk,Obese,Under 40,NonHispanic Black,Male,111,2478827,4.5423
+Healthy,At risk,Obese,Under 40,NonHispanic Black,Female,167,3765695,6.9005
+Healthy,At risk,Obese,Under 40,NonHispanic Black,,278,6244522,11.4428
+Healthy,At risk,Obese,Under 40,NonHispanic Asian,Male,67,1294276,2.3717
+Healthy,At risk,Obese,Under 40,NonHispanic Asian,Female,48,960291,1.7597
+Healthy,At risk,Obese,Under 40,NonHispanic Asian,,115,2254567,4.1314
+Healthy,At risk,Obese,Under 40,Other Race Including Multi Racial,Male,38,1449705,2.6565
+Healthy,At risk,Obese,Under 40,Other Race Including Multi Racial,Female,44,1540981,2.8238
+Healthy,At risk,Obese,Under 40,Other Race Including Multi Racial,,82,2990686,5.4803
+Healthy,At risk,Obese,Under 40,,Male,669,27272970,49.9764
+Healthy,At risk,Obese,Under 40,,Female,736,27298693,50.0236
+Healthy,At risk,Obese,Under 40,,,1405,54571663,100
+Healthy,At risk,Obese,40-44,Mexican American,Male,4,153656,1.8525
+Healthy,At risk,Obese,40-44,Mexican American,Female,27,618315,7.4544
+Healthy,At risk,Obese,40-44,Mexican American,,31,771971,9.3069
+Healthy,At risk,Obese,40-44,Other Hispanic,Male,12,399686,4.8186
+Healthy,At risk,Obese,40-44,Other Hispanic,Female,11,253293,3.0537
+Healthy,At risk,Obese,40-44,Other Hispanic,,23,652979,7.8723
+Healthy,At risk,Obese,40-44,NonHispanic White,Male,34,3411986,41.1349
+Healthy,At risk,Obese,40-44,NonHispanic White,Female,23,1833681,22.1069
+Healthy,At risk,Obese,40-44,NonHispanic White,,57,5245667,63.2418
+Healthy,At risk,Obese,40-44,NonHispanic Black,Male,23,557440,6.7205
+Healthy,At risk,Obese,40-44,NonHispanic Black,Female,25,544152,6.5603
+Healthy,At risk,Obese,40-44,NonHispanic Black,,48,1101591,13.2808
+Healthy,At risk,Obese,40-44,NonHispanic Asian,Male,9,187693,2.2628
+Healthy,At risk,Obese,40-44,NonHispanic Asian,Female,7,155765,1.8779
+Healthy,At risk,Obese,40-44,NonHispanic Asian,,16,343458,4.1407
+Healthy,At risk,Obese,40-44,Other Race Including Multi Racial,Male,1,103087,1.2428
+Healthy,At risk,Obese,40-44,Other Race Including Multi Racial,Female,2,75869,0.9147
+Healthy,At risk,Obese,40-44,Other Race Including Multi Racial,,3,178956,2.1575
+Healthy,At risk,Obese,40-44,,Male,83,4813548,58.0321
+Healthy,At risk,Obese,40-44,,Female,95,3481075,41.9679
+Healthy,At risk,Obese,40-44,,,178,8294623,100
+Healthy,At risk,Obese,45-49,Mexican American,Male,8,275731,2.8411
+Healthy,At risk,Obese,45-49,Mexican American,Female,14,323768,3.3361
+Healthy,At risk,Obese,45-49,Mexican American,,22,599498,6.1772
+Healthy,At risk,Obese,45-49,Other Hispanic,Male,11,376949,3.8841
+Healthy,At risk,Obese,45-49,Other Hispanic,Female,20,434424,4.4763
+Healthy,At risk,Obese,45-49,Other Hispanic,,31,811373,8.3604
+Healthy,At risk,Obese,45-49,NonHispanic White,Male,34,4030472,41.5301
+Healthy,At risk,Obese,45-49,NonHispanic White,Female,34,2978796,30.6936
+Healthy,At risk,Obese,45-49,NonHispanic White,,68,7009268,72.2237
+Healthy,At risk,Obese,45-49,NonHispanic Black,Male,10,252120,2.5979
+Healthy,At risk,Obese,45-49,NonHispanic Black,Female,26,596190,6.1432
+Healthy,At risk,Obese,45-49,NonHispanic Black,,36,848310,8.741
+Healthy,At risk,Obese,45-49,NonHispanic Asian,Male,11,213200,2.1968
+Healthy,At risk,Obese,45-49,NonHispanic Asian,Female,5,108621,1.1192
+Healthy,At risk,Obese,45-49,NonHispanic Asian,,16,321821,3.3161
+Healthy,At risk,Obese,45-49,Other Race Including Multi Racial,Male,2,72435,0.7464
+Healthy,At risk,Obese,45-49,Other Race Including Multi Racial,Female,2,42233,0.4352
+Healthy,At risk,Obese,45-49,Other Race Including Multi Racial,,4,114668,1.1815
+Healthy,At risk,Obese,45-49,,Male,76,5220906,53.7964
+Healthy,At risk,Obese,45-49,,Female,101,4484032,46.2036
+Healthy,At risk,Obese,45-49,,,177,9704938,100
+Healthy,At risk,Obese,50-54,Mexican American,Male,15,442402,5.5471
+Healthy,At risk,Obese,50-54,Mexican American,Female,11,179561,2.2514
+Healthy,At risk,Obese,50-54,Mexican American,,26,621963,7.7985
+Healthy,At risk,Obese,50-54,Other Hispanic,Male,12,277555,3.4801
+Healthy,At risk,Obese,50-54,Other Hispanic,Female,14,267761,3.3573
+Healthy,At risk,Obese,50-54,Other Hispanic,,26,545316,6.8375
+Healthy,At risk,Obese,50-54,NonHispanic White,Male,27,2814580,35.2908
+Healthy,At risk,Obese,50-54,NonHispanic White,Female,25,3064747,38.4275
+Healthy,At risk,Obese,50-54,NonHispanic White,,52,5879328,73.7183
+Healthy,At risk,Obese,50-54,NonHispanic Black,Male,11,269287,3.3765
+Healthy,At risk,Obese,50-54,NonHispanic Black,Female,15,392390,4.92
+Healthy,At risk,Obese,50-54,NonHispanic Black,,26,661677,8.2965
+Healthy,At risk,Obese,50-54,NonHispanic Asian,Male,1,11067,0.1388
+Healthy,At risk,Obese,50-54,NonHispanic Asian,Female,5,103804,1.3015
+Healthy,At risk,Obese,50-54,NonHispanic Asian,,6,114871,1.4403
+Healthy,At risk,Obese,50-54,Other Race Including Multi Racial,Male,3,107718,1.3506
+Healthy,At risk,Obese,50-54,Other Race Including Multi Racial,Female,1,44522,0.5582
+Healthy,At risk,Obese,50-54,Other Race Including Multi Racial,,4,152240,1.9089
+Healthy,At risk,Obese,50-54,,Male,69,3922609,49.1839
+Healthy,At risk,Obese,50-54,,Female,71,4052785,50.8161
+Healthy,At risk,Obese,50-54,,,140,7975394,100
+Healthy,At risk,Obese,55-59,Mexican American,Male,8,193868,3.8412
+Healthy,At risk,Obese,55-59,Mexican American,Female,9,163134,3.2322
+Healthy,At risk,Obese,55-59,Mexican American,,17,357002,7.0734
+Healthy,At risk,Obese,55-59,Other Hispanic,Male,2,41576,0.8238
+Healthy,At risk,Obese,55-59,Other Hispanic,Female,5,98976,1.961
+Healthy,At risk,Obese,55-59,Other Hispanic,,7,140553,2.7848
+Healthy,At risk,Obese,55-59,NonHispanic White,Male,18,1725292,34.1837
+Healthy,At risk,Obese,55-59,NonHispanic White,Female,20,2341345,46.3898
+Healthy,At risk,Obese,55-59,NonHispanic White,,38,4066637,80.5735
+Healthy,At risk,Obese,55-59,NonHispanic Black,Male,3,71975,1.4261
+Healthy,At risk,Obese,55-59,NonHispanic Black,Female,10,276103,5.4705
+Healthy,At risk,Obese,55-59,NonHispanic Black,,13,348078,6.8966
+Healthy,At risk,Obese,55-59,NonHispanic Asian,Male,2,31964,0.6333
+Healthy,At risk,Obese,55-59,NonHispanic Asian,Female,2,38129,0.7555
+Healthy,At risk,Obese,55-59,NonHispanic Asian,,4,70093,1.3888
+Healthy,At risk,Obese,55-59,Other Race Including Multi Racial,Male,2,64751,1.2829
+Healthy,At risk,Obese,55-59,Other Race Including Multi Racial,Female,0,,
+Healthy,At risk,Obese,55-59,Other Race Including Multi Racial,,2,64751,1.2829
+Healthy,At risk,Obese,55-59,,Male,35,2129426,42.191
+Healthy,At risk,Obese,55-59,,Female,46,2917687,57.809
+Healthy,At risk,Obese,55-59,,,81,5047113,100
+Healthy,At risk,Obese,60-64,Mexican American,Male,10,87482,1.9447
+Healthy,At risk,Obese,60-64,Mexican American,Female,9,94980,2.1114
+Healthy,At risk,Obese,60-64,Mexican American,,19,182462,4.056
+Healthy,At risk,Obese,60-64,Other Hispanic,Male,10,85197,1.8939
+Healthy,At risk,Obese,60-64,Other Hispanic,Female,14,109286,2.4294
+Healthy,At risk,Obese,60-64,Other Hispanic,,24,194483,4.3233
+Healthy,At risk,Obese,60-64,NonHispanic White,Male,19,2157189,47.9533
+Healthy,At risk,Obese,60-64,NonHispanic White,Female,12,1369475,30.4428
+Healthy,At risk,Obese,60-64,NonHispanic White,,31,3526664,78.3961
+Healthy,At risk,Obese,60-64,NonHispanic Black,Male,9,119058,2.6466
+Healthy,At risk,Obese,60-64,NonHispanic Black,Female,10,199342,4.4313
+Healthy,At risk,Obese,60-64,NonHispanic Black,,19,318400,7.0779
+Healthy,At risk,Obese,60-64,NonHispanic Asian,Male,1,23284,0.5176
+Healthy,At risk,Obese,60-64,NonHispanic Asian,Female,4,92203,2.0496
+Healthy,At risk,Obese,60-64,NonHispanic Asian,,5,115487,2.5672
+Healthy,At risk,Obese,60-64,Other Race Including Multi Racial,Male,1,161025,3.5795
+Healthy,At risk,Obese,60-64,Other Race Including Multi Racial,Female,0,,
+Healthy,At risk,Obese,60-64,Other Race Including Multi Racial,,1,161025,3.5795
+Healthy,At risk,Obese,60-64,,Male,50,2633233,58.5355
+Healthy,At risk,Obese,60-64,,Female,49,1865287,41.4645
+Healthy,At risk,Obese,60-64,,,99,4498520,100
+Healthy,Not at risk,Obese,65-70,Mexican American,Male,9,86801,1.4705
+Healthy,Not at risk,Obese,65-70,Mexican American,Female,10,108817,1.8435
+Healthy,Not at risk,Obese,65-70,Mexican American,,19,195618,3.3141
+Healthy,Not at risk,Obese,65-70,Other Hispanic,Male,8,68931,1.1678
+Healthy,Not at risk,Obese,65-70,Other Hispanic,Female,10,80275,1.36
+Healthy,Not at risk,Obese,65-70,Other Hispanic,,18,149206,2.5278
+Healthy,Not at risk,Obese,65-70,NonHispanic White,Male,27,2900910,49.1462
+Healthy,Not at risk,Obese,65-70,NonHispanic White,Female,20,2194562,37.1795
+Healthy,Not at risk,Obese,65-70,NonHispanic White,,47,5095472,86.3257
+Healthy,Not at risk,Obese,65-70,NonHispanic Black,Male,12,149828,2.5383
+Healthy,Not at risk,Obese,65-70,NonHispanic Black,Female,6,111870,1.8953
+Healthy,Not at risk,Obese,65-70,NonHispanic Black,,18,261698,4.4336
+Healthy,Not at risk,Obese,65-70,NonHispanic Asian,Male,0,,
+Healthy,Not at risk,Obese,65-70,NonHispanic Asian,Female,1,25082,0.4249
+Healthy,Not at risk,Obese,65-70,NonHispanic Asian,,1,25082,0.4249
+Healthy,Not at risk,Obese,65-70,Other Race Including Multi Racial,Male,1,15275,0.2588
+Healthy,Not at risk,Obese,65-70,Other Race Including Multi Racial,Female,2,160260,2.7151
+Healthy,Not at risk,Obese,65-70,Other Race Including Multi Racial,,3,175535,2.9739
+Healthy,Not at risk,Obese,65-70,,Male,57,3221745,54.5817
+Healthy,Not at risk,Obese,65-70,,Female,49,2680864,45.4183
+Healthy,Not at risk,Obese,65-70,,,106,5902610,100
+Healthy,Not at risk,Obese,Over 70,Mexican American,Male,8,86737,1.3015
+Healthy,Not at risk,Obese,Over 70,Mexican American,Female,10,122095,1.8321
+Healthy,Not at risk,Obese,Over 70,Mexican American,,18,208832,3.1336
+Healthy,Not at risk,Obese,Over 70,Other Hispanic,Male,5,48083,0.7215
+Healthy,Not at risk,Obese,Over 70,Other Hispanic,Female,6,63936,0.9594
+Healthy,Not at risk,Obese,Over 70,Other Hispanic,,11,112019,1.6809
+Healthy,Not at risk,Obese,Over 70,NonHispanic White,Male,64,2721498,40.837
+Healthy,Not at risk,Obese,Over 70,NonHispanic White,Female,47,3077345,46.1766
+Healthy,Not at risk,Obese,Over 70,NonHispanic White,,111,5798843,87.0135
+Healthy,Not at risk,Obese,Over 70,NonHispanic Black,Male,9,127076,1.9068
+Healthy,Not at risk,Obese,Over 70,NonHispanic Black,Female,13,248277,3.7255
+Healthy,Not at risk,Obese,Over 70,NonHispanic Black,,22,375353,5.6323
+Healthy,Not at risk,Obese,Over 70,NonHispanic Asian,Male,0,,
+Healthy,Not at risk,Obese,Over 70,NonHispanic Asian,Female,2,46315,0.695
+Healthy,Not at risk,Obese,Over 70,NonHispanic Asian,,2,46315,0.695
+Healthy,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Male,2,80881,1.2136
+Healthy,Not at risk,Obese,Over 70,Other Race Including Multi Racial,Female,2,42056,0.6311
+Healthy,Not at risk,Obese,Over 70,Other Race Including Multi Racial,,4,122937,1.8447
+Healthy,Not at risk,Obese,Over 70,,Male,88,3064275,45.9805
+Healthy,Not at risk,Obese,Over 70,,Female,80,3600024,54.0195
+Healthy,Not at risk,Obese,Over 70,,,168,6664299,100
+Healthy,Not at risk,Overwweight,Under 40,Mexican American,Male,88,1818211,5.5992
+Healthy,Not at risk,Overwweight,Under 40,Mexican American,Female,88,1611514,4.9627
+Healthy,Not at risk,Overwweight,Under 40,Mexican American,,176,3429725,10.5619
+Healthy,Not at risk,Overwweight,Under 40,Other Hispanic,Male,53,1099982,3.3874
+Healthy,Not at risk,Overwweight,Under 40,Other Hispanic,Female,64,1306048,4.022
+Healthy,Not at risk,Overwweight,Under 40,Other Hispanic,,117,2406030,7.4094
+Healthy,Not at risk,Overwweight,Under 40,NonHispanic White,Male,150,9557645,29.433
+Healthy,Not at risk,Overwweight,Under 40,NonHispanic White,Female,138,9557966,29.434
+Healthy,Not at risk,Overwweight,Under 40,NonHispanic White,,288,19115611,58.8669
+Healthy,Not at risk,Overwweight,Under 40,NonHispanic Black,Male,91,1906189,5.8701
+Healthy,Not at risk,Overwweight,Under 40,NonHispanic Black,Female,102,2036820,6.2724
+Healthy,Not at risk,Overwweight,Under 40,NonHispanic Black,,193,3943009,12.1426
+Healthy,Not at risk,Overwweight,Under 40,NonHispanic Asian,Male,81,1391236,4.2843
+Healthy,Not at risk,Overwweight,Under 40,NonHispanic Asian,Female,47,928119,2.8582
+Healthy,Not at risk,Overwweight,Under 40,NonHispanic Asian,,128,2319355,7.1425
+Healthy,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,Male,30,687760,2.118
+Healthy,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,Female,24,571096,1.7587
+Healthy,Not at risk,Overwweight,Under 40,Other Race Including Multi Racial,,54,1258856,3.8767
+Healthy,Not at risk,Overwweight,Under 40,,Male,493,16461024,50.6921
+Healthy,Not at risk,Overwweight,Under 40,,Female,463,16011562,49.3079
+Healthy,Not at risk,Overwweight,Under 40,,,956,32472586,100
+Healthy,Not at risk,Overwweight,40-44,Mexican American,Male,4,116662,3.3171
+Healthy,Not at risk,Overwweight,40-44,Mexican American,Female,8,203113,5.7752
+Healthy,Not at risk,Overwweight,40-44,Mexican American,,12,319775,9.0922
+Healthy,Not at risk,Overwweight,40-44,Other Hispanic,Male,0,,
+Healthy,Not at risk,Overwweight,40-44,Other Hispanic,Female,8,184571,5.2479
+Healthy,Not at risk,Overwweight,40-44,Other Hispanic,,8,184571,5.2479
+Healthy,Not at risk,Overwweight,40-44,NonHispanic White,Male,8,761706,21.6577
+Healthy,Not at risk,Overwweight,40-44,NonHispanic White,Female,12,1401867,39.8596
+Healthy,Not at risk,Overwweight,40-44,NonHispanic White,,20,2163572,61.5173
+Healthy,Not at risk,Overwweight,40-44,NonHispanic Black,Male,4,105873,3.0103
+Healthy,Not at risk,Overwweight,40-44,NonHispanic Black,Female,5,121061,3.4421
+Healthy,Not at risk,Overwweight,40-44,NonHispanic Black,,9,226934,6.4525
+Healthy,Not at risk,Overwweight,40-44,NonHispanic Asian,Male,6,93380,2.6551
+Healthy,Not at risk,Overwweight,40-44,NonHispanic Asian,Female,17,387216,11.0098
+Healthy,Not at risk,Overwweight,40-44,NonHispanic Asian,,23,480596,13.6649
+Healthy,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,Male,2,42697,1.214
+Healthy,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,Female,2,98870,2.8112
+Healthy,Not at risk,Overwweight,40-44,Other Race Including Multi Racial,,4,141568,4.0252
+Healthy,Not at risk,Overwweight,40-44,,Male,24,1120318,31.8542
+Healthy,Not at risk,Overwweight,40-44,,Female,52,2396697,68.1458
+Healthy,Not at risk,Overwweight,40-44,,,76,3517015,100
+Healthy,Not at risk,Overwweight,45-49,Mexican American,Male,2,86299,2.3187
+Healthy,Not at risk,Overwweight,45-49,Mexican American,Female,2,35025,0.9411
+Healthy,Not at risk,Overwweight,45-49,Mexican American,,4,121324,3.2598
+Healthy,Not at risk,Overwweight,45-49,Other Hispanic,Male,3,101029,2.7145
+Healthy,Not at risk,Overwweight,45-49,Other Hispanic,Female,2,29716,0.7984
+Healthy,Not at risk,Overwweight,45-49,Other Hispanic,,5,130744,3.5129
+Healthy,Not at risk,Overwweight,45-49,NonHispanic White,Male,7,670709,18.0211
+Healthy,Not at risk,Overwweight,45-49,NonHispanic White,Female,15,1699364,45.6597
+Healthy,Not at risk,Overwweight,45-49,NonHispanic White,,22,2370074,63.6807
+Healthy,Not at risk,Overwweight,45-49,NonHispanic Black,Male,5,105054,2.8227
+Healthy,Not at risk,Overwweight,45-49,NonHispanic Black,Female,9,211840,5.6918
+Healthy,Not at risk,Overwweight,45-49,NonHispanic Black,,14,316893,8.5145
+Healthy,Not at risk,Overwweight,45-49,NonHispanic Asian,Male,10,188052,5.0527
+Healthy,Not at risk,Overwweight,45-49,NonHispanic Asian,Female,12,277005,7.4427
+Healthy,Not at risk,Overwweight,45-49,NonHispanic Asian,,22,465057,12.4955
+Healthy,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Male,3,130909,3.5173
+Healthy,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,Female,2,186805,5.0192
+Healthy,Not at risk,Overwweight,45-49,Other Race Including Multi Racial,,5,317713,8.5365
+Healthy,Not at risk,Overwweight,45-49,,Male,30,1282052,34.447
+Healthy,Not at risk,Overwweight,45-49,,Female,42,2439754,65.553
+Healthy,Not at risk,Overwweight,45-49,,,72,3721806,100
+Healthy,Not at risk,Overwweight,50-54,Mexican American,Male,2,39276,1.3077
+Healthy,Not at risk,Overwweight,50-54,Mexican American,Female,0,,
+Healthy,Not at risk,Overwweight,50-54,Mexican American,,2,39276,1.3077
+Healthy,Not at risk,Overwweight,50-54,Other Hispanic,Male,3,75475,2.5128
+Healthy,Not at risk,Overwweight,50-54,Other Hispanic,Female,6,126847,4.2232
+Healthy,Not at risk,Overwweight,50-54,Other Hispanic,,9,202323,6.736
+Healthy,Not at risk,Overwweight,50-54,NonHispanic White,Male,10,991763,33.0192
+Healthy,Not at risk,Overwweight,50-54,NonHispanic White,Female,9,1176738,39.1777
+Healthy,Not at risk,Overwweight,50-54,NonHispanic White,,19,2168501,72.197
+Healthy,Not at risk,Overwweight,50-54,NonHispanic Black,Male,3,62402,2.0776
+Healthy,Not at risk,Overwweight,50-54,NonHispanic Black,Female,3,72089,2.4001
+Healthy,Not at risk,Overwweight,50-54,NonHispanic Black,,6,134491,4.4777
+Healthy,Not at risk,Overwweight,50-54,NonHispanic Asian,Male,11,188662,6.2812
+Healthy,Not at risk,Overwweight,50-54,NonHispanic Asian,Female,13,259735,8.6475
+Healthy,Not at risk,Overwweight,50-54,NonHispanic Asian,,24,448397,14.9287
+Healthy,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Male,1,10603,0.353
+Healthy,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Overwweight,50-54,Other Race Including Multi Racial,,1,10603,0.353
+Healthy,Not at risk,Overwweight,50-54,,Male,30,1368180,45.5515
+Healthy,Not at risk,Overwweight,50-54,,Female,31,1635410,54.4485
+Healthy,Not at risk,Overwweight,50-54,,,61,3003590,100
+Healthy,Not at risk,Overwweight,55-59,Mexican American,Male,0,,
+Healthy,Not at risk,Overwweight,55-59,Mexican American,Female,2,45552,1.6239
+Healthy,Not at risk,Overwweight,55-59,Mexican American,,2,45552,1.6239
+Healthy,Not at risk,Overwweight,55-59,Other Hispanic,Male,2,42397,1.5114
+Healthy,Not at risk,Overwweight,55-59,Other Hispanic,Female,2,30778,1.0972
+Healthy,Not at risk,Overwweight,55-59,Other Hispanic,,4,73175,2.6087
+Healthy,Not at risk,Overwweight,55-59,NonHispanic White,Male,10,1228598,43.799
+Healthy,Not at risk,Overwweight,55-59,NonHispanic White,Female,9,913758,32.5751
+Healthy,Not at risk,Overwweight,55-59,NonHispanic White,,19,2142356,76.3742
+Healthy,Not at risk,Overwweight,55-59,NonHispanic Black,Male,3,79360,2.8292
+Healthy,Not at risk,Overwweight,55-59,NonHispanic Black,Female,4,112409,4.0073
+Healthy,Not at risk,Overwweight,55-59,NonHispanic Black,,7,191769,6.8365
+Healthy,Not at risk,Overwweight,55-59,NonHispanic Asian,Male,7,115928,4.1328
+Healthy,Not at risk,Overwweight,55-59,NonHispanic Asian,Female,2,42545,1.5167
+Healthy,Not at risk,Overwweight,55-59,NonHispanic Asian,,9,158473,5.6495
+Healthy,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Male,2,36436,1.2989
+Healthy,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,Female,2,157318,5.6083
+Healthy,Not at risk,Overwweight,55-59,Other Race Including Multi Racial,,4,193754,6.9073
+Healthy,Not at risk,Overwweight,55-59,,Male,24,1502719,53.5713
+Healthy,Not at risk,Overwweight,55-59,,Female,21,1302360,46.4287
+Healthy,Not at risk,Overwweight,55-59,,,45,2805079,100
+Healthy,Not at risk,Overwweight,60-64,Mexican American,Male,5,42480,2.2439
+Healthy,Not at risk,Overwweight,60-64,Mexican American,Female,1,8076,0.4266
+Healthy,Not at risk,Overwweight,60-64,Mexican American,,6,50555,2.6705
+Healthy,Not at risk,Overwweight,60-64,Other Hispanic,Male,2,16675,0.8808
+Healthy,Not at risk,Overwweight,60-64,Other Hispanic,Female,4,33249,1.7563
+Healthy,Not at risk,Overwweight,60-64,Other Hispanic,,6,49923,2.6371
+Healthy,Not at risk,Overwweight,60-64,NonHispanic White,Male,8,592316,31.2883
+Healthy,Not at risk,Overwweight,60-64,NonHispanic White,Female,8,926103,48.9202
+Healthy,Not at risk,Overwweight,60-64,NonHispanic White,,16,1518419,80.2085
+Healthy,Not at risk,Overwweight,60-64,NonHispanic Black,Male,7,87915,4.644
+Healthy,Not at risk,Overwweight,60-64,NonHispanic Black,Female,4,89165,4.71
+Healthy,Not at risk,Overwweight,60-64,NonHispanic Black,,11,177079,9.354
+Healthy,Not at risk,Overwweight,60-64,NonHispanic Asian,Male,1,25411,1.3423
+Healthy,Not at risk,Overwweight,60-64,NonHispanic Asian,Female,3,71703,3.7876
+Healthy,Not at risk,Overwweight,60-64,NonHispanic Asian,,4,97113,5.1299
+Healthy,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Male,0,,
+Healthy,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Overwweight,60-64,Other Race Including Multi Racial,,0,,
+Healthy,Not at risk,Overwweight,60-64,,Male,23,764796,40.3994
+Healthy,Not at risk,Overwweight,60-64,,Female,20,1128294,59.6006
+Healthy,Not at risk,Overwweight,60-64,,,43,1893091,100
+Healthy,Not at risk,Overwweight,65-70,Mexican American,Male,3,30344,1.6487
+Healthy,Not at risk,Overwweight,65-70,Mexican American,Female,2,19953,1.0841
+Healthy,Not at risk,Overwweight,65-70,Mexican American,,5,50297,2.7329
+Healthy,Not at risk,Overwweight,65-70,Other Hispanic,Male,0,,
+Healthy,Not at risk,Overwweight,65-70,Other Hispanic,Female,2,17998,0.9779
+Healthy,Not at risk,Overwweight,65-70,Other Hispanic,,2,17998,0.9779
+Healthy,Not at risk,Overwweight,65-70,NonHispanic White,Male,4,517373,28.1108
+Healthy,Not at risk,Overwweight,65-70,NonHispanic White,Female,10,992436,53.9228
+Healthy,Not at risk,Overwweight,65-70,NonHispanic White,,14,1509809,82.0336
+Healthy,Not at risk,Overwweight,65-70,NonHispanic Black,Male,1,10620,0.577
+Healthy,Not at risk,Overwweight,65-70,NonHispanic Black,Female,3,75011,4.0756
+Healthy,Not at risk,Overwweight,65-70,NonHispanic Black,,4,85631,4.6526
+Healthy,Not at risk,Overwweight,65-70,NonHispanic Asian,Male,3,53663,2.9157
+Healthy,Not at risk,Overwweight,65-70,NonHispanic Asian,Female,2,43442,2.3604
+Healthy,Not at risk,Overwweight,65-70,NonHispanic Asian,,5,97105,5.2761
+Healthy,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Male,2,79637,4.327
+Healthy,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Overwweight,65-70,Other Race Including Multi Racial,,2,79637,4.327
+Healthy,Not at risk,Overwweight,65-70,,Male,13,691637,37.5792
+Healthy,Not at risk,Overwweight,65-70,,Female,19,1148840,62.4208
+Healthy,Not at risk,Overwweight,65-70,,,32,1840477,100
+Healthy,Not at risk,Overwweight,Over 70,Mexican American,Male,2,23356,0.9358
+Healthy,Not at risk,Overwweight,Over 70,Mexican American,Female,0,,
+Healthy,Not at risk,Overwweight,Over 70,Mexican American,,2,23356,0.9358
+Healthy,Not at risk,Overwweight,Over 70,Other Hispanic,Male,2,17795,0.713
+Healthy,Not at risk,Overwweight,Over 70,Other Hispanic,Female,4,52849,2.1175
+Healthy,Not at risk,Overwweight,Over 70,Other Hispanic,,6,70644,2.8306
+Healthy,Not at risk,Overwweight,Over 70,NonHispanic White,Male,16,479476,19.2116
+Healthy,Not at risk,Overwweight,Over 70,NonHispanic White,Female,23,1604587,64.2924
+Healthy,Not at risk,Overwweight,Over 70,NonHispanic White,,39,2084064,83.504
+Healthy,Not at risk,Overwweight,Over 70,NonHispanic Black,Male,5,78168,3.132
+Healthy,Not at risk,Overwweight,Over 70,NonHispanic Black,Female,1,20542,0.8231
+Healthy,Not at risk,Overwweight,Over 70,NonHispanic Black,,6,98710,3.9551
+Healthy,Not at risk,Overwweight,Over 70,NonHispanic Asian,Male,1,19360,0.7757
+Healthy,Not at risk,Overwweight,Over 70,NonHispanic Asian,Female,3,58219,2.3327
+Healthy,Not at risk,Overwweight,Over 70,NonHispanic Asian,,4,77579,3.1084
+Healthy,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Male,4,141413,5.6661
+Healthy,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Overwweight,Over 70,Other Race Including Multi Racial,,4,141413,5.6661
+Healthy,Not at risk,Overwweight,Over 70,,Male,30,759568,30.4343
+Healthy,Not at risk,Overwweight,Over 70,,Female,31,1736198,69.5657
+Healthy,Not at risk,Overwweight,Over 70,,,61,2495766,100
+Healthy,Not at risk,Healthy,Under 40,Mexican American,Male,265,3883949,6.2021
+Healthy,Not at risk,Healthy,Under 40,Mexican American,Female,328,4231310,6.7568
+Healthy,Not at risk,Healthy,Under 40,Mexican American,,593,8115259,12.9589
+Healthy,Not at risk,Healthy,Under 40,Other Hispanic,Male,175,2567961,4.1007
+Healthy,Not at risk,Healthy,Under 40,Other Hispanic,Female,189,2609672,4.1673
+Healthy,Not at risk,Healthy,Under 40,Other Hispanic,,364,5177632,8.268
+Healthy,Not at risk,Healthy,Under 40,NonHispanic White,Male,499,17231880,27.5169
+Healthy,Not at risk,Healthy,Under 40,NonHispanic White,Female,435,16707941,26.6803
+Healthy,Not at risk,Healthy,Under 40,NonHispanic White,,934,33939820,54.1972
+Healthy,Not at risk,Healthy,Under 40,NonHispanic Black,Male,318,4155772,6.6362
+Healthy,Not at risk,Healthy,Under 40,NonHispanic Black,Female,327,3818287,6.0973
+Healthy,Not at risk,Healthy,Under 40,NonHispanic Black,,645,7974059,12.7335
+Healthy,Not at risk,Healthy,Under 40,NonHispanic Asian,Male,155,1874108,2.9927
+Healthy,Not at risk,Healthy,Under 40,NonHispanic Asian,Female,150,2268123,3.6219
+Healthy,Not at risk,Healthy,Under 40,NonHispanic Asian,,305,4142231,6.6146
+Healthy,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,Male,103,1526339,2.4374
+Healthy,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,Female,112,1747488,2.7905
+Healthy,Not at risk,Healthy,Under 40,Other Race Including Multi Racial,,215,3273827,5.2278
+Healthy,Not at risk,Healthy,Under 40,,Male,1515,31240009,49.886
+Healthy,Not at risk,Healthy,Under 40,,Female,1541,31382820,50.114
+Healthy,Not at risk,Healthy,Under 40,,,3056,62622829,100
+Healthy,Not at risk,Healthy,40-44,Mexican American,Male,1,38773,4.3343
+Healthy,Not at risk,Healthy,40-44,Mexican American,Female,0,,
+Healthy,Not at risk,Healthy,40-44,Mexican American,,1,38773,4.3343
+Healthy,Not at risk,Healthy,40-44,Other Hispanic,Male,0,,
+Healthy,Not at risk,Healthy,40-44,Other Hispanic,Female,2,35533,3.9721
+Healthy,Not at risk,Healthy,40-44,Other Hispanic,,2,35533,3.9721
+Healthy,Not at risk,Healthy,40-44,NonHispanic White,Male,1,151384,16.9226
+Healthy,Not at risk,Healthy,40-44,NonHispanic White,Female,4,386678,43.2252
+Healthy,Not at risk,Healthy,40-44,NonHispanic White,,5,538062,60.1478
+Healthy,Not at risk,Healthy,40-44,NonHispanic Black,Male,0,,
+Healthy,Not at risk,Healthy,40-44,NonHispanic Black,Female,2,34716,3.8807
+Healthy,Not at risk,Healthy,40-44,NonHispanic Black,,2,34716,3.8807
+Healthy,Not at risk,Healthy,40-44,NonHispanic Asian,Male,1,11003,1.23
+Healthy,Not at risk,Healthy,40-44,NonHispanic Asian,Female,11,236480,26.4351
+Healthy,Not at risk,Healthy,40-44,NonHispanic Asian,,12,247483,27.6651
+Healthy,Not at risk,Healthy,40-44,Other Race Including Multi Racial,Male,0,,
+Healthy,Not at risk,Healthy,40-44,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Healthy,40-44,Other Race Including Multi Racial,,0,,
+Healthy,Not at risk,Healthy,40-44,,Male,3,201160,22.4869
+Healthy,Not at risk,Healthy,40-44,,Female,19,693407,77.5131
+Healthy,Not at risk,Healthy,40-44,,,22,894567,100
+Healthy,Not at risk,Healthy,45-49,Mexican American,Male,1,24610,3.4791
+Healthy,Not at risk,Healthy,45-49,Mexican American,Female,0,,
+Healthy,Not at risk,Healthy,45-49,Mexican American,,1,24610,3.4791
+Healthy,Not at risk,Healthy,45-49,Other Hispanic,Male,0,,
+Healthy,Not at risk,Healthy,45-49,Other Hispanic,Female,0,,
+Healthy,Not at risk,Healthy,45-49,Other Hispanic,,0,,
+Healthy,Not at risk,Healthy,45-49,NonHispanic White,Male,2,298259,42.1655
+Healthy,Not at risk,Healthy,45-49,NonHispanic White,Female,4,284036,40.1548
+Healthy,Not at risk,Healthy,45-49,NonHispanic White,,6,582295,82.3202
+Healthy,Not at risk,Healthy,45-49,NonHispanic Black,Male,0,,
+Healthy,Not at risk,Healthy,45-49,NonHispanic Black,Female,2,37108,5.246
+Healthy,Not at risk,Healthy,45-49,NonHispanic Black,,2,37108,5.246
+Healthy,Not at risk,Healthy,45-49,NonHispanic Asian,Male,3,45563,6.4414
+Healthy,Not at risk,Healthy,45-49,NonHispanic Asian,Female,1,17777,2.5132
+Healthy,Not at risk,Healthy,45-49,NonHispanic Asian,,4,63341,8.9546
+Healthy,Not at risk,Healthy,45-49,Other Race Including Multi Racial,Male,0,,
+Healthy,Not at risk,Healthy,45-49,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Healthy,45-49,Other Race Including Multi Racial,,0,,
+Healthy,Not at risk,Healthy,45-49,,Male,6,368432,52.086
+Healthy,Not at risk,Healthy,45-49,,Female,7,338921,47.914
+Healthy,Not at risk,Healthy,45-49,,,13,707353,100
+Healthy,Not at risk,Healthy,50-54,Mexican American,Male,0,,
+Healthy,Not at risk,Healthy,50-54,Mexican American,Female,1,20722,8.1399
+Healthy,Not at risk,Healthy,50-54,Mexican American,,1,20722,8.1399
+Healthy,Not at risk,Healthy,50-54,Other Hispanic,Male,2,51926,20.3973
+Healthy,Not at risk,Healthy,50-54,Other Hispanic,Female,1,12241,4.8083
+Healthy,Not at risk,Healthy,50-54,Other Hispanic,,3,64167,25.2057
+Healthy,Not at risk,Healthy,50-54,NonHispanic White,Male,1,30643,12.0371
+Healthy,Not at risk,Healthy,50-54,NonHispanic White,Female,1,32571,12.7943
+Healthy,Not at risk,Healthy,50-54,NonHispanic White,,2,63214,24.8314
+Healthy,Not at risk,Healthy,50-54,NonHispanic Black,Male,1,45492,17.8697
+Healthy,Not at risk,Healthy,50-54,NonHispanic Black,Female,0,,
+Healthy,Not at risk,Healthy,50-54,NonHispanic Black,,1,45492,17.8697
+Healthy,Not at risk,Healthy,50-54,NonHispanic Asian,Male,1,13203,5.1865
+Healthy,Not at risk,Healthy,50-54,NonHispanic Asian,Female,2,47775,18.7668
+Healthy,Not at risk,Healthy,50-54,NonHispanic Asian,,3,60979,23.9533
+Healthy,Not at risk,Healthy,50-54,Other Race Including Multi Racial,Male,0,,
+Healthy,Not at risk,Healthy,50-54,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Healthy,50-54,Other Race Including Multi Racial,,0,,
+Healthy,Not at risk,Healthy,50-54,,Male,5,141265,55.4907
+Healthy,Not at risk,Healthy,50-54,,Female,5,113309,44.5093
+Healthy,Not at risk,Healthy,50-54,,,10,254574,100
+Healthy,Not at risk,Healthy,55-59,Mexican American,Male,0,,
+Healthy,Not at risk,Healthy,55-59,Mexican American,Female,1,35138,3.8481
+Healthy,Not at risk,Healthy,55-59,Mexican American,,1,35138,3.8481
+Healthy,Not at risk,Healthy,55-59,Other Hispanic,Male,0,,
+Healthy,Not at risk,Healthy,55-59,Other Hispanic,Female,1,16968,1.8583
+Healthy,Not at risk,Healthy,55-59,Other Hispanic,,1,16968,1.8583
+Healthy,Not at risk,Healthy,55-59,NonHispanic White,Male,5,566674,62.0588
+Healthy,Not at risk,Healthy,55-59,NonHispanic White,Female,3,215511,23.6015
+Healthy,Not at risk,Healthy,55-59,NonHispanic White,,8,782185,85.6603
+Healthy,Not at risk,Healthy,55-59,NonHispanic Black,Male,0,,
+Healthy,Not at risk,Healthy,55-59,NonHispanic Black,Female,2,51744,5.6667
+Healthy,Not at risk,Healthy,55-59,NonHispanic Black,,2,51744,5.6667
+Healthy,Not at risk,Healthy,55-59,NonHispanic Asian,Male,0,,
+Healthy,Not at risk,Healthy,55-59,NonHispanic Asian,Female,1,27089,2.9667
+Healthy,Not at risk,Healthy,55-59,NonHispanic Asian,,1,27089,2.9667
+Healthy,Not at risk,Healthy,55-59,Other Race Including Multi Racial,Male,0,,
+Healthy,Not at risk,Healthy,55-59,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Healthy,55-59,Other Race Including Multi Racial,,0,,
+Healthy,Not at risk,Healthy,55-59,,Male,5,566674,62.0588
+Healthy,Not at risk,Healthy,55-59,,Female,8,346450,37.9412
+Healthy,Not at risk,Healthy,55-59,,,13,913125,100
+Healthy,Not at risk,Healthy,60-64,Mexican American,Male,1,9803,0.9382
+Healthy,Not at risk,Healthy,60-64,Mexican American,Female,1,8844,0.8463
+Healthy,Not at risk,Healthy,60-64,Mexican American,,2,18647,1.7845
+Healthy,Not at risk,Healthy,60-64,Other Hispanic,Male,3,27857,2.6658
+Healthy,Not at risk,Healthy,60-64,Other Hispanic,Female,1,9167,0.8772
+Healthy,Not at risk,Healthy,60-64,Other Hispanic,,4,37023,3.5431
+Healthy,Not at risk,Healthy,60-64,NonHispanic White,Male,2,195927,18.7499
+Healthy,Not at risk,Healthy,60-64,NonHispanic White,Female,4,562191,53.8007
+Healthy,Not at risk,Healthy,60-64,NonHispanic White,,6,758118,72.5506
+Healthy,Not at risk,Healthy,60-64,NonHispanic Black,Male,4,55045,5.2677
+Healthy,Not at risk,Healthy,60-64,NonHispanic Black,Female,1,24183,2.3143
+Healthy,Not at risk,Healthy,60-64,NonHispanic Black,,5,79229,7.582
+Healthy,Not at risk,Healthy,60-64,NonHispanic Asian,Male,1,21693,2.076
+Healthy,Not at risk,Healthy,60-64,NonHispanic Asian,Female,6,130241,12.4638
+Healthy,Not at risk,Healthy,60-64,NonHispanic Asian,,7,151934,14.5398
+Healthy,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Male,0,,
+Healthy,Not at risk,Healthy,60-64,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Healthy,60-64,Other Race Including Multi Racial,,0,,
+Healthy,Not at risk,Healthy,60-64,,Male,11,310325,29.6976
+Healthy,Not at risk,Healthy,60-64,,Female,13,734626,70.3024
+Healthy,Not at risk,Healthy,60-64,,,24,1044951,100
+Healthy,Not at risk,Healthy,65-70,Mexican American,Male,0,,
+Healthy,Not at risk,Healthy,65-70,Mexican American,Female,0,,
+Healthy,Not at risk,Healthy,65-70,Mexican American,,0,,
+Healthy,Not at risk,Healthy,65-70,Other Hispanic,Male,0,,
+Healthy,Not at risk,Healthy,65-70,Other Hispanic,Female,0,,
+Healthy,Not at risk,Healthy,65-70,Other Hispanic,,0,,
+Healthy,Not at risk,Healthy,65-70,NonHispanic White,Male,2,49076,12.5986
+Healthy,Not at risk,Healthy,65-70,NonHispanic White,Female,2,254603,65.3603
+Healthy,Not at risk,Healthy,65-70,NonHispanic White,,4,303680,77.9589
+Healthy,Not at risk,Healthy,65-70,NonHispanic Black,Male,1,17337,4.4507
+Healthy,Not at risk,Healthy,65-70,NonHispanic Black,Female,1,18673,4.7935
+Healthy,Not at risk,Healthy,65-70,NonHispanic Black,,2,36010,9.2442
+Healthy,Not at risk,Healthy,65-70,NonHispanic Asian,Male,0,,
+Healthy,Not at risk,Healthy,65-70,NonHispanic Asian,Female,2,37355,9.5895
+Healthy,Not at risk,Healthy,65-70,NonHispanic Asian,,2,37355,9.5895
+Healthy,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Male,1,12494,3.2073
+Healthy,Not at risk,Healthy,65-70,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Healthy,65-70,Other Race Including Multi Racial,,1,12494,3.2073
+Healthy,Not at risk,Healthy,65-70,,Male,4,78907,20.2567
+Healthy,Not at risk,Healthy,65-70,,Female,5,310631,79.7433
+Healthy,Not at risk,Healthy,65-70,,,9,389538,100
+Healthy,Not at risk,Healthy,Over 70,Mexican American,Male,2,19808,1.5162
+Healthy,Not at risk,Healthy,Over 70,Mexican American,Female,1,11641,0.8911
+Healthy,Not at risk,Healthy,Over 70,Mexican American,,3,31449,2.4072
+Healthy,Not at risk,Healthy,Over 70,Other Hispanic,Male,1,8949,0.685
+Healthy,Not at risk,Healthy,Over 70,Other Hispanic,Female,2,22850,1.749
+Healthy,Not at risk,Healthy,Over 70,Other Hispanic,,3,31800,2.434
+Healthy,Not at risk,Healthy,Over 70,NonHispanic White,Male,6,159173,12.1835
+Healthy,Not at risk,Healthy,Over 70,NonHispanic White,Female,13,791342,60.5715
+Healthy,Not at risk,Healthy,Over 70,NonHispanic White,,19,950515,72.7551
+Healthy,Not at risk,Healthy,Over 70,NonHispanic Black,Male,5,68902,5.274
+Healthy,Not at risk,Healthy,Over 70,NonHispanic Black,Female,3,50699,3.8806
+Healthy,Not at risk,Healthy,Over 70,NonHispanic Black,,8,119601,9.1546
+Healthy,Not at risk,Healthy,Over 70,NonHispanic Asian,Male,1,25066,1.9187
+Healthy,Not at risk,Healthy,Over 70,NonHispanic Asian,Female,2,49547,3.7925
+Healthy,Not at risk,Healthy,Over 70,NonHispanic Asian,,3,74614,5.7111
+Healthy,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Male,1,98481,7.538
+Healthy,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,Female,0,,
+Healthy,Not at risk,Healthy,Over 70,Other Race Including Multi Racial,,1,98481,7.538
+Healthy,Not at risk,Healthy,Over 70,,Male,16,380379,29.1153
+Healthy,Not at risk,Healthy,Over 70,,Female,21,926080,70.8847
+Healthy,Not at risk,Healthy,Over 70,,,37,1306459,100
