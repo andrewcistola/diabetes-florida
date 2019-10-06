@@ -73,7 +73,7 @@ Else If LBXGH >= 6.4 and DIQ010 ~= 1 then DMStat = 3; *3 = Undiagnosed Diabetes;
 Else If LBXGH < 6.4 and LBXGH >= 5.7 and DIQ160 ~= 1 then DMStat = 4; *4 = Undiagnosed Prediabetes;
 Else If (LBXGH < 6.4 and LBXGH >= 5.7 and DIQ160 = 2) or (LBXGH > 6.4 and DIQ160 = 1) then DMStat = 5; *5 = Misdiagnosed;
 Else If LBXGH < 5.7 then DMStat = 6; *6 = Healthy;
-Else If LBXGH = . or DIQ010 in (3 7 9 .) or DIQ160 in (7 9 .) then DMStat = 7; *7 Unknown;
+Else If LBXGH = . or DIQ010 = 3 or DIQ010 = 7 or DIQ010 = 9 or DIQ010 = . or DIQ160 = 7 or DIQ160 = 9 or DIQ160 = . then DMStat = 7; *7 Unknown;
 run;
 
 *Show first 5 observations of Dataset;
@@ -88,7 +88,8 @@ data Pd.ifthen2;
 set PD.ifthen;
 If BMXBMI > 25 then DMBMI = 1; *Obese;
 Else If BMXBMI < 25 and BMXBMI >= 21 then DMBMI = 2; *Overweight;
-Else If BMXBMI < 21 or BMXBMI = . then DMBMI = 3; *Healthy;
+Else If BMXBMI < 21 then DMBMI = 3; *Healthy;
+Else If BMXBMI = . then DMBMI = 4; *Unknown;
 run;
 
 *Use Coniditons to Create New Variabe Varible 3;
@@ -101,7 +102,7 @@ else if ridageyr >= 45 and ridageyr < 50 then DMAge = 3; *Age 45-49;
 else if ridageyr >= 50 and ridageyr < 55 then DMAge = 4; *Age 50-54;
 else if ridageyr >= 55 and ridageyr < 60 then DMAge = 5; *Age 55-59;
 else if ridageyr >= 60 and ridageyr < 65 then DMAge = 6; *Age 60-64;
-else if ridageyr >= 65 and ridageyr <=  70 then DMAge = 7; *Age 65-70;
+else if ridageyr >= 65 and ridageyr <= 70 then DMAge = 7; *Age 65-70;
 else if ridageyr > 70 then DMAge = 8; *Age over 70;
 else if ridageyr = . then DMAge = 9; *Age Unknown;
 run;
@@ -110,8 +111,9 @@ run;
 
 data PD.ifthen4;
 set PD.ifthen3;
-if DMAge in (2 3 4 5 6 7) and DMBMI = 1 then DMRisk = 1;
-Else if DMRisk ~= 1 then DMRisk = 2;
+if DMBMI = 1 and (ridageyr >= 40 and ridageyr < 70) then DMRisk = 1; *At risk;
+Else if DMAge = 9 or DMBMI = 4 then DMRisk = 3; *Unknown;
+Else if DMRisk ~= 1 or DMRisk ~= 3 then DMRisk = 2; *Not at risk;
 run;
 
 *Get frequency of Unique Values in tables;
@@ -135,11 +137,13 @@ value Status
 	7 = Unknown;
 value Risk
 	1 = At risk
-	2 = Not at risk;
+	2 = Not at risk
+	3 = Unknown;
 value BMI 	 	
 	1 = Obese
 	2 = Overwweight
 	3 = Healthy;
+	4 = Unknown;
 value Age
 	1 = "Under 40"
 	2 = "40-44"
@@ -159,7 +163,8 @@ value Race
 	7 = Other Race Including Multi Racial;
 value Sex
 	1 = Male
-	2 = Female;
+	2 = Female
+	3 = Unknown;
 run;
 
 *Set lables;
