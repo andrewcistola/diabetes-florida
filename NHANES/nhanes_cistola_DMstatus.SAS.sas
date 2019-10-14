@@ -147,15 +147,16 @@ run;
 
 proc format;                                                                                       
 value Age
-	1 = "Under 40"
-	2 = "40-44"
-    3 = "45-49"
-	4 = "50-54"
-	5 = "55-59"
-	6 = "60-64"
-	7 = "65-70"
-	8 = "Over 70"
-	9 = "Unknown";
+	1 = "Teen"
+	2 = "Twenty"
+    3 = "Thirty"
+	4 = "Forty"
+	5 = "Fifty"
+	6 = "Sixty"
+	7 = "Seventy"
+	8 = "Over Eighty"
+	9 = "Under Ten"
+	10 = "Unknown";
 value Race
 	1 = "Mexican American"
 	2 = "Other Hispanic"
@@ -192,8 +193,8 @@ run;
 
 data PD.labels;
 set PD.categories;
-format DMAge Age. DMRace Race. DMGndr Gender. DMBMI BMI. DMRisk Risk. DMStat Status.;
-label DMAge = "Age Groups" DMRace = "Race and Ethnicity" DMGndr = "Gender" DMBMI = "BMI" DMRisk = "Population at Risk" DMStat = "Diabetes Status";
+format DMAge Age. DMRace Race. DMGndr Gender. DMBMI BMI. DMRisk Risk. DMDum Status.;
+label DMAge = "Age Groups" DMRace = "Race and Ethnicity" DMGndr = "Gender" DMBMI = "BMI" DMRisk = "Population at Risk" DMDum = "Diabetes Status";
 run;
 
 *Create Dummy Variable;
@@ -240,7 +241,7 @@ run;
 proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
 NEST SDMVSTRA SDMVPSU;
 SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 9 7 4 4 3 7 7;
+LEVELS 10 7 4 4 3 7 7;
 CATLEVEL 2;
 var DMStat;
 weight WTMEC2YR;
@@ -254,7 +255,7 @@ run;
 proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
 NEST SDMVSTRA SDMVPSU;
 SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 9 7 4 4 3 7 7;
+LEVELS 10 7 4 4 3 7 7;
 CATLEVEL 3;
 var DMStat;
 weight WTMEC2YR;
@@ -268,7 +269,7 @@ run;
 proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
 NEST SDMVSTRA SDMVPSU;
 SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 9 7 4 4 3 7 7;
+LEVELS 10 7 4 4 3 7 7;
 CATLEVEL 4;
 var DMStat;
 weight WTMEC2YR;
@@ -281,7 +282,7 @@ run;
 proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
 NEST SDMVSTRA SDMVPSU;
 SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 9 7 4 4 3 7 7;
+LEVELS 10 7 4 4 3 7 7;
 CATLEVEL 5;
 var DMStat;
 weight WTMEC2YR;
@@ -294,7 +295,7 @@ run;
 proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
 NEST SDMVSTRA SDMVPSU;
 SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 9 7 4 4 3 7 7;
+LEVELS 10 7 4 4 3 7 7;
 CATLEVEL 6;
 var DMStat;
 weight WTMEC2YR;
@@ -307,7 +308,7 @@ run;
 proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
 NEST SDMVSTRA SDMVPSU;
 SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 9 7 4 4 3 7 7;
+LEVELS 10 7 4 4 3 7 7;
 CATLEVEL 7;
 var DMStat;
 weight WTMEC2YR;
