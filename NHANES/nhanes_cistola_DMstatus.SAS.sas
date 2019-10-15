@@ -141,7 +141,27 @@ run;
 proc contents data = PD.categories;
 run;
 
-**Step 4: Set Formats and labels based on Categorical Variables;
+**Step 4: Set Dummy Variable, Formats and Labels based on Categorical Variables;
+
+*Create Dummy Variables;
+
+data PD.dummy;
+set PD.categories;
+if DMStat = 1 then dgDMX = 100;
+else if DMStat ~= 1 then dgDMX = 0;
+else if DMStat = 2 then dgPDX = 100;
+else if DMStat ~= 2 then dgPDX = 0;
+else if DMStat = 3 then unDMX = 100;
+else if DMStat ~= 3 then unDMX = 0;
+else if DMStat = 4 then unPDX = 100;
+else if DMStat ~= 4 then unPDX = 0;
+else if DMStat = 5 then misDMX = 100;
+else if DMStat ~= 5 then misDMX = 0;
+else if DMStat = 6 then hlthX = 100;
+else if DMStat ~= 6 then hlthX = 0;
+else if DMStat = 7 then unknX = 100;
+else if DMStat ~= 7 then unknX = 0;
+run;
 
 *Set formats;
 
@@ -180,11 +200,11 @@ value Risk
 	2 = "Not at risk"
 	3 = "Unknown";
 value Status	
-	1 = "Diagnosed Diabetes"                          
-	2 = "Diagnosed Prediabetes"                      
-    3 = "Undiagnosed Diabetes"
-	4 = "Undiagnosed Prediabetes"
-	5 = "Misdiagnosed"
+	1 = "Diagnosed Diabetes"
+	2 = "Diagnosed Prediabetes"
+	3 = "Undiagnosed Diabetes"
+	4 = "Undiagnosed Prediabetes"	
+	5 = "Misdiagnosed"	
 	6 = "Healthy"
 	7 = "Unknown";
 run;
@@ -192,30 +212,17 @@ run;
 *Set lables;
 
 data PD.labels;
-set PD.categories;
-format DMAge Age. DMRace Race. DMGndr Gender. DMBMI BMI. DMRisk Risk. DMDum Status.;
-label DMAge = "Age Groups" DMRace = "Race and Ethnicity" DMGndr = "Gender" DMBMI = "BMI" DMRisk = "Population at Risk" DMDum = "Diabetes Status";
+set PD.dummy;
+format DMAge Age. DMRace Race. DMGndr Gender.  DMBMI BMI. DMRisk Risk. DMStat Status.;
+label DMAge = "Age Groups" DMRace = "Race and Ethnicity" DMGndr = "Gender" DMRisk = "Population at Risk";
 run;
-
-*Create Dummy Variable;
-
-data PD.labels;
-set PD.labels;
-if DMStat = 1 then DMDum = 1;
-else if DMStat = 2 then DMDum = 2;
-else if DMStat = 3 then DMDum = 3;
-else if DMStat = 4 then DMDum = 4;
-else if DMStat = 5 then DMDum = 5;
-else if DMStat = 6 then DMDum = 6;
-else if DMStat = 7 then DMDum = 7;
-run; 
 
 *Check contents of Dataset;
 
 proc contents data = PD.labels;
 run;
 
-**Step 4: Set Weights and Clusters to create population counts;
+**Step 4: Set Weights and Clusters to get prevalence of diabetes status for those at risk;
 
 *Sort Data by strata and cluster;
 
@@ -223,116 +230,147 @@ proc sort data = PD.labels;
 by SDMVSTRA SDMVPSU;
 run;
 
-*Get Prevaence of Diabetes Status and Risk in Population Using SUDAAN: Diagnosed Diabtes;
+*Get Prevaence of Diabetes Status and Risk in Population Using SUDAAN: Diagnosed Diabetes;
 
-proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
+proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
-SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 9 7 4 4 3 7 7;
+WEIGHT WTMEC2YR;
+SUBGROUP DMAge DMRace DMGndr DMBMI;
+LEVELS 10 7 4 4;
 CATLEVEL 1;
 var DMStat;
-weight WTMEC2YR;
-tables DMAge*DMRace*DMGndr*DMBMI*DMRisk*DMDum;
-output  nsum = "N" wsum = "Population" percent = "Percent" / FILENAME = PD.dgDM FILETYPE = SAS REPLACE;
+tables DMAge*DMRace*DMGndr*DMBMI;
+output nsum wsum percent / FILENAME = PD.dgDM FILETYPE = SAS REPLACE;
+run;
+
+*Export SAS file to Excel;
+
+proc export data = PD.dgDM dbms = csv
+outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_dgDM_sudaan_raw.csv"
+replace;
 run;
 
 *Get Prevaence of Diabetes Status and Risk in Population Using SUDAAN: Diagnosed Prediabtes;
 
-proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
+
+proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
-SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 10 7 4 4 3 7 7;
+WEIGHT WTMEC2YR;
+SUBGROUP DMAge DMRace DMGndr DMBMI;
+LEVELS 10 7 4 4;
 CATLEVEL 2;
 var DMStat;
-weight WTMEC2YR;
-tables DMAge*DMRace*DMGndr*DMBMI*DMRisk*DMDum;
-output nsum = "N" wsum = "Population" percent = "Percent" / FILENAME = PD.dgPD FILETYPE = SAS REPLACE;
+tables DMAge*DMRace*DMGndr*DMBMI;
+output nsum wsum percent / FILENAME = PD.dgPD FILETYPE = SAS REPLACE;
+run;
+
+*Export SAS file to Excel;
+
+proc export data = PD.unPD dbms = csv
+outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_dgPD_sudaan_raw.csv"
+replace;
 run;
 
 
 *Get Prevaence of Diabetes Status and Risk in Population Using SUDAAN: Undiagnosed Diabetes;
 
-proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
+
+proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
-SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 10 7 4 4 3 7 7;
+WEIGHT WTMEC2YR;
+SUBGROUP DMAge DMRace DMGndr DMBMI;
+LEVELS 10 7 4 4;
 CATLEVEL 3;
 var DMStat;
-weight WTMEC2YR;
-tables DMAge*DMRace*DMGndr*DMBMI*DMRisk*DMDum;
-output nsum = "N" wsum = "Population" percent = "Percent" / FILENAME = PD.unDM FILETYPE = SAS REPLACE;
+tables DMAge*DMRace*DMGndr*DMBMI;
+output nsum wsum percent / FILENAME = PD.unDM FILETYPE = SAS REPLACE;
+run;
+
+*Export SAS file to Excel;
+
+proc export data = PD.unDM dbms = csv
+outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_unDM_sudaan_raw.csv"
+replace;
 run;
 
 
 *Get Prevaence of Diabetes Status and Risk in Population Using SUDAAN: Undiagnosed Prediabtes;
 
-proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
+proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
-SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 10 7 4 4 3 7 7;
+WEIGHT WTMEC2YR;
+SUBGROUP DMAge DMRace DMGndr DMBMI;
+LEVELS 10 7 4 4;
 CATLEVEL 4;
 var DMStat;
-weight WTMEC2YR;
-tables DMAge*DMRace*DMGndr*DMBMI*DMRisk*DMDum;
-output nsum = "N" wsum = "Population" percent = "Percent" / FILENAME = PD.unPD FILETYPE = SAS REPLACE;
+tables DMAge*DMRace*DMGndr*DMBMI;
+output nsum wsum percent / FILENAME = PD.unPD FILETYPE = SAS REPLACE;
 run;
 
-*Get Prevaence of Diabetes Status and Risk in Population Using SUDAAN: Misdiagnosis;
+*Export SAS file to Excel;
 
-proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
+proc export data = PD.unPD dbms = csv
+outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_unPD_sudaan_raw.csv"
+replace;
+run;
+
+*Get Prevaence of Diabetes Status in Population Using SUDAAN: Misdiagnosis;
+
+proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
-SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 10 7 4 4 3 7 7;
+WEIGHT WTMEC2YR;
+SUBGROUP DMAge DMRace DMGndr DMBMI;
+LEVELS 10 7 4 4;
 CATLEVEL 5;
 var DMStat;
-weight WTMEC2YR;
-tables DMAge*DMRace*DMGndr*DMBMI*DMRisk*DMDum;
-output nsum = "N" wsum = "Population" percent = "Percent" / FILENAME = PD.misDM FILETYPE = SAS REPLACE;
+tables DMAge*DMRace*DMGndr*DMBMI;
+output nsum wsum percent / FILENAME = PD.misd FILETYPE = SAS REPLACE;
+run;
+
+*Export SAS file to Excel;
+
+proc export data = PD.misd dbms = csv
+outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_misd_sudaan_raw.csv"
+replace;
 run;
 
 *Get Prevaence of Diabetes Status and Risk in Population Using SUDAAN: Healthy;
 
-proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
+proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
-SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 10 7 4 4 3 7 7;
+WEIGHT WTMEC2YR;
+SUBGROUP DMAge DMRace DMGndr DMBMI;
+LEVELS 10 7 4 4;
 CATLEVEL 6;
 var DMStat;
-weight WTMEC2YR;
-tables DMAge*DMRace*DMGndr*DMBMI*DMRisk*DMDum;
-output nsum = "N" wsum = "Population" percent = "Percent" / FILENAME = PD.hlth FILETYPE = SAS REPLACE;
+tables DMAge*DMRace*DMGndr*DMBMI;
+output nsum wsum percent / FILENAME = PD.hlty FILETYPE = SAS REPLACE;
+run;
+
+*Export SAS file to Excel;
+
+proc export data = PD.hlty dbms = csv
+outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_hlty_sudaan_raw.csv"
+replace;
 run;
 
 *Get Prevaence of Diabetes Status and Risk in Population Using SUDAAN: Unknown;
 
-proc descript data = PD.labels design = wr ATLEVEL1 = 1 ATLEVEL2 = 2;
+proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
-SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk DMStat DMDum;
-LEVELS 10 7 4 4 3 7 7;
+WEIGHT WTMEC2YR;
+SUBGROUP DMAge DMRace DMGndr DMBMI;
+LEVELS 10 7 4 4;
 CATLEVEL 7;
 var DMStat;
-weight WTMEC2YR;
-tables DMAge*DMRace*DMGndr*DMBMI*DMRisk*DMDum;
-output nsum = "N" wsum = "Population" percent = "Percent" / FILENAME = PD.unkn FILETYPE = SAS REPLACE;
+tables DMAge*DMRace*DMGndr*DMBMI;
+output nsum wsum percent / FILENAME = PD.unkn FILETYPE = SAS REPLACE;
 run;
 
-*Check Contents;
+*Export SAS file to Excel;
 
-proc contents data = PD.result;
-run;
-
-**Step 6: Concat to Join Datasets;
-
-data PD.concat;
-set PD.dgDM PD.dgPD PD.unDM PD.unPD PD.misDM PD.hlth PD.unkn;
-run;
-
-
-**Step 5: Export;
-
-*Exort SAS file to Excel;
-
-proc export data = PD.concat dbms = csv
-outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_dmstatus_sudaan_raw.csv"
+proc export data = PD.unkn dbms = csv
+outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_unkn_sudaan_raw.csv"
 replace;
 run;
+

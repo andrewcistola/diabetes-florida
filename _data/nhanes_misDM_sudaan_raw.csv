@@ -1,0 +1,2201 @@
+PROCNUM,TABLENO,DMAGE,DMRACE,DMGNDR,DMBMI,VARIABLE,_C1,_C2,_C3,_C4,NSUM,WSUM,PERCENT
+3,1,0,0,0,0,1,0,0,0,0,9544,316481044,0.59
+3,1,0,0,0,Obese,1,0,0,0,1,4510,179746247,0.81
+3,1,0,0,0,Overwweight,1,0,0,0,1,1693,64216379.0,0.39
+3,1,0,0,0,Healthy,1,0,0,0,1,3341,72518418.0,0.22
+3,1,0,0,0,Unknown,1,0,0,0,1,0,0.00,
+3,1,0,0,Male,0,1,0,0,1,0,4676,154558598,0.61
+3,1,0,0,Male,Obese,1,0,0,1,1,2167,89087601.4,0.94
+3,1,0,0,Male,Overwweight,1,0,0,1,1,860,29928233.8,0.32
+3,1,0,0,Male,Healthy,1,0,0,1,1,1649,35542762.8,0.00
+3,1,0,0,Male,Unknown,1,0,0,1,1,0,0.00,
+3,1,0,0,Female,0,1,0,0,1,0,4868,161922446,0.57
+3,1,0,0,Female,Obese,1,0,0,1,1,2343,90658645.6,0.67
+3,1,0,0,Female,Overwweight,1,0,0,1,1,833,34288145.2,0.46
+3,1,0,0,Female,Healthy,1,0,0,1,1,1692,36975655.2,0.43
+3,1,0,0,Female,Unknown,1,0,0,1,1,0,0.00,
+3,1,0,0,Other,0,1,0,0,1,0,0,0.00,
+3,1,0,0,Other,Obese,1,0,0,1,1,0,0.00,
+3,1,0,0,Other,Overwweight,1,0,0,1,1,0,0.00,
+3,1,0,0,Other,Healthy,1,0,0,1,1,0,0.00,
+3,1,0,0,Other,Unknown,1,0,0,1,1,0,0.00,
+3,1,0,0,Unknown,0,1,0,0,1,0,0,0.00,
+3,1,0,0,Unknown,Obese,1,0,0,1,1,0,0.00,
+3,1,0,0,Unknown,Overwweight,1,0,0,1,1,0,0.00,
+3,1,0,0,Unknown,Healthy,1,0,0,1,1,0,0.00,
+3,1,0,0,Unknown,Unknown,1,0,0,1,1,0,0.00,
+3,1,0,Mexican American,0,0,1,0,1,0,0,1837,33398542.0,0.32
+3,1,0,Mexican American,0,Obese,1,0,1,0,1,967,19884409.6,0.39
+3,1,0,Mexican American,0,Overwweight,1,0,1,0,1,250,4822329.21,0.61
+3,1,0,Mexican American,0,Healthy,1,0,1,0,1,620,8691803.16,0.00
+3,1,0,Mexican American,0,Unknown,1,0,1,0,1,0,0.00,
+3,1,0,Mexican American,Male,0,1,0,1,1,0,851,16731966.5,0.59
+3,1,0,Mexican American,Male,Obese,1,0,1,1,1,438,9861024.93,0.80
+3,1,0,Mexican American,Male,Overwweight,1,0,1,1,1,129,2562885.27,0.78
+3,1,0,Mexican American,Male,Healthy,1,0,1,1,1,284,4308056.26,0.00
+3,1,0,Mexican American,Male,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Mexican American,Female,0,1,0,1,1,0,986,16666575.5,0.06
+3,1,0,Mexican American,Female,Obese,1,0,1,1,1,529,10023384.7,0.00
+3,1,0,Mexican American,Female,Overwweight,1,0,1,1,1,121,2259443.95,0.42
+3,1,0,Mexican American,Female,Healthy,1,0,1,1,1,336,4383746.90,0.00
+3,1,0,Mexican American,Female,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Mexican American,Other,0,1,0,1,1,0,0,0.00,
+3,1,0,Mexican American,Other,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Mexican American,Other,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Mexican American,Other,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Mexican American,Other,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Mexican American,Unknown,0,1,0,1,1,0,0,0.00,
+3,1,0,Mexican American,Unknown,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Mexican American,Unknown,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Mexican American,Unknown,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Mexican American,Unknown,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,0,0,1,0,1,0,0,1232,22351850.0,0.46
+3,1,0,Other Hispanic,0,Obese,1,0,1,0,1,646,13020019.9,0.49
+3,1,0,Other Hispanic,0,Overwweight,1,0,1,0,1,189,3624107.21,1.08
+3,1,0,Other Hispanic,0,Healthy,1,0,1,0,1,397,5707722.91,0.00
+3,1,0,Other Hispanic,0,Unknown,1,0,1,0,1,0,0.00,
+3,1,0,Other Hispanic,Male,0,1,0,1,1,0,564,11149966.5,0.23
+3,1,0,Other Hispanic,Male,Obese,1,0,1,1,1,299,6805254.68,0.37
+3,1,0,Other Hispanic,Male,Overwweight,1,0,1,1,1,79,1555619.26,0.00
+3,1,0,Other Hispanic,Male,Healthy,1,0,1,1,1,186,2789092.60,0.00
+3,1,0,Other Hispanic,Male,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,Female,0,1,0,1,1,0,668,11201883.5,0.69
+3,1,0,Other Hispanic,Female,Obese,1,0,1,1,1,347,6214765.23,0.62
+3,1,0,Other Hispanic,Female,Overwweight,1,0,1,1,1,110,2068487.95,1.90
+3,1,0,Other Hispanic,Female,Healthy,1,0,1,1,1,211,2918630.31,0.00
+3,1,0,Other Hispanic,Female,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,Other,0,1,0,1,1,0,0,0.00,
+3,1,0,Other Hispanic,Other,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,Other,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,Other,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,Other,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,Unknown,0,1,0,1,1,0,0,0.00,
+3,1,0,Other Hispanic,Unknown,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,Unknown,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,Unknown,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Other Hispanic,Unknown,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,0,0,1,0,1,0,0,2948,191867443,0.68
+3,1,0,Non-Hispanic White,0,Obese,1,0,1,0,1,1389,111336517,0.94
+3,1,0,Non-Hispanic White,0,Overwweight,1,0,1,0,1,542,40652732.4,0.23
+3,1,0,Non-Hispanic White,0,Healthy,1,0,1,0,1,1017,39878193.8,0.40
+3,1,0,Non-Hispanic White,0,Unknown,1,0,1,0,1,0,0.00,
+3,1,0,Non-Hispanic White,Male,0,1,0,1,1,0,1524,94141569.7,0.73
+3,1,0,Non-Hispanic White,Male,Obese,1,0,1,1,1,722,56346861.3,1.17
+3,1,0,Non-Hispanic White,Male,Overwweight,1,0,1,1,1,266,18194107.1,0.19
+3,1,0,Non-Hispanic White,Male,Healthy,1,0,1,1,1,536,19600601.3,0.00
+3,1,0,Non-Hispanic White,Male,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Female,0,1,0,1,1,0,1424,97725873.1,0.62
+3,1,0,Non-Hispanic White,Female,Obese,1,0,1,1,1,667,54989655.3,0.71
+3,1,0,Non-Hispanic White,Female,Overwweight,1,0,1,1,1,276,22458625.3,0.27
+3,1,0,Non-Hispanic White,Female,Healthy,1,0,1,1,1,481,20277592.6,0.78
+3,1,0,Non-Hispanic White,Female,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Other,0,1,0,1,1,0,0,0.00,
+3,1,0,Non-Hispanic White,Other,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Other,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Other,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Other,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Unknown,0,1,0,1,1,0,0,0.00,
+3,1,0,Non-Hispanic White,Unknown,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Unknown,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Unknown,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Unknown,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,0,0,1,0,1,0,0,2052,37763319.5,0.65
+3,1,0,Non-Hispanic Black,0,Obese,1,0,1,0,1,1015,21917549.9,1.03
+3,1,0,Non-Hispanic Black,0,Overwweight,1,0,1,0,1,326,6680916.63,0.28
+3,1,0,Non-Hispanic Black,0,Healthy,1,0,1,0,1,711,9164852.98,0.00
+3,1,0,Non-Hispanic Black,0,Unknown,1,0,1,0,1,0,0.00,
+3,1,0,Non-Hispanic Black,Male,0,1,0,1,1,0,979,17394785.4,0.50
+3,1,0,Non-Hispanic Black,Male,Obese,1,0,1,1,1,449,9139960.90,0.75
+3,1,0,Non-Hispanic Black,Male,Overwweight,1,0,1,1,1,173,3442048.60,0.54
+3,1,0,Non-Hispanic Black,Male,Healthy,1,0,1,1,1,357,4812775.87,0.00
+3,1,0,Non-Hispanic Black,Male,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Female,0,1,0,1,1,0,1073,20368534.1,0.78
+3,1,0,Non-Hispanic Black,Female,Obese,1,0,1,1,1,566,12777589.0,1.24
+3,1,0,Non-Hispanic Black,Female,Overwweight,1,0,1,1,1,153,3238868.03,0.00
+3,1,0,Non-Hispanic Black,Female,Healthy,1,0,1,1,1,354,4352077.10,0.00
+3,1,0,Non-Hispanic Black,Female,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Other,0,1,0,1,1,0,0,0.00,
+3,1,0,Non-Hispanic Black,Other,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Other,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Other,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Other,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Unknown,0,1,0,1,1,0,0,0.00,
+3,1,0,Non-Hispanic Black,Unknown,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Unknown,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Unknown,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Unknown,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,0,0,1,0,1,0,0,986,17641495.7,0.48
+3,1,0,Non-Hispanic Asian,0,Obese,1,0,1,0,1,311,6294742.14,0.57
+3,1,0,Non-Hispanic Asian,0,Overwweight,1,0,1,0,1,305,5905125.45,0.82
+3,1,0,Non-Hispanic Asian,0,Healthy,1,0,1,0,1,370,5441628.15,0.00
+3,1,0,Non-Hispanic Asian,0,Unknown,1,0,1,0,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Male,0,1,0,1,1,0,512,8481004.99,0.13
+3,1,0,Non-Hispanic Asian,Male,Obese,1,0,1,1,1,171,3277426.50,0.33
+3,1,0,Non-Hispanic Asian,Male,Overwweight,1,0,1,1,1,166,2973238.59,0.00
+3,1,0,Non-Hispanic Asian,Male,Healthy,1,0,1,1,1,175,2230339.90,0.00
+3,1,0,Non-Hispanic Asian,Male,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Female,0,1,0,1,1,0,474,9160490.75,0.80
+3,1,0,Non-Hispanic Asian,Female,Obese,1,0,1,1,1,140,3017315.64,0.83
+3,1,0,Non-Hispanic Asian,Female,Overwweight,1,0,1,1,1,139,2931886.86,1.66
+3,1,0,Non-Hispanic Asian,Female,Healthy,1,0,1,1,1,195,3211288.25,0.00
+3,1,0,Non-Hispanic Asian,Female,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Other,0,1,0,1,1,0,0,0.00,
+3,1,0,Non-Hispanic Asian,Other,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Other,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Other,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Other,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Unknown,0,1,0,1,1,0,0,0.00,
+3,1,0,Non-Hispanic Asian,Unknown,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Unknown,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Unknown,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Unknown,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,0,0,1,0,1,0,0,489,13458394.0,0.17
+3,1,0,Other Race Including Multi Racial,0,Obese,1,0,1,0,1,182,7293008.92,0.00
+3,1,0,Other Race Including Multi Racial,0,Overwweight,1,0,1,0,1,81,2531168.11,0.90
+3,1,0,Other Race Including Multi Racial,0,Healthy,1,0,1,0,1,226,3634216.99,0.00
+3,1,0,Other Race Including Multi Racial,0,Unknown,1,0,1,0,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Male,0,1,0,1,1,0,246,6659304.97,0.34
+3,1,0,Other Race Including Multi Racial,Male,Obese,1,0,1,1,1,88,3657073.09,0.00
+3,1,0,Other Race Including Multi Racial,Male,Overwweight,1,0,1,1,1,47,1200335.00,1.91
+3,1,0,Other Race Including Multi Racial,Male,Healthy,1,0,1,1,1,111,1801896.89,0.00
+3,1,0,Other Race Including Multi Racial,Male,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Female,0,1,0,1,1,0,243,6799089.03,0.00
+3,1,0,Other Race Including Multi Racial,Female,Obese,1,0,1,1,1,94,3635935.83,0.00
+3,1,0,Other Race Including Multi Racial,Female,Overwweight,1,0,1,1,1,34,1330833.11,0.00
+3,1,0,Other Race Including Multi Racial,Female,Healthy,1,0,1,1,1,115,1832320.10,0.00
+3,1,0,Other Race Including Multi Racial,Female,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Other,0,1,0,1,1,0,0,0.00,
+3,1,0,Other Race Including Multi Racial,Other,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Other,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Other,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Other,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Unknown,0,1,0,1,1,0,0,0.00,
+3,1,0,Other Race Including Multi Racial,Unknown,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Unknown,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Unknown,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Unknown,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,0,0,1,0,1,0,0,0,0.00,
+3,1,0,Unknown,0,Obese,1,0,1,0,1,0,0.00,
+3,1,0,Unknown,0,Overwweight,1,0,1,0,1,0,0.00,
+3,1,0,Unknown,0,Healthy,1,0,1,0,1,0,0.00,
+3,1,0,Unknown,0,Unknown,1,0,1,0,1,0,0.00,
+3,1,0,Unknown,Male,0,1,0,1,1,0,0,0.00,
+3,1,0,Unknown,Male,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Male,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Male,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Male,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Female,0,1,0,1,1,0,0,0.00,
+3,1,0,Unknown,Female,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Female,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Female,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Female,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Other,0,1,0,1,1,0,0,0.00,
+3,1,0,Unknown,Other,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Other,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Other,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Other,Unknown,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Unknown,0,1,0,1,1,0,0,0.00,
+3,1,0,Unknown,Unknown,Obese,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Unknown,Overwweight,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Unknown,Healthy,1,0,1,1,1,0,0.00,
+3,1,0,Unknown,Unknown,Unknown,1,0,1,1,1,0,0.00,
+3,1,Teen,0,0,0,1,1,0,0,0,1679,41621837.5,0.52
+3,1,Teen,0,0,Obese,1,1,0,0,1,526,12573333.9,1.19
+3,1,Teen,0,0,Overwweight,1,1,0,0,1,457,11568751.3,0.31
+3,1,Teen,0,0,Healthy,1,1,0,0,1,696,17479752.3,0.19
+3,1,Teen,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Teen,0,Male,0,1,1,0,1,0,850,21208689.8,0.44
+3,1,Teen,0,Male,Obese,1,1,0,1,1,240,5586763.64,1.30
+3,1,Teen,0,Male,Overwweight,1,1,0,1,1,244,6131673.97,0.32
+3,1,Teen,0,Male,Healthy,1,1,0,1,1,366,9490252.18,0.00
+3,1,Teen,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Teen,0,Female,0,1,1,0,1,0,829,20413147.7,0.61
+3,1,Teen,0,Female,Obese,1,1,0,1,1,286,6986570.21,1.11
+3,1,Teen,0,Female,Overwweight,1,1,0,1,1,213,5437077.38,0.28
+3,1,Teen,0,Female,Healthy,1,1,0,1,1,330,7989500.13,0.41
+3,1,Teen,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Teen,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Teen,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Teen,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Teen,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Teen,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Teen,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Teen,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Teen,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Teen,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Teen,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Teen,Mexican American,0,0,1,1,1,0,0,362,5976758.95,0.71
+3,1,Teen,Mexican American,0,Obese,1,1,1,0,1,155,2641112.89,0.85
+3,1,Teen,Mexican American,0,Overwweight,1,1,1,0,1,94,1565088.67,1.27
+3,1,Teen,Mexican American,0,Healthy,1,1,1,0,1,113,1770557.38,0.00
+3,1,Teen,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Teen,Mexican American,Male,0,1,1,1,1,0,171,3075856.41,1.38
+3,1,Teen,Mexican American,Male,Obese,1,1,1,1,1,75,1358504.95,1.65
+3,1,Teen,Mexican American,Male,Overwweight,1,1,1,1,1,53,958285.94,2.08
+3,1,Teen,Mexican American,Male,Healthy,1,1,1,1,1,43,759065.51,0.00
+3,1,Teen,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Female,0,1,1,1,1,0,191,2900902.54,0.00
+3,1,Teen,Mexican American,Female,Obese,1,1,1,1,1,80,1282607.94,0.00
+3,1,Teen,Mexican American,Female,Overwweight,1,1,1,1,1,41,606802.73,0.00
+3,1,Teen,Mexican American,Female,Healthy,1,1,1,1,1,70,1011491.87,0.00
+3,1,Teen,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,0,0,1,1,1,0,0,204,3466196.69,1.27
+3,1,Teen,Other Hispanic,0,Obese,1,1,1,0,1,65,1141870.07,3.85
+3,1,Teen,Other Hispanic,0,Overwweight,1,1,1,0,1,56,957216.60,0.00
+3,1,Teen,Other Hispanic,0,Healthy,1,1,1,0,1,83,1367110.01,0.00
+3,1,Teen,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Teen,Other Hispanic,Male,0,1,1,1,1,0,93,1706255.72,1.49
+3,1,Teen,Other Hispanic,Male,Obese,1,1,1,1,1,29,526992.07,4.82
+3,1,Teen,Other Hispanic,Male,Overwweight,1,1,1,1,1,28,490704.23,0.00
+3,1,Teen,Other Hispanic,Male,Healthy,1,1,1,1,1,36,688559.42,0.00
+3,1,Teen,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Female,0,1,1,1,1,0,111,1759940.97,1.06
+3,1,Teen,Other Hispanic,Female,Obese,1,1,1,1,1,36,614878.00,3.03
+3,1,Teen,Other Hispanic,Female,Overwweight,1,1,1,1,1,28,466512.37,0.00
+3,1,Teen,Other Hispanic,Female,Healthy,1,1,1,1,1,47,678550.60,0.00
+3,1,Teen,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,0,0,1,1,1,0,0,459,22230498.5,0.15
+3,1,Teen,Non-Hispanic White,0,Obese,1,1,1,0,1,111,5434082.76,0.00
+3,1,Teen,Non-Hispanic White,0,Overwweight,1,1,1,0,1,130,6359335.38,0.00
+3,1,Teen,Non-Hispanic White,0,Healthy,1,1,1,0,1,218,10437080.3,0.31
+3,1,Teen,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Male,0,1,1,1,1,0,241,11388618.9,0.00
+3,1,Teen,Non-Hispanic White,Male,Obese,1,1,1,1,1,46,2143404.70,0.00
+3,1,Teen,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,69,3286967.61,0.00
+3,1,Teen,Non-Hispanic White,Male,Healthy,1,1,1,1,1,126,5958246.58,0.00
+3,1,Teen,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Female,0,1,1,1,1,0,218,10841879.6,0.30
+3,1,Teen,Non-Hispanic White,Female,Obese,1,1,1,1,1,65,3290678.06,0.00
+3,1,Teen,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,61,3072367.77,0.00
+3,1,Teen,Non-Hispanic White,Female,Healthy,1,1,1,1,1,92,4478833.77,0.73
+3,1,Teen,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,0,0,1,1,1,0,0,378,5726857.51,1.27
+3,1,Teen,Non-Hispanic Black,0,Obese,1,1,1,0,1,131,2084396.28,3.48
+3,1,Teen,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,102,1604156.54,0.00
+3,1,Teen,Non-Hispanic Black,0,Healthy,1,1,1,0,1,145,2038304.69,0.00
+3,1,Teen,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Male,0,1,1,1,1,0,204,2897131.76,0.48
+3,1,Teen,Non-Hispanic Black,Male,Obese,1,1,1,1,1,59,849242.13,1.64
+3,1,Teen,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,52,804237.01,0.00
+3,1,Teen,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,93,1243652.62,0.00
+3,1,Teen,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Female,0,1,1,1,1,0,174,2829725.74,2.07
+3,1,Teen,Non-Hispanic Black,Female,Obese,1,1,1,1,1,72,1235154.15,4.75
+3,1,Teen,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,50,799919.52,0.00
+3,1,Teen,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,52,794652.07,0.00
+3,1,Teen,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,0,0,1,1,1,0,0,176,2143364.97,1.23
+3,1,Teen,Non-Hispanic Asian,0,Obese,1,1,1,0,1,30,357912.38,3.05
+3,1,Teen,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,45,540712.82,2.86
+3,1,Teen,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,101,1244739.76,0.00
+3,1,Teen,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Male,0,1,1,1,1,0,93,1071405.96,1.02
+3,1,Teen,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,14,155048.86,7.03
+3,1,Teen,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,28,316149.85,0.00
+3,1,Teen,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,51,600207.25,0.00
+3,1,Teen,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Female,0,1,1,1,1,0,83,1071959.02,1.44
+3,1,Teen,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,16,202863.53,0.00
+3,1,Teen,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,17,224562.98,6.89
+3,1,Teen,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,50,644532.51,0.00
+3,1,Teen,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,0,0,1,1,1,0,0,100,2078160.91,0.00
+3,1,Teen,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,34,913959.46,0.00
+3,1,Teen,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,30,542241.33,0.00
+3,1,Teen,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,36,621960.12,0.00
+3,1,Teen,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Male,0,1,1,1,1,0,48,1069421.05,0.00
+3,1,Teen,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,17,553570.93,0.00
+3,1,Teen,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,14,275329.32,0.00
+3,1,Teen,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,17,240520.80,0.00
+3,1,Teen,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Female,0,1,1,1,1,0,52,1008739.86,0.00
+3,1,Teen,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,17,360388.53,0.00
+3,1,Teen,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,16,266912.01,0.00
+3,1,Teen,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,19,381439.32,0.00
+3,1,Teen,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Teen,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Teen,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Teen,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Teen,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Teen,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Teen,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,0,0,0,1,1,0,0,0,931,43674638.0,0.51
+3,1,Twenty,0,0,Obese,1,1,0,0,1,546,24822390.0,0.90
+3,1,Twenty,0,0,Overwweight,1,1,0,0,1,243,11980000.6,0.00
+3,1,Twenty,0,0,Healthy,1,1,0,0,1,142,6872247.41,0.00
+3,1,Twenty,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Twenty,0,Male,0,1,1,0,1,0,436,21824873.0,0.78
+3,1,Twenty,0,Male,Obese,1,1,0,1,1,254,12449703.2,1.36
+3,1,Twenty,0,Male,Overwweight,1,1,0,1,1,123,6184847.80,0.00
+3,1,Twenty,0,Male,Healthy,1,1,0,1,1,59,3190321.95,0.00
+3,1,Twenty,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Twenty,0,Female,0,1,1,0,1,0,495,21849765.0,0.24
+3,1,Twenty,0,Female,Obese,1,1,0,1,1,292,12372686.8,0.43
+3,1,Twenty,0,Female,Overwweight,1,1,0,1,1,120,5795152.78,0.00
+3,1,Twenty,0,Female,Healthy,1,1,0,1,1,83,3681925.45,0.00
+3,1,Twenty,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Twenty,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Twenty,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Twenty,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Twenty,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Twenty,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Twenty,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Twenty,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Twenty,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Twenty,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Twenty,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Twenty,Mexican American,0,0,1,1,1,0,0,171,5429722.86,0.87
+3,1,Twenty,Mexican American,0,Obese,1,1,1,0,1,126,3953513.70,1.19
+3,1,Twenty,Mexican American,0,Overwweight,1,1,1,0,1,29,936692.29,0.00
+3,1,Twenty,Mexican American,0,Healthy,1,1,1,0,1,16,539516.87,0.00
+3,1,Twenty,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Twenty,Mexican American,Male,0,1,1,1,1,0,76,2796110.11,1.69
+3,1,Twenty,Mexican American,Male,Obese,1,1,1,1,1,56,2086032.91,2.26
+3,1,Twenty,Mexican American,Male,Overwweight,1,1,1,1,1,12,413422.75,0.00
+3,1,Twenty,Mexican American,Male,Healthy,1,1,1,1,1,8,296654.44,0.00
+3,1,Twenty,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Female,0,1,1,1,1,0,95,2633612.75,0.00
+3,1,Twenty,Mexican American,Female,Obese,1,1,1,1,1,70,1867480.79,0.00
+3,1,Twenty,Mexican American,Female,Overwweight,1,1,1,1,1,17,523269.53,0.00
+3,1,Twenty,Mexican American,Female,Healthy,1,1,1,1,1,8,242862.43,0.00
+3,1,Twenty,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,0,0,1,1,1,0,0,108,3609917.14,0.00
+3,1,Twenty,Other Hispanic,0,Obese,1,1,1,0,1,71,2403973.96,0.00
+3,1,Twenty,Other Hispanic,0,Overwweight,1,1,1,0,1,25,801608.71,0.00
+3,1,Twenty,Other Hispanic,0,Healthy,1,1,1,0,1,12,404334.48,0.00
+3,1,Twenty,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Twenty,Other Hispanic,Male,0,1,1,1,1,0,47,1824798.89,0.00
+3,1,Twenty,Other Hispanic,Male,Obese,1,1,1,1,1,37,1428282.96,0.00
+3,1,Twenty,Other Hispanic,Male,Overwweight,1,1,1,1,1,7,283017.56,0.00
+3,1,Twenty,Other Hispanic,Male,Healthy,1,1,1,1,1,3,113498.37,0.00
+3,1,Twenty,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Female,0,1,1,1,1,0,61,1785118.25,0.00
+3,1,Twenty,Other Hispanic,Female,Obese,1,1,1,1,1,34,975691.00,0.00
+3,1,Twenty,Other Hispanic,Female,Overwweight,1,1,1,1,1,18,518591.15,0.00
+3,1,Twenty,Other Hispanic,Female,Healthy,1,1,1,1,1,9,290836.10,0.00
+3,1,Twenty,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,0,0,1,1,1,0,0,276,23956486.5,0.73
+3,1,Twenty,Non-Hispanic White,0,Obese,1,1,1,0,1,151,12680504.9,1.39
+3,1,Twenty,Non-Hispanic White,0,Overwweight,1,1,1,0,1,81,7285723.29,0.00
+3,1,Twenty,Non-Hispanic White,0,Healthy,1,1,1,0,1,44,3990258.38,0.00
+3,1,Twenty,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Male,0,1,1,1,1,0,124,12100779.5,1.01
+3,1,Twenty,Non-Hispanic White,Male,Obese,1,1,1,1,1,67,6391375.87,1.92
+3,1,Twenty,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,39,3792342.13,0.00
+3,1,Twenty,Non-Hispanic White,Male,Healthy,1,1,1,1,1,18,1917061.50,0.00
+3,1,Twenty,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Female,0,1,1,1,1,0,152,11855707.0,0.45
+3,1,Twenty,Non-Hispanic White,Female,Obese,1,1,1,1,1,84,6289129.01,0.85
+3,1,Twenty,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,42,3493381.15,0.00
+3,1,Twenty,Non-Hispanic White,Female,Healthy,1,1,1,1,1,26,2073196.88,0.00
+3,1,Twenty,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,0,0,1,1,1,0,0,204,6084674.48,0.00
+3,1,Twenty,Non-Hispanic Black,0,Obese,1,1,1,0,1,117,3401021.96,0.00
+3,1,Twenty,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,55,1692829.13,0.00
+3,1,Twenty,Non-Hispanic Black,0,Healthy,1,1,1,0,1,32,990823.39,0.00
+3,1,Twenty,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Male,0,1,1,1,1,0,96,2924502.18,0.00
+3,1,Twenty,Non-Hispanic Black,Male,Obese,1,1,1,1,1,50,1456290.66,0.00
+3,1,Twenty,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,30,937872.39,0.00
+3,1,Twenty,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,16,530339.14,0.00
+3,1,Twenty,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Female,0,1,1,1,1,0,108,3160172.30,0.00
+3,1,Twenty,Non-Hispanic Black,Female,Obese,1,1,1,1,1,67,1944731.30,0.00
+3,1,Twenty,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,25,754956.75,0.00
+3,1,Twenty,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,16,460484.25,0.00
+3,1,Twenty,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,0,0,1,1,1,0,0,132,2814791.74,0.00
+3,1,Twenty,Non-Hispanic Asian,0,Obese,1,1,1,0,1,54,1162079.96,0.00
+3,1,Twenty,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,48,981809.93,0.00
+3,1,Twenty,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,30,670901.85,0.00
+3,1,Twenty,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Male,0,1,1,1,1,0,74,1418819.74,0.00
+3,1,Twenty,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,33,625227.43,0.00
+3,1,Twenty,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,32,619921.23,0.00
+3,1,Twenty,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,9,173671.07,0.00
+3,1,Twenty,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Female,0,1,1,1,1,0,58,1395972.00,0.00
+3,1,Twenty,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,21,536852.53,0.00
+3,1,Twenty,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,16,361888.70,0.00
+3,1,Twenty,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,21,497230.78,0.00
+3,1,Twenty,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,0,0,1,1,1,0,0,40,1779045.24,0.00
+3,1,Twenty,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,27,1221295.56,0.00
+3,1,Twenty,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,5,281337.24,0.00
+3,1,Twenty,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,8,276412.44,0.00
+3,1,Twenty,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Male,0,1,1,1,1,0,19,759862.58,0.00
+3,1,Twenty,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,11,462493.42,0.00
+3,1,Twenty,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,3,138271.74,0.00
+3,1,Twenty,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,5,159097.43,0.00
+3,1,Twenty,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Female,0,1,1,1,1,0,21,1019182.66,0.00
+3,1,Twenty,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,16,758802.15,0.00
+3,1,Twenty,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,2,143065.50,0.00
+3,1,Twenty,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,3,117315.01,0.00
+3,1,Twenty,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Twenty,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Twenty,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Twenty,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Twenty,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Twenty,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Twenty,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,0,0,0,1,1,0,0,0,933,41186371.0,0.56
+3,1,Thirty,0,0,Obese,1,1,0,0,1,674,29839945.6,0.35
+3,1,Thirty,0,0,Overwweight,1,1,0,0,1,188,8815253.56,0.00
+3,1,Thirty,0,0,Healthy,1,1,0,0,1,71,2531171.86,4.96
+3,1,Thirty,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Thirty,0,Male,0,1,1,0,1,0,452,20226096.0,0.00
+3,1,Thirty,0,Male,Obese,1,1,0,1,1,335,15495155.5,0.00
+3,1,Thirty,0,Male,Overwweight,1,1,0,1,1,94,4070889.30,0.00
+3,1,Thirty,0,Male,Healthy,1,1,0,1,1,23,660051.22,0.00
+3,1,Thirty,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Thirty,0,Female,0,1,1,0,1,0,481,20960275.0,1.09
+3,1,Thirty,0,Female,Obese,1,1,0,1,1,339,14344790.1,0.72
+3,1,Thirty,0,Female,Overwweight,1,1,0,1,1,94,4744364.26,0.00
+3,1,Thirty,0,Female,Healthy,1,1,0,1,1,48,1871120.64,6.72
+3,1,Thirty,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Thirty,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Thirty,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Thirty,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Thirty,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Thirty,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Thirty,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Thirty,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Thirty,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Thirty,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Thirty,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Thirty,Mexican American,0,0,1,1,1,0,0,176,4958361.06,0.00
+3,1,Thirty,Mexican American,0,Obese,1,1,1,0,1,146,4083391.83,0.00
+3,1,Thirty,Mexican American,0,Overwweight,1,1,1,0,1,20,593101.00,0.00
+3,1,Thirty,Mexican American,0,Healthy,1,1,1,0,1,10,281868.24,0.00
+3,1,Thirty,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Thirty,Mexican American,Male,0,1,1,1,1,0,88,2519067.19,0.00
+3,1,Thirty,Mexican American,Male,Obese,1,1,1,1,1,71,2021623.33,0.00
+3,1,Thirty,Mexican American,Male,Overwweight,1,1,1,1,1,12,357097.50,0.00
+3,1,Thirty,Mexican American,Male,Healthy,1,1,1,1,1,5,140346.37,0.00
+3,1,Thirty,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Female,0,1,1,1,1,0,88,2439293.87,0.00
+3,1,Thirty,Mexican American,Female,Obese,1,1,1,1,1,75,2061768.50,0.00
+3,1,Thirty,Mexican American,Female,Overwweight,1,1,1,1,1,8,236003.50,0.00
+3,1,Thirty,Mexican American,Female,Healthy,1,1,1,1,1,5,141521.87,0.00
+3,1,Thirty,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,0,0,1,1,1,0,0,121,3566388.93,0.00
+3,1,Thirty,Other Hispanic,0,Obese,1,1,1,0,1,97,2911445.89,0.00
+3,1,Thirty,Other Hispanic,0,Overwweight,1,1,1,0,1,18,476703.16,0.00
+3,1,Thirty,Other Hispanic,0,Healthy,1,1,1,0,1,6,178239.89,0.00
+3,1,Thirty,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Thirty,Other Hispanic,Male,0,1,1,1,1,0,61,1804695.81,0.00
+3,1,Thirty,Other Hispanic,Male,Obese,1,1,1,1,1,50,1530247.11,0.00
+3,1,Thirty,Other Hispanic,Male,Overwweight,1,1,1,1,1,10,254443.78,0.00
+3,1,Thirty,Other Hispanic,Male,Healthy,1,1,1,1,1,1,20004.91,0.00
+3,1,Thirty,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Female,0,1,1,1,1,0,60,1761693.13,0.00
+3,1,Thirty,Other Hispanic,Female,Obese,1,1,1,1,1,47,1381198.77,0.00
+3,1,Thirty,Other Hispanic,Female,Overwweight,1,1,1,1,1,8,222259.37,0.00
+3,1,Thirty,Other Hispanic,Female,Healthy,1,1,1,1,1,5,158234.98,0.00
+3,1,Thirty,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,0,0,1,1,1,0,0,274,22983803.9,0.86
+3,1,Thirty,Non-Hispanic White,0,Obese,1,1,1,0,1,189,16120671.8,0.44
+3,1,Thirty,Non-Hispanic White,0,Overwweight,1,1,1,0,1,68,5681884.28,0.00
+3,1,Thirty,Non-Hispanic White,0,Healthy,1,1,1,0,1,17,1181247.74,10.64
+3,1,Thirty,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Male,0,1,1,1,1,0,144,11578794.4,0.00
+3,1,Thirty,Non-Hispanic White,Male,Obese,1,1,1,1,1,104,8866085.95,0.00
+3,1,Thirty,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,34,2511714.45,0.00
+3,1,Thirty,Non-Hispanic White,Male,Healthy,1,1,1,1,1,6,200994.02,0.00
+3,1,Thirty,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Female,0,1,1,1,1,0,130,11405009.4,1.72
+3,1,Thirty,Non-Hispanic White,Female,Obese,1,1,1,1,1,85,7254585.90,0.98
+3,1,Thirty,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,34,3170169.83,0.00
+3,1,Thirty,Non-Hispanic White,Female,Healthy,1,1,1,1,1,11,980253.71,12.82
+3,1,Thirty,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,0,0,1,1,1,0,0,187,4817208.00,0.68
+3,1,Thirty,Non-Hispanic Black,0,Obese,1,1,1,0,1,144,3730966.91,0.88
+3,1,Thirty,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,28,691675.69,0.00
+3,1,Thirty,Non-Hispanic Black,0,Healthy,1,1,1,0,1,15,394565.40,0.00
+3,1,Thirty,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Male,0,1,1,1,1,0,79,2096427.44,0.00
+3,1,Thirty,Non-Hispanic Black,Male,Obese,1,1,1,1,1,61,1610046.47,0.00
+3,1,Thirty,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,12,315954.66,0.00
+3,1,Thirty,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,6,170426.32,0.00
+3,1,Thirty,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Female,0,1,1,1,1,0,108,2720780.55,1.20
+3,1,Thirty,Non-Hispanic Black,Female,Obese,1,1,1,1,1,83,2120920.44,1.54
+3,1,Thirty,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,16,375721.03,0.00
+3,1,Thirty,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,9,224139.08,0.00
+3,1,Thirty,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,0,0,1,1,1,0,0,128,2938452.08,0.00
+3,1,Thirty,Non-Hispanic Asian,0,Obese,1,1,1,0,1,61,1439673.38,0.00
+3,1,Thirty,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,44,1003528.10,0.00
+3,1,Thirty,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,23,495250.60,0.00
+3,1,Thirty,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Male,0,1,1,1,1,0,59,1413705.87,0.00
+3,1,Thirty,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,34,828365.89,0.00
+3,1,Thirty,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,20,457060.37,0.00
+3,1,Thirty,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,5,128279.61,0.00
+3,1,Thirty,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Female,0,1,1,1,1,0,69,1524746.21,0.00
+3,1,Thirty,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,27,611307.49,0.00
+3,1,Thirty,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,24,546467.73,0.00
+3,1,Thirty,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,18,366970.99,0.00
+3,1,Thirty,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,0,0,1,1,1,0,0,47,1922157.06,0.00
+3,1,Thirty,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,37,1553795.73,0.00
+3,1,Thirty,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,10,368361.33,0.00
+3,1,Thirty,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Male,0,1,1,1,1,0,21,813405.27,0.00
+3,1,Thirty,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,15,638786.74,0.00
+3,1,Thirty,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,6,174618.53,0.00
+3,1,Thirty,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Female,0,1,1,1,1,0,26,1108751.79,0.00
+3,1,Thirty,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,22,915008.99,0.00
+3,1,Thirty,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,4,193742.80,0.00
+3,1,Thirty,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Thirty,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Thirty,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Thirty,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Thirty,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Thirty,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Thirty,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,0,0,0,1,1,0,0,0,913,40924623.9,0.68
+3,1,Forty,0,0,Obese,1,1,0,0,1,681,30208185.9,0.62
+3,1,Forty,0,0,Overwweight,1,1,0,0,1,184,8385308.00,1.08
+3,1,Forty,0,0,Healthy,1,1,0,0,1,48,2331129.98,0.00
+3,1,Forty,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Forty,0,Male,0,1,1,0,1,0,402,19708577.3,0.99
+3,1,Forty,0,Male,Obese,1,1,0,1,1,316,16092419.7,1.00
+3,1,Forty,0,Male,Overwweight,1,1,0,1,1,72,2791297.12,1.21
+3,1,Forty,0,Male,Healthy,1,1,0,1,1,14,824860.52,0.00
+3,1,Forty,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Forty,0,Female,0,1,1,0,1,0,511,21216046.6,0.39
+3,1,Forty,0,Female,Obese,1,1,0,1,1,365,14115766.2,0.19
+3,1,Forty,0,Female,Overwweight,1,1,0,1,1,112,5594010.88,1.01
+3,1,Forty,0,Female,Healthy,1,1,0,1,1,34,1506269.46,0.00
+3,1,Forty,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Forty,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Forty,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Forty,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Forty,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Forty,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Forty,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Forty,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Forty,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Forty,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Forty,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Forty,Mexican American,0,0,1,1,1,0,0,149,4105177.44,0.00
+3,1,Forty,Mexican American,0,Obese,1,1,1,0,1,125,3406348.89,0.00
+3,1,Forty,Mexican American,0,Overwweight,1,1,1,0,1,21,602906.73,0.00
+3,1,Forty,Mexican American,0,Healthy,1,1,1,0,1,3,95921.83,0.00
+3,1,Forty,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Forty,Mexican American,Male,0,1,1,1,1,0,54,1834359.31,0.00
+3,1,Forty,Mexican American,Male,Obese,1,1,1,1,1,43,1488926.21,0.00
+3,1,Forty,Mexican American,Male,Overwweight,1,1,1,1,1,8,249511.27,0.00
+3,1,Forty,Mexican American,Male,Healthy,1,1,1,1,1,3,95921.83,0.00
+3,1,Forty,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Female,0,1,1,1,1,0,95,2270818.13,0.00
+3,1,Forty,Mexican American,Female,Obese,1,1,1,1,1,82,1917422.67,0.00
+3,1,Forty,Mexican American,Female,Overwweight,1,1,1,1,1,13,353395.46,0.00
+3,1,Forty,Mexican American,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,0,0,1,1,1,0,0,107,2916687.03,0.80
+3,1,Forty,Other Hispanic,0,Obese,1,1,1,0,1,89,2479874.54,0.00
+3,1,Forty,Other Hispanic,0,Overwweight,1,1,1,0,1,15,356544.89,6.53
+3,1,Forty,Other Hispanic,0,Healthy,1,1,1,0,1,3,80267.60,0.00
+3,1,Forty,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Forty,Other Hispanic,Male,0,1,1,1,1,0,45,1546924.55,0.00
+3,1,Forty,Other Hispanic,Male,Obese,1,1,1,1,1,41,1401161.19,0.00
+3,1,Forty,Other Hispanic,Male,Overwweight,1,1,1,1,1,3,101028.57,0.00
+3,1,Forty,Other Hispanic,Male,Healthy,1,1,1,1,1,1,44734.79,0.00
+3,1,Forty,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Female,0,1,1,1,1,0,62,1369762.47,1.70
+3,1,Forty,Other Hispanic,Female,Obese,1,1,1,1,1,48,1078713.35,0.00
+3,1,Forty,Other Hispanic,Female,Overwweight,1,1,1,1,1,12,255516.32,9.11
+3,1,Forty,Other Hispanic,Female,Healthy,1,1,1,1,1,2,35532.81,0.00
+3,1,Forty,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,0,0,1,1,1,0,0,255,24626584.0,0.90
+3,1,Forty,Non-Hispanic White,0,Obese,1,1,1,0,1,191,17977174.2,1.05
+3,1,Forty,Non-Hispanic White,0,Overwweight,1,1,1,0,1,49,5022332.07,0.67
+3,1,Forty,Non-Hispanic White,0,Healthy,1,1,1,0,1,15,1627077.80,0.00
+3,1,Forty,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Male,0,1,1,1,1,0,124,12278439.9,1.59
+3,1,Forty,Non-Hispanic White,Male,Obese,1,1,1,1,1,102,10171059.4,1.59
+3,1,Forty,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,18,1521530.51,2.22
+3,1,Forty,Non-Hispanic White,Male,Healthy,1,1,1,1,1,4,585849.96,0.00
+3,1,Forty,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Female,0,1,1,1,1,0,131,12348144.1,0.22
+3,1,Forty,Non-Hispanic White,Female,Obese,1,1,1,1,1,89,7806114.74,0.35
+3,1,Forty,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,31,3500801.56,0.00
+3,1,Forty,Non-Hispanic White,Female,Healthy,1,1,1,1,1,11,1041227.84,0.00
+3,1,Forty,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,0,0,1,1,1,0,0,228,5188805.00,0.00
+3,1,Forty,Non-Hispanic Black,0,Obese,1,1,1,0,1,188,4291127.01,0.00
+3,1,Forty,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,34,783732.04,0.00
+3,1,Forty,Non-Hispanic Black,0,Healthy,1,1,1,0,1,6,113945.96,0.00
+3,1,Forty,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Male,0,1,1,1,1,0,94,2199417.19,0.00
+3,1,Forty,Non-Hispanic Black,Male,Obese,1,1,1,1,1,76,1811428.38,0.00
+3,1,Forty,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,17,368179.80,0.00
+3,1,Forty,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,1,19809.01,0.00
+3,1,Forty,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Female,0,1,1,1,1,0,134,2989387.81,0.00
+3,1,Forty,Non-Hispanic Black,Female,Obese,1,1,1,1,1,112,2479698.62,0.00
+3,1,Forty,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,17,415552.24,0.00
+3,1,Forty,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,5,94136.95,0.00
+3,1,Forty,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,0,0,1,1,1,0,0,145,3020528.95,1.09
+3,1,Forty,Non-Hispanic Asian,0,Obese,1,1,1,0,1,68,1446100.87,0.00
+3,1,Forty,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,56,1160511.29,2.85
+3,1,Forty,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,21,413916.79,0.00
+3,1,Forty,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Male,0,1,1,1,1,0,68,1302131.64,0.00
+3,1,Forty,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,42,846145.73,0.00
+3,1,Forty,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,21,377440.99,0.00
+3,1,Forty,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,5,78544.93,0.00
+3,1,Forty,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Female,0,1,1,1,1,0,77,1718397.31,1.92
+3,1,Forty,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,26,599955.15,0.00
+3,1,Forty,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,35,783070.30,4.22
+3,1,Forty,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,16,335371.86,0.00
+3,1,Forty,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,0,0,1,1,1,0,0,29,1066841.42,0.00
+3,1,Forty,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,20,607560.43,0.00
+3,1,Forty,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,9,459280.99,0.00
+3,1,Forty,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Male,0,1,1,1,1,0,17,547304.73,0.00
+3,1,Forty,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,12,373698.75,0.00
+3,1,Forty,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,5,173605.98,0.00
+3,1,Forty,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Female,0,1,1,1,1,0,12,519536.69,0.00
+3,1,Forty,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,8,233861.68,0.00
+3,1,Forty,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,4,285675.01,0.00
+3,1,Forty,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Forty,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Forty,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Forty,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Forty,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Forty,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Forty,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,0,0,0,1,1,0,0,0,888,43176906.1,1.45
+3,1,Fifty,0,0,Obese,1,1,0,0,1,663,32218634.4,1.69
+3,1,Fifty,0,0,Overwweight,1,1,0,0,1,183,9303909.79,0.84
+3,1,Fifty,0,0,Healthy,1,1,0,0,1,42,1654361.96,0.00
+3,1,Fifty,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Fifty,0,Male,0,1,1,0,1,0,437,21271387.7,1.60
+3,1,Fifty,0,Male,Obese,1,1,0,1,1,326,15844127.1,2.03
+3,1,Fifty,0,Male,Overwweight,1,1,0,1,1,95,4609045.31,0.40
+3,1,Fifty,0,Male,Healthy,1,1,0,1,1,16,818215.24,0.00
+3,1,Fifty,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Fifty,0,Female,0,1,1,0,1,0,451,21905518.4,1.30
+3,1,Fifty,0,Female,Obese,1,1,0,1,1,337,16374507.2,1.37
+3,1,Fifty,0,Female,Overwweight,1,1,0,1,1,88,4694864.48,1.28
+3,1,Fifty,0,Female,Healthy,1,1,0,1,1,26,836146.72,0.00
+3,1,Fifty,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Fifty,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Fifty,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Fifty,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Fifty,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Fifty,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Fifty,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Fifty,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Fifty,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Fifty,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Fifty,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Fifty,Mexican American,0,0,1,1,1,0,0,147,3128971.27,0.00
+3,1,Fifty,Mexican American,0,Obese,1,1,1,0,1,134,2848994.25,0.00
+3,1,Fifty,Mexican American,0,Overwweight,1,1,1,0,1,10,196035.79,0.00
+3,1,Fifty,Mexican American,0,Healthy,1,1,1,0,1,3,83941.24,0.00
+3,1,Fifty,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Fifty,Mexican American,Male,0,1,1,1,1,0,66,1698103.52,0.00
+3,1,Fifty,Mexican American,Male,Obese,1,1,1,1,1,60,1561236.98,0.00
+3,1,Fifty,Mexican American,Male,Overwweight,1,1,1,1,1,5,108784.93,0.00
+3,1,Fifty,Mexican American,Male,Healthy,1,1,1,1,1,1,28081.61,0.00
+3,1,Fifty,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Female,0,1,1,1,1,0,81,1430867.75,0.00
+3,1,Fifty,Mexican American,Female,Obese,1,1,1,1,1,74,1287757.26,0.00
+3,1,Fifty,Mexican American,Female,Overwweight,1,1,1,1,1,5,87250.86,0.00
+3,1,Fifty,Mexican American,Female,Healthy,1,1,1,1,1,2,55859.63,0.00
+3,1,Fifty,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,0,0,1,1,1,0,0,129,2568909.26,0.00
+3,1,Fifty,Other Hispanic,0,Obese,1,1,1,0,1,103,2043124.22,0.00
+3,1,Fifty,Other Hispanic,0,Overwweight,1,1,1,0,1,20,407383.89,0.00
+3,1,Fifty,Other Hispanic,0,Healthy,1,1,1,0,1,6,118401.15,0.00
+3,1,Fifty,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Fifty,Other Hispanic,Male,0,1,1,1,1,0,54,1250396.62,0.00
+3,1,Fifty,Other Hispanic,Male,Obese,1,1,1,1,1,46,1054637.14,0.00
+3,1,Fifty,Other Hispanic,Male,Overwweight,1,1,1,1,1,6,143833.08,0.00
+3,1,Fifty,Other Hispanic,Male,Healthy,1,1,1,1,1,2,51926.40,0.00
+3,1,Fifty,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Female,0,1,1,1,1,0,75,1318512.64,0.00
+3,1,Fifty,Other Hispanic,Female,Obese,1,1,1,1,1,57,988487.08,0.00
+3,1,Fifty,Other Hispanic,Female,Overwweight,1,1,1,1,1,14,263550.81,0.00
+3,1,Fifty,Other Hispanic,Female,Healthy,1,1,1,1,1,4,66474.76,0.00
+3,1,Fifty,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,0,0,1,1,1,0,0,284,29335081.8,1.79
+3,1,Fifty,Non-Hispanic White,0,Obese,1,1,1,0,1,212,21703306.7,2.14
+3,1,Fifty,Non-Hispanic White,0,Overwweight,1,1,1,0,1,61,6648277.05,0.90
+3,1,Fifty,Non-Hispanic White,0,Healthy,1,1,1,0,1,11,983498.02,0.00
+3,1,Fifty,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Male,0,1,1,1,1,0,146,14283749.1,1.97
+3,1,Fifty,Non-Hispanic White,Male,Obese,1,1,1,1,1,108,10361825.7,2.72
+3,1,Fifty,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,32,3324605.87,0.00
+3,1,Fifty,Non-Hispanic White,Male,Healthy,1,1,1,1,1,6,597317.53,0.00
+3,1,Fifty,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Female,0,1,1,1,1,0,138,15051332.6,1.61
+3,1,Fifty,Non-Hispanic White,Female,Obese,1,1,1,1,1,104,11341481.0,1.61
+3,1,Fifty,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,29,3323671.18,1.81
+3,1,Fifty,Non-Hispanic White,Female,Healthy,1,1,1,1,1,5,386180.50,0.00
+3,1,Fifty,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,0,0,1,1,1,0,0,192,4691433.07,1.59
+3,1,Fifty,Non-Hispanic Black,0,Obese,1,1,1,0,1,153,3702858.06,1.52
+3,1,Fifty,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,32,800170.14,2.31
+3,1,Fifty,Non-Hispanic Black,0,Healthy,1,1,1,0,1,7,188404.87,0.00
+3,1,Fifty,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Male,0,1,1,1,1,0,91,2157289.09,2.68
+3,1,Fifty,Non-Hispanic Black,Male,Obese,1,1,1,1,1,71,1652697.66,2.38
+3,1,Fifty,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,18,438562.05,4.21
+3,1,Fifty,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,2,66029.38,0.00
+3,1,Fifty,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Female,0,1,1,1,1,0,101,2534143.98,0.66
+3,1,Fifty,Non-Hispanic Black,Female,Obese,1,1,1,1,1,82,2050160.40,0.82
+3,1,Fifty,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,14,361608.09,0.00
+3,1,Fifty,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,5,122375.49,0.00
+3,1,Fifty,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,0,0,1,1,1,0,0,105,1912680.59,1.32
+3,1,Fifty,Non-Hispanic Asian,0,Obese,1,1,1,0,1,38,659694.61,3.81
+3,1,Fifty,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,52,972869.30,0.00
+3,1,Fifty,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,15,280116.68,0.00
+3,1,Fifty,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Male,0,1,1,1,1,0,59,950227.97,0.00
+3,1,Fifty,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,25,384263.48,0.00
+3,1,Fifty,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,29,491104.17,0.00
+3,1,Fifty,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,5,74860.32,0.00
+3,1,Fifty,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Female,0,1,1,1,1,0,46,962452.61,2.61
+3,1,Fifty,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,13,275431.13,9.13
+3,1,Fifty,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,23,481765.13,0.00
+3,1,Fifty,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,10,205256.35,0.00
+3,1,Fifty,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,0,0,1,1,1,0,0,31,1539830.14,0.00
+3,1,Fifty,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,23,1260656.50,0.00
+3,1,Fifty,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,8,279173.64,0.00
+3,1,Fifty,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Male,0,1,1,1,1,0,21,931621.33,0.00
+3,1,Fifty,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,16,829466.11,0.00
+3,1,Fifty,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,5,102155.22,0.00
+3,1,Fifty,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Female,0,1,1,1,1,0,10,608208.81,0.00
+3,1,Fifty,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,7,431190.40,0.00
+3,1,Fifty,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,3,177018.42,0.00
+3,1,Fifty,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Fifty,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Fifty,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Fifty,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Fifty,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Fifty,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Fifty,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,0,0,0,1,1,0,0,0,917,35071525.0,0.05
+3,1,Sixty,0,0,Obese,1,1,0,0,1,703,26602394.4,0.06
+3,1,Sixty,0,0,Overwweight,1,1,0,0,1,150,6384679.38,0.00
+3,1,Sixty,0,0,Healthy,1,1,0,0,1,64,2084451.27,0.00
+3,1,Sixty,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Sixty,0,Male,0,1,1,0,1,0,449,16621283.0,0.05
+3,1,Sixty,0,Male,Obese,1,1,0,1,1,337,12901545.3,0.07
+3,1,Sixty,0,Male,Overwweight,1,1,0,1,1,81,2887754.24,0.00
+3,1,Sixty,0,Male,Healthy,1,1,0,1,1,31,831983.49,0.00
+3,1,Sixty,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Sixty,0,Female,0,1,1,0,1,0,468,18450242.0,0.04
+3,1,Sixty,0,Female,Obese,1,1,0,1,1,366,13700849.1,0.06
+3,1,Sixty,0,Female,Overwweight,1,1,0,1,1,69,3496925.14,0.00
+3,1,Sixty,0,Female,Healthy,1,1,0,1,1,33,1252467.78,0.00
+3,1,Sixty,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Sixty,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Sixty,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Sixty,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Sixty,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Sixty,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Sixty,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Sixty,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Sixty,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Sixty,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Sixty,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Sixty,Mexican American,0,0,1,1,1,0,0,186,1747876.64,0.50
+3,1,Sixty,Mexican American,0,Obese,1,1,1,0,1,162,1525851.30,0.58
+3,1,Sixty,Mexican American,0,Overwweight,1,1,1,0,1,20,186860.87,0.00
+3,1,Sixty,Mexican American,0,Healthy,1,1,1,0,1,4,35164.48,0.00
+3,1,Sixty,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Sixty,Mexican American,Male,0,1,1,1,1,0,90,834020.15,1.06
+3,1,Sixty,Mexican American,Male,Obese,1,1,1,1,1,75,692197.43,1.27
+3,1,Sixty,Mexican American,Male,Overwweight,1,1,1,1,1,12,115502.08,0.00
+3,1,Sixty,Mexican American,Male,Healthy,1,1,1,1,1,3,26320.65,0.00
+3,1,Sixty,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Female,0,1,1,1,1,0,96,913856.49,0.00
+3,1,Sixty,Mexican American,Female,Obese,1,1,1,1,1,87,833653.87,0.00
+3,1,Sixty,Mexican American,Female,Overwweight,1,1,1,1,1,8,71358.79,0.00
+3,1,Sixty,Mexican American,Female,Healthy,1,1,1,1,1,1,8843.83,0.00
+3,1,Sixty,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,0,0,1,1,1,0,0,172,1453620.36,0.57
+3,1,Sixty,Other Hispanic,0,Obese,1,1,1,0,1,142,1200799.01,0.69
+3,1,Sixty,Other Hispanic,0,Overwweight,1,1,1,0,1,19,159130.29,0.00
+3,1,Sixty,Other Hispanic,0,Healthy,1,1,1,0,1,11,93691.06,0.00
+3,1,Sixty,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Sixty,Other Hispanic,Male,0,1,1,1,1,0,77,659880.85,0.00
+3,1,Sixty,Other Hispanic,Male,Obese,1,1,1,1,1,65,557586.58,0.00
+3,1,Sixty,Other Hispanic,Male,Overwweight,1,1,1,1,1,8,65318.35,0.00
+3,1,Sixty,Other Hispanic,Male,Healthy,1,1,1,1,1,4,36975.93,0.00
+3,1,Sixty,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Female,0,1,1,1,1,0,95,793739.51,1.04
+3,1,Sixty,Other Hispanic,Female,Obese,1,1,1,1,1,77,643212.43,1.28
+3,1,Sixty,Other Hispanic,Female,Overwweight,1,1,1,1,1,11,93811.95,0.00
+3,1,Sixty,Other Hispanic,Female,Healthy,1,1,1,1,1,7,56715.13,0.00
+3,1,Sixty,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,0,0,1,1,1,0,0,248,25501008.3,0.00
+3,1,Sixty,Non-Hispanic White,0,Obese,1,1,1,0,1,188,19594986.2,0.00
+3,1,Sixty,Non-Hispanic White,0,Overwweight,1,1,1,0,1,47,4637939.62,0.00
+3,1,Sixty,Non-Hispanic White,0,Healthy,1,1,1,0,1,13,1268082.48,0.00
+3,1,Sixty,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Male,0,1,1,1,1,0,118,12204425.0,0.00
+3,1,Sixty,Non-Hispanic White,Male,Obese,1,1,1,1,1,92,9781868.55,0.00
+3,1,Sixty,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,20,1956779.67,0.00
+3,1,Sixty,Non-Hispanic White,Male,Healthy,1,1,1,1,1,6,465776.82,0.00
+3,1,Sixty,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Female,0,1,1,1,1,0,130,13296583.2,0.00
+3,1,Sixty,Non-Hispanic White,Female,Obese,1,1,1,1,1,96,9813117.64,0.00
+3,1,Sixty,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,27,2681159.94,0.00
+3,1,Sixty,Non-Hispanic White,Female,Healthy,1,1,1,1,1,7,802305.66,0.00
+3,1,Sixty,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,0,0,1,1,1,0,0,208,3414171.30,0.00
+3,1,Sixty,Non-Hispanic Black,0,Obese,1,1,1,0,1,163,2695637.19,0.00
+3,1,Sixty,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,30,470854.85,0.00
+3,1,Sixty,Non-Hispanic Black,0,Healthy,1,1,1,0,1,15,247679.26,0.00
+3,1,Sixty,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Male,0,1,1,1,1,0,117,1506187.90,0.00
+3,1,Sixty,Non-Hispanic Black,Male,Obese,1,1,1,1,1,87,1119735.99,0.00
+3,1,Sixty,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,20,247482.84,0.00
+3,1,Sixty,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,10,138969.06,0.00
+3,1,Sixty,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Female,0,1,1,1,1,0,91,1907983.40,0.00
+3,1,Sixty,Non-Hispanic Black,Female,Obese,1,1,1,1,1,76,1575901.20,0.00
+3,1,Sixty,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,10,223372.00,0.00
+3,1,Sixty,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,5,108710.20,0.00
+3,1,Sixty,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,0,0,1,1,1,0,0,77,1671364.21,0.00
+3,1,Sixty,Non-Hispanic Asian,0,Obese,1,1,1,0,1,29,620454.24,0.00
+3,1,Sixty,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,31,692761.11,0.00
+3,1,Sixty,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,17,358148.86,0.00
+3,1,Sixty,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Male,0,1,1,1,1,0,34,748891.00,0.00
+3,1,Sixty,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,10,222037.99,0.00
+3,1,Sixty,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,19,423034.33,0.00
+3,1,Sixty,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,5,103818.68,0.00
+3,1,Sixty,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Female,0,1,1,1,1,0,43,922473.21,0.00
+3,1,Sixty,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,19,398416.26,0.00
+3,1,Sixty,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,12,269726.78,0.00
+3,1,Sixty,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,12,254330.17,0.00
+3,1,Sixty,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,0,0,1,1,1,0,0,26,1283484.21,0.00
+3,1,Sixty,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,19,964666.43,0.00
+3,1,Sixty,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,3,237132.64,0.00
+3,1,Sixty,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,4,81685.14,0.00
+3,1,Sixty,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Male,0,1,1,1,1,0,13,667878.06,0.00
+3,1,Sixty,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,8,528118.75,0.00
+3,1,Sixty,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,2,79636.97,0.00
+3,1,Sixty,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,3,60122.35,0.00
+3,1,Sixty,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Female,0,1,1,1,1,0,13,615606.15,0.00
+3,1,Sixty,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,11,436547.68,0.00
+3,1,Sixty,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,1,157495.68,0.00
+3,1,Sixty,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,1,21562.79,0.00
+3,1,Sixty,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Sixty,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Sixty,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Sixty,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Sixty,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Sixty,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Sixty,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,0,0,0,1,1,0,0,0,549,19593731.2,0.86
+3,1,Seventy,0,0,Obese,1,1,0,0,1,421,15076821.8,1.12
+3,1,Seventy,0,0,Overwweight,1,1,0,0,1,89,3176897.28,0.00
+3,1,Seventy,0,0,Healthy,1,1,0,0,1,39,1340012.12,0.00
+3,1,Seventy,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Seventy,0,Male,0,1,1,0,1,0,285,8837811.85,0.90
+3,1,Seventy,0,Male,Obese,1,1,0,1,1,210,6994302.46,1.13
+3,1,Seventy,0,Male,Overwweight,1,1,0,1,1,50,1190328.95,0.00
+3,1,Seventy,0,Male,Healthy,1,1,0,1,1,25,653180.44,0.00
+3,1,Seventy,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Seventy,0,Female,0,1,1,0,1,0,264,10755919.3,0.83
+3,1,Seventy,0,Female,Obese,1,1,0,1,1,211,8082519.34,1.11
+3,1,Seventy,0,Female,Overwweight,1,1,0,1,1,39,1986568.33,0.00
+3,1,Seventy,0,Female,Healthy,1,1,0,1,1,14,686831.67,0.00
+3,1,Seventy,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Seventy,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Seventy,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Seventy,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Seventy,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Seventy,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Seventy,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Seventy,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Seventy,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Seventy,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Seventy,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Seventy,Mexican American,0,0,1,1,1,0,0,95,1104754.83,0.00
+3,1,Seventy,Mexican American,0,Obese,1,1,1,0,1,80,933751.68,0.00
+3,1,Seventy,Mexican American,0,Overwweight,1,1,1,0,1,10,119375.48,0.00
+3,1,Seventy,Mexican American,0,Healthy,1,1,1,0,1,5,51627.67,0.00
+3,1,Seventy,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Seventy,Mexican American,Male,0,1,1,1,1,0,49,519274.69,0.00
+3,1,Seventy,Mexican American,Male,Obese,1,1,1,1,1,37,387342.61,0.00
+3,1,Seventy,Mexican American,Male,Overwweight,1,1,1,1,1,8,92264.24,0.00
+3,1,Seventy,Mexican American,Male,Healthy,1,1,1,1,1,4,39667.84,0.00
+3,1,Seventy,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Female,0,1,1,1,1,0,46,585480.13,0.00
+3,1,Seventy,Mexican American,Female,Obese,1,1,1,1,1,43,546409.06,0.00
+3,1,Seventy,Mexican American,Female,Overwweight,1,1,1,1,1,2,27111.24,0.00
+3,1,Seventy,Mexican American,Female,Healthy,1,1,1,1,1,1,11959.83,0.00
+3,1,Seventy,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,0,0,1,1,1,0,0,64,659976.71,1.75
+3,1,Seventy,Other Hispanic,0,Obese,1,1,1,0,1,51,524550.84,2.20
+3,1,Seventy,Other Hispanic,0,Overwweight,1,1,1,0,1,10,103626.32,0.00
+3,1,Seventy,Other Hispanic,0,Healthy,1,1,1,0,1,3,31799.55,0.00
+3,1,Seventy,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Seventy,Other Hispanic,Male,0,1,1,1,1,0,28,261192.37,0.00
+3,1,Seventy,Other Hispanic,Male,Obese,1,1,1,1,1,21,198178.09,0.00
+3,1,Seventy,Other Hispanic,Male,Overwweight,1,1,1,1,1,6,54065.13,0.00
+3,1,Seventy,Other Hispanic,Male,Healthy,1,1,1,1,1,1,8949.15,0.00
+3,1,Seventy,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Female,0,1,1,1,1,0,36,398784.34,2.89
+3,1,Seventy,Other Hispanic,Female,Obese,1,1,1,1,1,30,326372.75,3.54
+3,1,Seventy,Other Hispanic,Female,Overwweight,1,1,1,1,1,4,49561.19,0.00
+3,1,Seventy,Other Hispanic,Female,Healthy,1,1,1,1,1,2,22850.40,0.00
+3,1,Seventy,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,0,0,1,1,1,0,0,233,14435841.7,0.83
+3,1,Seventy,Non-Hispanic White,0,Obese,1,1,1,0,1,179,11291274.7,1.06
+3,1,Seventy,Non-Hispanic White,0,Overwweight,1,1,1,0,1,38,2308385.49,0.00
+3,1,Seventy,Non-Hispanic White,0,Healthy,1,1,1,0,1,16,836181.52,0.00
+3,1,Seventy,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Male,0,1,1,1,1,0,137,6632003.80,0.97
+3,1,Seventy,Non-Hispanic White,Male,Obese,1,1,1,1,1,111,5690733.71,1.13
+3,1,Seventy,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,18,677115.28,0.00
+3,1,Seventy,Non-Hispanic White,Male,Healthy,1,1,1,1,1,8,264154.80,0.00
+3,1,Seventy,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Female,0,1,1,1,1,0,96,7803837.87,0.70
+3,1,Seventy,Non-Hispanic White,Female,Obese,1,1,1,1,1,68,5600540.95,0.98
+3,1,Seventy,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,20,1631270.20,0.00
+3,1,Seventy,Non-Hispanic White,Female,Healthy,1,1,1,1,1,8,572026.72,0.00
+3,1,Seventy,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,0,0,1,1,1,0,0,99,1712247.50,2.24
+3,1,Seventy,Non-Hispanic Black,0,Obese,1,1,1,0,1,76,1346454.77,2.85
+3,1,Seventy,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,13,216936.55,0.00
+3,1,Seventy,Non-Hispanic Black,0,Healthy,1,1,1,0,1,10,148856.18,0.00
+3,1,Seventy,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Male,0,1,1,1,1,0,45,666834.40,2.24
+3,1,Seventy,Non-Hispanic Black,Male,Obese,1,1,1,1,1,28,411085.69,3.64
+3,1,Seventy,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,9,137742.88,0.00
+3,1,Seventy,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,8,118005.83,0.00
+3,1,Seventy,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Female,0,1,1,1,1,0,54,1045413.10,2.24
+3,1,Seventy,Non-Hispanic Black,Female,Obese,1,1,1,1,1,48,935369.08,2.50
+3,1,Seventy,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,4,79193.66,0.00
+3,1,Seventy,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,2,30850.35,0.00
+3,1,Seventy,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,0,0,1,1,1,0,0,39,798172.33,0.00
+3,1,Seventy,Non-Hispanic Asian,0,Obese,1,1,1,0,1,22,443071.36,0.00
+3,1,Seventy,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,15,310026.71,0.00
+3,1,Seventy,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,2,45074.26,0.00
+3,1,Seventy,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Male,0,1,1,1,1,0,16,294672.57,0.00
+3,1,Seventy,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,8,139003.65,0.00
+3,1,Seventy,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,6,110594.67,0.00
+3,1,Seventy,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,2,45074.26,0.00
+3,1,Seventy,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Female,0,1,1,1,1,0,23,503499.76,0.00
+3,1,Seventy,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,14,304067.72,0.00
+3,1,Seventy,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,9,199432.04,0.00
+3,1,Seventy,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,0,0,1,1,1,0,0,19,882738.16,0.00
+3,1,Seventy,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,13,537718.49,0.00
+3,1,Seventy,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,3,118546.73,0.00
+3,1,Seventy,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,3,226472.94,0.00
+3,1,Seventy,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Male,0,1,1,1,1,0,10,463834.01,0.00
+3,1,Seventy,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,5,167958.71,0.00
+3,1,Seventy,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,3,118546.73,0.00
+3,1,Seventy,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,2,177328.57,0.00
+3,1,Seventy,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Female,0,1,1,1,1,0,9,418904.15,0.00
+3,1,Seventy,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,8,369759.78,0.00
+3,1,Seventy,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,1,49144.37,0.00
+3,1,Seventy,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Seventy,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Seventy,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Seventy,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Seventy,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Seventy,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Seventy,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,0,0,0,1,1,0,0,0,343,10879590.8,0.86
+3,1,Over Eighty,0,0,Obese,1,1,0,0,1,233,7376676.55,0.74
+3,1,Over Eighty,0,0,Overwweight,1,1,0,0,1,75,2440533.56,1.59
+3,1,Over Eighty,0,0,Healthy,1,1,0,0,1,35,1062380.69,0.00
+3,1,Over Eighty,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Over Eighty,0,Male,0,1,1,0,1,0,163,4242623.15,1.19
+3,1,Over Eighty,0,Male,Obese,1,1,0,1,1,114,3173221.21,0.87
+3,1,Over Eighty,0,Male,Overwweight,1,1,0,1,1,37,866679.54,2.64
+3,1,Over Eighty,0,Male,Healthy,1,1,0,1,1,12,202722.40,0.00
+3,1,Over Eighty,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,0,Female,0,1,1,0,1,0,180,6636967.65,0.65
+3,1,Over Eighty,0,Female,Obese,1,1,0,1,1,119,4203455.34,0.64
+3,1,Over Eighty,0,Female,Overwweight,1,1,0,1,1,38,1573854.02,1.02
+3,1,Over Eighty,0,Female,Healthy,1,1,0,1,1,23,859658.29,0.00
+3,1,Over Eighty,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Over Eighty,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Over Eighty,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,0,0,1,1,1,0,0,27,315372.05,0.00
+3,1,Over Eighty,Mexican American,0,Obese,1,1,1,0,1,19,228789.03,0.00
+3,1,Over Eighty,Mexican American,0,Overwweight,1,1,1,0,1,5,54155.71,0.00
+3,1,Over Eighty,Mexican American,0,Healthy,1,1,1,0,1,3,32427.32,0.00
+3,1,Over Eighty,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Mexican American,Male,0,1,1,1,1,0,13,137566.31,0.00
+3,1,Over Eighty,Mexican American,Male,Obese,1,1,1,1,1,8,82812.30,0.00
+3,1,Over Eighty,Mexican American,Male,Overwweight,1,1,1,1,1,4,44695.17,0.00
+3,1,Over Eighty,Mexican American,Male,Healthy,1,1,1,1,1,1,10058.84,0.00
+3,1,Over Eighty,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Female,0,1,1,1,1,0,14,177805.75,0.00
+3,1,Over Eighty,Mexican American,Female,Obese,1,1,1,1,1,11,145976.73,0.00
+3,1,Over Eighty,Mexican American,Female,Overwweight,1,1,1,1,1,1,9460.54,0.00
+3,1,Over Eighty,Mexican American,Female,Healthy,1,1,1,1,1,2,22368.47,0.00
+3,1,Over Eighty,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,0,0,1,1,1,0,0,22,249247.41,6.43
+3,1,Over Eighty,Other Hispanic,0,Obese,1,1,1,0,1,18,196599.97,0.00
+3,1,Over Eighty,Other Hispanic,0,Overwweight,1,1,1,0,1,3,41902.17,38.26
+3,1,Over Eighty,Other Hispanic,0,Healthy,1,1,1,0,1,1,10745.27,0.00
+3,1,Over Eighty,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Male,0,1,1,1,1,0,4,37177.63,0.00
+3,1,Over Eighty,Other Hispanic,Male,Obese,1,1,1,1,1,4,37177.63,0.00
+3,1,Over Eighty,Other Hispanic,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Female,0,1,1,1,1,0,18,212069.78,7.56
+3,1,Over Eighty,Other Hispanic,Female,Obese,1,1,1,1,1,14,159422.35,0.00
+3,1,Over Eighty,Other Hispanic,Female,Overwweight,1,1,1,1,1,3,41902.17,38.26
+3,1,Over Eighty,Other Hispanic,Female,Healthy,1,1,1,1,1,1,10745.27,0.00
+3,1,Over Eighty,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,0,0,1,1,1,0,0,221,8893886.73,0.31
+3,1,Over Eighty,Non-Hispanic White,0,Obese,1,1,1,0,1,155,6125756.81,0.45
+3,1,Over Eighty,Non-Hispanic White,0,Overwweight,1,1,1,0,1,47,1975035.65,0.00
+3,1,Over Eighty,Non-Hispanic White,0,Healthy,1,1,1,0,1,19,793094.27,0.00
+3,1,Over Eighty,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Male,0,1,1,1,1,0,112,3467575.80,0.80
+3,1,Over Eighty,Non-Hispanic White,Male,Obese,1,1,1,1,1,86,2760443.04,1.00
+3,1,Over Eighty,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,21,608737.26,0.00
+3,1,Over Eighty,Non-Hispanic White,Male,Healthy,1,1,1,1,1,5,98395.50,0.00
+3,1,Over Eighty,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Female,0,1,1,1,1,0,109,5426310.93,0.00
+3,1,Over Eighty,Non-Hispanic White,Female,Obese,1,1,1,1,1,69,3365313.76,0.00
+3,1,Over Eighty,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,26,1366298.39,0.00
+3,1,Over Eighty,Non-Hispanic White,Female,Healthy,1,1,1,1,1,14,694698.77,0.00
+3,1,Over Eighty,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,0,0,1,1,1,0,0,43,718687.36,3.75
+3,1,Over Eighty,Non-Hispanic Black,0,Obese,1,1,1,0,1,29,492284.88,5.47
+3,1,Over Eighty,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,8,130090.59,0.00
+3,1,Over Eighty,Non-Hispanic Black,0,Healthy,1,1,1,0,1,6,96311.89,0.00
+3,1,Over Eighty,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Male,0,1,1,1,1,0,19,264248.79,0.00
+3,1,Over Eighty,Non-Hispanic Black,Male,Obese,1,1,1,1,1,11,151532.00,0.00
+3,1,Over Eighty,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,4,56932.49,0.00
+3,1,Over Eighty,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,4,55784.30,0.00
+3,1,Over Eighty,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Female,0,1,1,1,1,0,24,454438.57,5.93
+3,1,Over Eighty,Non-Hispanic Black,Female,Obese,1,1,1,1,1,18,340752.88,7.91
+3,1,Over Eighty,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,4,73158.10,0.00
+3,1,Over Eighty,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,2,40527.59,0.00
+3,1,Over Eighty,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,0,0,1,1,1,0,0,23,477020.01,0.00
+3,1,Over Eighty,Non-Hispanic Asian,0,Obese,1,1,1,0,1,7,148796.88,0.00
+3,1,Over Eighty,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,10,198421.18,0.00
+3,1,Over Eighty,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,6,129801.95,0.00
+3,1,Over Eighty,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Male,0,1,1,1,1,0,12,232306.76,0.00
+3,1,Over Eighty,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,3,60375.04,0.00
+3,1,Over Eighty,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,7,133447.96,0.00
+3,1,Over Eighty,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,2,38483.76,0.00
+3,1,Over Eighty,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Female,0,1,1,1,1,0,11,244713.24,0.00
+3,1,Over Eighty,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,4,88421.84,0.00
+3,1,Over Eighty,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,3,64973.21,0.00
+3,1,Over Eighty,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,4,91318.19,0.00
+3,1,Over Eighty,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,0,0,1,1,1,0,0,7,225377.25,10.15
+3,1,Over Eighty,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,5,184448.98,0.00
+3,1,Over Eighty,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,2,40928.27,55.87
+3,1,Over Eighty,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Male,0,1,1,1,1,0,3,103747.86,22.04
+3,1,Over Eighty,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,2,80881.20,0.00
+3,1,Over Eighty,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,1,22866.66,100.00
+3,1,Over Eighty,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Female,0,1,1,1,1,0,4,121629.38,0.00
+3,1,Over Eighty,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,3,103567.78,0.00
+3,1,Over Eighty,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,1,18061.61,0.00
+3,1,Over Eighty,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Over Eighty,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Over Eighty,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Over Eighty,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,0,0,0,1,1,0,0,0,2391,40351820.5,0.02
+3,1,Under Ten,0,0,Obese,1,1,0,0,1,63,1027864.59,0.00
+3,1,Under Ten,0,0,Overwweight,1,1,0,0,1,124,2161045.48,0.44
+3,1,Under Ten,0,0,Healthy,1,1,0,0,1,2204,37162910.4,0.00
+3,1,Under Ten,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Under Ten,0,Male,0,1,1,0,1,0,1202,20617256.2,0.00
+3,1,Under Ten,0,Male,Obese,1,1,0,1,1,35,550363.27,0.00
+3,1,Under Ten,0,Male,Overwweight,1,1,0,1,1,64,1195717.60,0.00
+3,1,Under Ten,0,Male,Healthy,1,1,0,1,1,1103,18871175.3,0.00
+3,1,Under Ten,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Under Ten,0,Female,0,1,1,0,1,0,1189,19734564.3,0.05
+3,1,Under Ten,0,Female,Obese,1,1,0,1,1,28,477501.31,0.00
+3,1,Under Ten,0,Female,Overwweight,1,1,0,1,1,60,965327.88,0.98
+3,1,Under Ten,0,Female,Healthy,1,1,0,1,1,1101,18291735.1,0.00
+3,1,Under Ten,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Under Ten,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Under Ten,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Under Ten,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Under Ten,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Under Ten,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Under Ten,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Under Ten,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Under Ten,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Under Ten,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Under Ten,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Under Ten,Mexican American,0,0,1,1,1,0,0,524,6631546.87,0.14
+3,1,Under Ten,Mexican American,0,Obese,1,1,1,0,1,20,262656.05,0.00
+3,1,Under Ten,Mexican American,0,Overwweight,1,1,1,0,1,41,568112.69,1.67
+3,1,Under Ten,Mexican American,0,Healthy,1,1,1,0,1,463,5800778.14,0.00
+3,1,Under Ten,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Mexican American,Male,0,1,1,1,1,0,244,3317608.76,0.00
+3,1,Under Ten,Mexican American,Male,Obese,1,1,1,1,1,13,182348.21,0.00
+3,1,Under Ten,Mexican American,Male,Overwweight,1,1,1,1,1,15,223321.38,0.00
+3,1,Under Ten,Mexican American,Male,Healthy,1,1,1,1,1,216,2911939.17,0.00
+3,1,Under Ten,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Female,0,1,1,1,1,0,280,3313938.11,0.29
+3,1,Under Ten,Mexican American,Female,Obese,1,1,1,1,1,7,80307.84,0.00
+3,1,Under Ten,Mexican American,Female,Overwweight,1,1,1,1,1,26,344791.30,2.75
+3,1,Under Ten,Mexican American,Female,Healthy,1,1,1,1,1,247,2888838.97,0.00
+3,1,Under Ten,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,0,0,1,1,1,0,0,305,3860906.50,0.00
+3,1,Under Ten,Other Hispanic,0,Obese,1,1,1,0,1,10,117781.41,0.00
+3,1,Under Ten,Other Hispanic,0,Overwweight,1,1,1,0,1,23,319991.18,0.00
+3,1,Under Ten,Other Hispanic,0,Healthy,1,1,1,0,1,272,3423133.90,0.00
+3,1,Under Ten,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Male,0,1,1,1,1,0,155,2058644.11,0.00
+3,1,Under Ten,Other Hispanic,Male,Obese,1,1,1,1,1,6,70991.91,0.00
+3,1,Under Ten,Other Hispanic,Male,Overwweight,1,1,1,1,1,11,163208.56,0.00
+3,1,Under Ten,Other Hispanic,Male,Healthy,1,1,1,1,1,138,1824443.64,0.00
+3,1,Under Ten,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Female,0,1,1,1,1,0,150,1802262.39,0.00
+3,1,Under Ten,Other Hispanic,Female,Obese,1,1,1,1,1,4,46789.51,0.00
+3,1,Under Ten,Other Hispanic,Female,Overwweight,1,1,1,1,1,12,156782.62,0.00
+3,1,Under Ten,Other Hispanic,Female,Healthy,1,1,1,1,1,134,1598690.26,0.00
+3,1,Under Ten,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,0,0,1,1,1,0,0,698,19904251.3,0.00
+3,1,Under Ten,Non-Hispanic White,0,Obese,1,1,1,0,1,13,408758.52,0.00
+3,1,Under Ten,Non-Hispanic White,0,Overwweight,1,1,1,0,1,21,733819.55,0.00
+3,1,Under Ten,Non-Hispanic White,0,Healthy,1,1,1,0,1,664,18761673.3,0.00
+3,1,Under Ten,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Male,0,1,1,1,1,0,378,10207183.2,0.00
+3,1,Under Ten,Non-Hispanic White,Male,Obese,1,1,1,1,1,6,180064.31,0.00
+3,1,Under Ten,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,15,514314.32,0.00
+3,1,Under Ten,Non-Hispanic White,Male,Healthy,1,1,1,1,1,357,9512804.54,0.00
+3,1,Under Ten,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Female,0,1,1,1,1,0,320,9697068.16,0.00
+3,1,Under Ten,Non-Hispanic White,Female,Obese,1,1,1,1,1,7,228694.22,0.00
+3,1,Under Ten,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,6,219505.23,0.00
+3,1,Under Ten,Non-Hispanic White,Female,Healthy,1,1,1,1,1,307,9248868.72,0.00
+3,1,Under Ten,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,0,0,1,1,1,0,0,513,5409235.30,0.00
+3,1,Under Ten,Non-Hispanic Black,0,Obese,1,1,1,0,1,14,172802.83,0.00
+3,1,Under Ten,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,24,290471.12,0.00
+3,1,Under Ten,Non-Hispanic Black,0,Healthy,1,1,1,0,1,475,4945961.35,0.00
+3,1,Under Ten,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Male,0,1,1,1,1,0,234,2682746.62,0.00
+3,1,Under Ten,Non-Hispanic Black,Male,Obese,1,1,1,1,1,6,77901.92,0.00
+3,1,Under Ten,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,11,135084.48,0.00
+3,1,Under Ten,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,217,2469760.22,0.00
+3,1,Under Ten,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Female,0,1,1,1,1,0,279,2726488.68,0.00
+3,1,Under Ten,Non-Hispanic Black,Female,Obese,1,1,1,1,1,8,94900.91,0.00
+3,1,Under Ten,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,13,155386.64,0.00
+3,1,Under Ten,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,258,2476201.13,0.00
+3,1,Under Ten,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,0,0,1,1,1,0,0,161,1865120.86,0.00
+3,1,Under Ten,Non-Hispanic Asian,0,Obese,1,1,1,0,1,2,16958.44,0.00
+3,1,Under Ten,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,4,44485.01,0.00
+3,1,Under Ten,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,155,1803677.41,0.00
+3,1,Under Ten,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Male,0,1,1,1,1,0,97,1048843.47,0.00
+3,1,Under Ten,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,2,16958.44,0.00
+3,1,Under Ten,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,4,44485.01,0.00
+3,1,Under Ten,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,91,987400.02,0.00
+3,1,Under Ten,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Female,0,1,1,1,1,0,64,816277.39,0.00
+3,1,Under Ten,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,64,816277.39,0.00
+3,1,Under Ten,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,0,0,1,1,1,0,0,190,2680759.62,0.00
+3,1,Under Ten,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,4,48907.33,0.00
+3,1,Under Ten,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,11,204165.94,0.00
+3,1,Under Ten,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,175,2427686.35,0.00
+3,1,Under Ten,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Male,0,1,1,1,1,0,94,1302230.07,0.00
+3,1,Under Ten,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,2,22098.48,0.00
+3,1,Under Ten,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,8,115303.85,0.00
+3,1,Under Ten,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,84,1164827.74,0.00
+3,1,Under Ten,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Female,0,1,1,1,1,0,96,1378529.55,0.00
+3,1,Under Ten,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,2,26808.85,0.00
+3,1,Under Ten,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,3,88862.09,0.00
+3,1,Under Ten,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,91,1262858.61,0.00
+3,1,Under Ten,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Under Ten,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Under Ten,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Under Ten,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,0,0,0,1,1,0,0,0,0,0.00,
+3,1,Unknown,0,0,Obese,1,1,0,0,1,0,0.00,
+3,1,Unknown,0,0,Overwweight,1,1,0,0,1,0,0.00,
+3,1,Unknown,0,0,Healthy,1,1,0,0,1,0,0.00,
+3,1,Unknown,0,0,Unknown,1,1,0,0,1,0,0.00,
+3,1,Unknown,0,Male,0,1,1,0,1,0,0,0.00,
+3,1,Unknown,0,Male,Obese,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Male,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Male,Healthy,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Male,Unknown,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Female,0,1,1,0,1,0,0,0.00,
+3,1,Unknown,0,Female,Obese,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Female,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Female,Healthy,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Female,Unknown,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Other,0,1,1,0,1,0,0,0.00,
+3,1,Unknown,0,Other,Obese,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Other,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Other,Healthy,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Other,Unknown,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Unknown,0,1,1,0,1,0,0,0.00,
+3,1,Unknown,0,Unknown,Obese,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Unknown,Overwweight,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Unknown,Healthy,1,1,0,1,1,0,0.00,
+3,1,Unknown,0,Unknown,Unknown,1,1,0,1,1,0,0.00,
+3,1,Unknown,Mexican American,0,0,1,1,1,0,0,0,0.00,
+3,1,Unknown,Mexican American,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Unknown,Mexican American,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Unknown,Mexican American,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Unknown,Mexican American,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Unknown,Mexican American,Male,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Mexican American,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Female,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Mexican American,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Other,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Mexican American,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Mexican American,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,0,0,1,1,1,0,0,0,0.00,
+3,1,Unknown,Other Hispanic,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Unknown,Other Hispanic,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Unknown,Other Hispanic,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Unknown,Other Hispanic,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Unknown,Other Hispanic,Male,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Other Hispanic,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Female,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Other Hispanic,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Other,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Other Hispanic,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Other Hispanic,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,0,0,1,1,1,0,0,0,0.00,
+3,1,Unknown,Non-Hispanic White,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Male,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic White,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Female,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic White,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Other,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic White,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic White,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,0,0,1,1,1,0,0,0,0.00,
+3,1,Unknown,Non-Hispanic Black,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Male,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Female,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Other,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,0,0,1,1,1,0,0,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Male,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Female,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Other,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,0,0,1,1,1,0,0,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Male,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Female,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Other,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Unknown,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,0,0,1,1,1,0,0,0,0.00,
+3,1,Unknown,Unknown,0,Obese,1,1,1,0,1,0,0.00,
+3,1,Unknown,Unknown,0,Overwweight,1,1,1,0,1,0,0.00,
+3,1,Unknown,Unknown,0,Healthy,1,1,1,0,1,0,0.00,
+3,1,Unknown,Unknown,0,Unknown,1,1,1,0,1,0,0.00,
+3,1,Unknown,Unknown,Male,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Unknown,Male,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Male,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Male,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Male,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Female,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Unknown,Female,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Female,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Female,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Female,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Other,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Unknown,Other,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Other,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Other,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Other,Unknown,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Unknown,0,1,1,1,1,0,0,0.00,
+3,1,Unknown,Unknown,Unknown,Obese,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Unknown,Overwweight,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Unknown,Healthy,1,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Unknown,Unknown,1,1,1,1,1,0,0.00,

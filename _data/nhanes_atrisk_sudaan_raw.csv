@@ -1,0 +1,441 @@
+PROCNUM,TABLENO,DMAGE,DMRACE,DMGNDR,VARIABLE,_C1,_C2,_C3,NSUM,WSUM,PERCENT
+3,1,0,0,0,1,0,0,0,2114,91483323.9,21.17
+3,1,0,0,Male,1,0,0,1,1016,46140986.2,19.74
+3,1,0,0,Female,1,0,0,1,1098,45342337.8,22.63
+3,1,0,0,Other,1,0,0,1,0,0.00,
+3,1,0,0,Unknown,1,0,0,1,0,0.00,
+3,1,0,Mexican American,0,1,0,1,0,434,7932117.28,25.55
+3,1,0,Mexican American,Male,1,0,1,1,184,3806186.09,25.64
+3,1,0,Mexican American,Female,1,0,1,1,250,4125931.19,25.47
+3,1,0,Mexican American,Other,1,0,1,1,0,0.00,
+3,1,0,Mexican American,Unknown,1,0,1,1,0,0.00,
+3,1,0,Other Hispanic,0,1,0,1,0,344,5830972.29,21.76
+3,1,0,Other Hispanic,Male,1,0,1,1,157,3067550.10,25.70
+3,1,0,Other Hispanic,Female,1,0,1,1,187,2763422.19,17.39
+3,1,0,Other Hispanic,Other,1,0,1,1,0,0.00,
+3,1,0,Other Hispanic,Unknown,1,0,1,1,0,0.00,
+3,1,0,Non-Hispanic White,0,1,0,1,0,617,61037221.7,18.31
+3,1,0,Non-Hispanic White,Male,1,0,1,1,321,31399382.7,16.09
+3,1,0,Non-Hispanic White,Female,1,0,1,1,296,29637839.0,20.66
+3,1,0,Non-Hispanic White,Other,1,0,1,1,0,0.00,
+3,1,0,Non-Hispanic White,Unknown,1,0,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,0,1,0,1,0,518,10919963.5,30.21
+3,1,0,Non-Hispanic Black,Male,1,0,1,1,240,4665561.76,30.23
+3,1,0,Non-Hispanic Black,Female,1,0,1,1,278,6254401.76,30.20
+3,1,0,Non-Hispanic Black,Other,1,0,1,1,0,0.00,
+3,1,0,Non-Hispanic Black,Unknown,1,0,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,0,1,0,1,0,137,2769906.07,28.79
+3,1,0,Non-Hispanic Asian,Male,1,0,1,1,78,1471021.93,29.89
+3,1,0,Non-Hispanic Asian,Female,1,0,1,1,59,1298884.14,27.53
+3,1,0,Non-Hispanic Asian,Other,1,0,1,1,0,0.00,
+3,1,0,Non-Hispanic Asian,Unknown,1,0,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,0,1,0,1,0,64,2993143.05,26.73
+3,1,0,Other Race Including Multi Racial,Male,1,0,1,1,36,1731283.61,25.48
+3,1,0,Other Race Including Multi Racial,Female,1,0,1,1,28,1261859.45,28.44
+3,1,0,Other Race Including Multi Racial,Other,1,0,1,1,0,0.00,
+3,1,0,Other Race Including Multi Racial,Unknown,1,0,1,1,0,0.00,
+3,1,0,Unknown,0,1,0,1,0,0,0.00,
+3,1,0,Unknown,Male,1,0,1,1,0,0.00,
+3,1,0,Unknown,Female,1,0,1,1,0,0.00,
+3,1,0,Unknown,Other,1,0,1,1,0,0.00,
+3,1,0,Unknown,Unknown,1,0,1,1,0,0.00,
+3,1,Teen,0,0,1,1,0,0,0,0.00,
+3,1,Teen,0,Male,1,1,0,1,0,0.00,
+3,1,Teen,0,Female,1,1,0,1,0,0.00,
+3,1,Teen,0,Other,1,1,0,1,0,0.00,
+3,1,Teen,0,Unknown,1,1,0,1,0,0.00,
+3,1,Teen,Mexican American,0,1,1,1,0,0,0.00,
+3,1,Teen,Mexican American,Male,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Female,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Teen,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,0,1,1,1,0,0,0.00,
+3,1,Teen,Other Hispanic,Male,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Female,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Teen,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,0,1,1,1,0,0,0.00,
+3,1,Teen,Non-Hispanic White,Male,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Female,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,0,1,1,1,0,0,0.00,
+3,1,Teen,Non-Hispanic Black,Male,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Female,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,0,1,1,1,0,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Male,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Female,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Teen,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,0,1,1,1,0,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Male,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Female,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Teen,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,0,1,1,1,0,0,0.00,
+3,1,Teen,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Teen,Unknown,Unknown,1,1,1,1,0,0.00,
+3,1,Twenty,0,0,1,1,0,0,0,0.00,
+3,1,Twenty,0,Male,1,1,0,1,0,0.00,
+3,1,Twenty,0,Female,1,1,0,1,0,0.00,
+3,1,Twenty,0,Other,1,1,0,1,0,0.00,
+3,1,Twenty,0,Unknown,1,1,0,1,0,0.00,
+3,1,Twenty,Mexican American,0,1,1,1,0,0,0.00,
+3,1,Twenty,Mexican American,Male,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Female,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Twenty,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,0,1,1,1,0,0,0.00,
+3,1,Twenty,Other Hispanic,Male,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Female,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Twenty,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,0,1,1,1,0,0,0.00,
+3,1,Twenty,Non-Hispanic White,Male,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Female,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,0,1,1,1,0,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Male,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Female,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,0,1,1,1,0,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Male,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Female,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Twenty,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,0,1,1,1,0,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Male,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Female,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Twenty,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,0,1,1,1,0,0,0.00,
+3,1,Twenty,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Twenty,Unknown,Unknown,1,1,1,1,0,0.00,
+3,1,Thirty,0,0,1,1,0,0,0,0.00,
+3,1,Thirty,0,Male,1,1,0,1,0,0.00,
+3,1,Thirty,0,Female,1,1,0,1,0,0.00,
+3,1,Thirty,0,Other,1,1,0,1,0,0.00,
+3,1,Thirty,0,Unknown,1,1,0,1,0,0.00,
+3,1,Thirty,Mexican American,0,1,1,1,0,0,0.00,
+3,1,Thirty,Mexican American,Male,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Female,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Thirty,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,0,1,1,1,0,0,0.00,
+3,1,Thirty,Other Hispanic,Male,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Female,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Thirty,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,0,1,1,1,0,0,0.00,
+3,1,Thirty,Non-Hispanic White,Male,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Female,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,0,1,1,1,0,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Male,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Female,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,0,1,1,1,0,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Male,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Female,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Thirty,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,0,1,1,1,0,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Male,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Female,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Thirty,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,0,1,1,1,0,0,0.00,
+3,1,Thirty,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Thirty,Unknown,Unknown,1,1,1,1,0,0.00,
+3,1,Forty,0,0,1,1,0,0,681,30208185.9,16.77
+3,1,Forty,0,Male,1,1,0,1,316,16092419.7,15.73
+3,1,Forty,0,Female,1,1,0,1,365,14115766.2,17.95
+3,1,Forty,0,Other,1,1,0,1,0,0.00,
+3,1,Forty,0,Unknown,1,1,0,1,0,0.00,
+3,1,Forty,Mexican American,0,1,1,1,0,125,3406348.89,26.02
+3,1,Forty,Mexican American,Male,1,1,1,1,43,1488926.21,31.75
+3,1,Forty,Mexican American,Female,1,1,1,1,82,1917422.67,21.58
+3,1,Forty,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Forty,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,0,1,1,1,0,89,2479874.54,20.46
+3,1,Forty,Other Hispanic,Male,1,1,1,1,41,1401161.19,26.60
+3,1,Forty,Other Hispanic,Female,1,1,1,1,48,1078713.35,12.49
+3,1,Forty,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Forty,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,0,1,1,1,0,191,17977174.2,12.06
+3,1,Forty,Non-Hispanic White,Male,1,1,1,1,102,10171059.4,9.34
+3,1,Forty,Non-Hispanic White,Female,1,1,1,1,89,7806114.74,15.61
+3,1,Forty,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,0,1,1,1,0,188,4291127.01,25.55
+3,1,Forty,Non-Hispanic Black,Male,1,1,1,1,76,1811428.38,27.58
+3,1,Forty,Non-Hispanic Black,Female,1,1,1,1,112,2479698.62,24.07
+3,1,Forty,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,0,1,1,1,0,68,1446100.87,23.83
+3,1,Forty,Non-Hispanic Asian,Male,1,1,1,1,42,846145.73,20.60
+3,1,Forty,Non-Hispanic Asian,Female,1,1,1,1,26,599955.15,28.37
+3,1,Forty,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Forty,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,0,1,1,1,0,20,607560.43,10.27
+3,1,Forty,Other Race Including Multi Racial,Male,1,1,1,1,12,373698.75,16.70
+3,1,Forty,Other Race Including Multi Racial,Female,1,1,1,1,8,233861.68,0.00
+3,1,Forty,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Forty,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,0,1,1,1,0,0,0.00,
+3,1,Forty,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Forty,Unknown,Unknown,1,1,1,1,0,0.00,
+3,1,Fifty,0,0,1,1,0,0,663,32218634.4,24.59
+3,1,Fifty,0,Male,1,1,0,1,326,15844127.1,25.12
+3,1,Fifty,0,Female,1,1,0,1,337,16374507.2,24.07
+3,1,Fifty,0,Other,1,1,0,1,0,0.00,
+3,1,Fifty,0,Unknown,1,1,0,1,0,0.00,
+3,1,Fifty,Mexican American,0,1,1,1,0,134,2848994.25,25.16
+3,1,Fifty,Mexican American,Male,1,1,1,1,60,1561236.98,23.54
+3,1,Fifty,Mexican American,Female,1,1,1,1,74,1287757.26,27.12
+3,1,Fifty,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Fifty,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,0,1,1,1,0,103,2043124.22,20.22
+3,1,Fifty,Other Hispanic,Male,1,1,1,1,46,1054637.14,21.01
+3,1,Fifty,Other Hispanic,Female,1,1,1,1,57,988487.08,19.38
+3,1,Fifty,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Fifty,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,0,1,1,1,0,212,21703306.7,21.58
+3,1,Fifty,Non-Hispanic White,Male,1,1,1,1,108,10361825.7,23.79
+3,1,Fifty,Non-Hispanic White,Female,1,1,1,1,104,11341481.0,19.56
+3,1,Fifty,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,0,1,1,1,0,153,3702858.06,37.11
+3,1,Fifty,Non-Hispanic Black,Male,1,1,1,1,71,1652697.66,34.95
+3,1,Fifty,Non-Hispanic Black,Female,1,1,1,1,82,2050160.40,38.85
+3,1,Fifty,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,0,1,1,1,0,38,659694.61,39.12
+3,1,Fifty,Non-Hispanic Asian,Male,1,1,1,1,25,384263.48,37.28
+3,1,Fifty,Non-Hispanic Asian,Female,1,1,1,1,13,275431.13,41.68
+3,1,Fifty,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Fifty,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,0,1,1,1,0,23,1260656.50,37.74
+3,1,Fifty,Other Race Including Multi Racial,Male,1,1,1,1,16,829466.11,24.61
+3,1,Fifty,Other Race Including Multi Racial,Female,1,1,1,1,7,431190.40,63.00
+3,1,Fifty,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Fifty,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,0,1,1,1,0,0,0.00,
+3,1,Fifty,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Fifty,Unknown,Unknown,1,1,1,1,0,0.00,
+3,1,Sixty,0,0,1,1,0,0,703,26602394.4,22.28
+3,1,Sixty,0,Male,1,1,0,1,337,12901545.3,19.22
+3,1,Sixty,0,Female,1,1,0,1,366,13700849.1,25.16
+3,1,Sixty,0,Other,1,1,0,1,0,0.00,
+3,1,Sixty,0,Unknown,1,1,0,1,0,0.00,
+3,1,Sixty,Mexican American,0,1,1,1,0,162,1525851.30,26.38
+3,1,Sixty,Mexican American,Male,1,1,1,1,75,692197.43,18.34
+3,1,Sixty,Mexican American,Female,1,1,1,1,87,833653.87,33.05
+3,1,Sixty,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Sixty,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,0,1,1,1,0,142,1200799.01,25.26
+3,1,Sixty,Other Hispanic,Male,1,1,1,1,65,557586.58,28.59
+3,1,Sixty,Other Hispanic,Female,1,1,1,1,77,643212.43,22.37
+3,1,Sixty,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Sixty,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,0,1,1,1,0,188,19594986.2,20.54
+3,1,Sixty,Non-Hispanic White,Male,1,1,1,1,92,9781868.55,16.43
+3,1,Sixty,Non-Hispanic White,Female,1,1,1,1,96,9813117.64,24.64
+3,1,Sixty,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,0,1,1,1,0,163,2695637.19,28.13
+3,1,Sixty,Non-Hispanic Black,Male,1,1,1,1,87,1119735.99,27.50
+3,1,Sixty,Non-Hispanic Black,Female,1,1,1,1,76,1575901.20,28.57
+3,1,Sixty,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,0,1,1,1,0,29,620454.24,28.40
+3,1,Sixty,Non-Hispanic Asian,Male,1,1,1,1,10,222037.99,46.67
+3,1,Sixty,Non-Hispanic Asian,Female,1,1,1,1,19,398416.26,18.22
+3,1,Sixty,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Sixty,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,0,1,1,1,0,19,964666.43,27.14
+3,1,Sixty,Other Race Including Multi Racial,Male,1,1,1,1,8,528118.75,33.05
+3,1,Sixty,Other Race Including Multi Racial,Female,1,1,1,1,11,436547.68,19.99
+3,1,Sixty,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Sixty,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,0,1,1,1,0,0,0.00,
+3,1,Sixty,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Sixty,Unknown,Unknown,1,1,1,1,0,0.00,
+3,1,Seventy,0,0,1,1,0,0,67,2454109.31,18.43
+3,1,Seventy,0,Male,1,1,0,1,37,1302894.09,8.91
+3,1,Seventy,0,Female,1,1,0,1,30,1151215.22,29.20
+3,1,Seventy,0,Other,1,1,0,1,0,0.00,
+3,1,Seventy,0,Unknown,1,1,0,1,0,0.00,
+3,1,Seventy,Mexican American,0,1,1,1,0,13,150922.85,13.81
+3,1,Seventy,Mexican American,Male,1,1,1,1,6,63825.47,13.57
+3,1,Seventy,Mexican American,Female,1,1,1,1,7,87097.38,13.98
+3,1,Seventy,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Seventy,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,0,1,1,1,0,10,107174.52,41.99
+3,1,Seventy,Other Hispanic,Male,1,1,1,1,5,54165.19,63.75
+3,1,Seventy,Other Hispanic,Female,1,1,1,1,5,53009.34,19.76
+3,1,Seventy,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Seventy,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,0,1,1,1,0,26,1761754.65,16.90
+3,1,Seventy,Non-Hispanic White,Male,1,1,1,1,19,1084628.97,2.69
+3,1,Seventy,Non-Hispanic White,Female,1,1,1,1,7,677125.67,39.66
+3,1,Seventy,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,0,1,1,1,0,14,230341.26,30.40
+3,1,Seventy,Non-Hispanic Black,Male,1,1,1,1,6,81699.73,30.70
+3,1,Seventy,Non-Hispanic Black,Female,1,1,1,1,8,148641.53,30.24
+3,1,Seventy,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,0,1,1,1,0,2,43656.35,42.55
+3,1,Seventy,Non-Hispanic Asian,Male,1,1,1,1,1,18574.74,100.00
+3,1,Seventy,Non-Hispanic Asian,Female,1,1,1,1,1,25081.61,0.00
+3,1,Seventy,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Seventy,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,0,1,1,1,0,2,160259.69,0.00
+3,1,Seventy,Other Race Including Multi Racial,Male,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Female,1,1,1,1,2,160259.69,0.00
+3,1,Seventy,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Seventy,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,0,1,1,1,0,0,0.00,
+3,1,Seventy,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Seventy,Unknown,Unknown,1,1,1,1,0,0.00,
+3,1,Over Eighty,0,0,1,1,0,0,0,0.00,
+3,1,Over Eighty,0,Male,1,1,0,1,0,0.00,
+3,1,Over Eighty,0,Female,1,1,0,1,0,0.00,
+3,1,Over Eighty,0,Other,1,1,0,1,0,0.00,
+3,1,Over Eighty,0,Unknown,1,1,0,1,0,0.00,
+3,1,Over Eighty,Mexican American,0,1,1,1,0,0,0.00,
+3,1,Over Eighty,Mexican American,Male,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Female,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Over Eighty,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,0,1,1,1,0,0,0.00,
+3,1,Over Eighty,Other Hispanic,Male,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Female,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,0,1,1,1,0,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Male,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Female,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,0,1,1,1,0,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Male,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Female,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,0,1,1,1,0,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Male,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Female,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Over Eighty,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,0,1,1,1,0,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Male,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Female,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Over Eighty,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,0,1,1,1,0,0,0.00,
+3,1,Over Eighty,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Over Eighty,Unknown,Unknown,1,1,1,1,0,0.00,
+3,1,Under Ten,0,0,1,1,0,0,0,0.00,
+3,1,Under Ten,0,Male,1,1,0,1,0,0.00,
+3,1,Under Ten,0,Female,1,1,0,1,0,0.00,
+3,1,Under Ten,0,Other,1,1,0,1,0,0.00,
+3,1,Under Ten,0,Unknown,1,1,0,1,0,0.00,
+3,1,Under Ten,Mexican American,0,1,1,1,0,0,0.00,
+3,1,Under Ten,Mexican American,Male,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Female,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Under Ten,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,0,1,1,1,0,0,0.00,
+3,1,Under Ten,Other Hispanic,Male,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Female,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,0,1,1,1,0,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Male,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Female,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,0,1,1,1,0,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Male,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Female,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,0,1,1,1,0,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Male,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Female,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Under Ten,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,0,1,1,1,0,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Male,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Female,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Under Ten,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,0,1,1,1,0,0,0.00,
+3,1,Under Ten,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Under Ten,Unknown,Unknown,1,1,1,1,0,0.00,
+3,1,Unknown,0,0,1,1,0,0,0,0.00,
+3,1,Unknown,0,Male,1,1,0,1,0,0.00,
+3,1,Unknown,0,Female,1,1,0,1,0,0.00,
+3,1,Unknown,0,Other,1,1,0,1,0,0.00,
+3,1,Unknown,0,Unknown,1,1,0,1,0,0.00,
+3,1,Unknown,Mexican American,0,1,1,1,0,0,0.00,
+3,1,Unknown,Mexican American,Male,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Female,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Other,1,1,1,1,0,0.00,
+3,1,Unknown,Mexican American,Unknown,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,0,1,1,1,0,0,0.00,
+3,1,Unknown,Other Hispanic,Male,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Female,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Other,1,1,1,1,0,0.00,
+3,1,Unknown,Other Hispanic,Unknown,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,0,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic White,Male,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Female,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Other,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic White,Unknown,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,0,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Male,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Female,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Other,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Black,Unknown,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,0,1,1,1,0,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Male,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Female,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Other,1,1,1,1,0,0.00,
+3,1,Unknown,Non-Hispanic Asian,Unknown,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,0,1,1,1,0,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Male,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Female,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Other,1,1,1,1,0,0.00,
+3,1,Unknown,Other Race Including Multi Racial,Unknown,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,0,1,1,1,0,0,0.00,
+3,1,Unknown,Unknown,Male,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Female,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Other,1,1,1,1,0,0.00,
+3,1,Unknown,Unknown,Unknown,1,1,1,1,0,0.00,
