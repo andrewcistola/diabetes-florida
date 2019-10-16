@@ -1,0 +1,23 @@
+Top Groups by Percent with Undiagnosed Prediabetes and Not at Risk       Unnamed: 0          Age                Race  Gender  ...   N  Population  Percent                   Status
+33146        6746  Over Eighty  Non-Hispanic White  Female  ...  69     3365313    36.41  Undiagnosed Prediabetes
+33150        6750  Over Eighty  Non-Hispanic White  Female  ...  26     1366298    35.32  Undiagnosed Prediabetes
+33130        6730  Over Eighty  Non-Hispanic White    Male  ...  21      608737    34.88  Undiagnosed Prediabetes
+27626        1226         Teen  Non-Hispanic Black    Male  ...  59      849242    28.88  Undiagnosed Prediabetes
+33126        6726  Over Eighty  Non-Hispanic White    Male  ...  86     2760443    27.00  Undiagnosed Prediabetes
+27646        1246         Teen  Non-Hispanic Black  Female  ...  72     1235154    17.52  Undiagnosed Prediabetes
+27346         946         Teen    Mexican American  Female  ...  80     1282607    14.30  Undiagnosed Prediabetes
+27630        1230         Teen  Non-Hispanic Black    Male  ...  52      804237    11.88  Undiagnosed Prediabetes
+27426        1026         Teen      Other Hispanic    Male  ...  29      526992    10.09  Undiagnosed Prediabetes
+27654        1254         Teen  Non-Hispanic Black  Female  ...  52      794652     9.92  Undiagnosed Prediabetes
+27634        1234         Teen  Non-Hispanic Black    Male  ...  93     1243652     8.50  Undiagnosed Prediabetes
+27530        1130         Teen  Non-Hispanic White    Male  ...  69     3286967     6.49  Undiagnosed Prediabetes
+27650        1250         Teen  Non-Hispanic Black  Female  ...  50      799919     6.15  Undiagnosed Prediabetes
+27326         926         Teen    Mexican American    Male  ...  75     1358504     6.06  Undiagnosed Prediabetes
+27350         950         Teen    Mexican American  Female  ...  41      606802     5.76  Undiagnosed Prediabetes
+27454        1054         Teen      Other Hispanic  Female  ...  47      678550     5.59  Undiagnosed Prediabetes
+27730        1330         Teen  Non-Hispanic Asian    Male  ...  28      316149     5.21  Undiagnosed Prediabetes
+27334         934         Teen    Mexican American    Male  ...  43      759065     3.57  Undiagnosed Prediabetes
+27526        1126         Teen  Non-Hispanic White    Male  ...  46     2143404     3.34  Undiagnosed Prediabetes
+27446        1046         Teen      Other Hispanic  Female  ...  36      614878     3.18  Undiagnosed Prediabetes
+
+[20 rows x 9 columns]

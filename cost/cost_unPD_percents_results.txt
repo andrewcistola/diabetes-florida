@@ -1,0 +1,25 @@
+Percent of Undaignosed Prediabetes in At Risk Group by Demographics       Unnamed: 0          Age     N  Population  Percent                   Status
+26401           1    Total Age  2114    91483323    21.17  Undiagnosed Prediabetes
+27201         801         Teen     0           0     0.00  Undiagnosed Prediabetes
+28001        1601       Twenty     0           0     0.00  Undiagnosed Prediabetes
+28801        2401       Thirty     0           0     0.00  Undiagnosed Prediabetes
+29601        3201        Forty   681    30208185    16.77  Undiagnosed Prediabetes
+30401        4001        Fifty   663    32218634    24.59  Undiagnosed Prediabetes
+31201        4801        Sixty   703    26602394    22.28  Undiagnosed Prediabetes
+32001        5601      Seventy    67     2454109    18.43  Undiagnosed Prediabetes
+32801        6401  Over Eighty     0           0     0.00  Undiagnosed Prediabetes
+33601        7201    Under Ten     0           0     0.00  Undiagnosed Prediabetes
+34401        8001      Unknown     0           0     0.00  Undiagnosed Prediabetes       Unnamed: 0                               Race     N  Population  Percent                   Status
+26401           1                         Total Race  2114    91483323    21.17  Undiagnosed Prediabetes
+26501         101                   Mexican American   434     7932117    25.55  Undiagnosed Prediabetes
+26601         201                     Other Hispanic   344     5830972    21.76  Undiagnosed Prediabetes
+26701         301                 Non-Hispanic White   617    61037221    18.31  Undiagnosed Prediabetes
+26801         401                 Non-Hispanic Black   518    10919963    30.21  Undiagnosed Prediabetes
+26901         501                 Non-Hispanic Asian   137     2769906    28.79  Undiagnosed Prediabetes
+27001         601  Other Race Including Multi Racial    64     2993143    26.73  Undiagnosed Prediabetes
+27101         701                            Unknown     0           0     0.00  Undiagnosed Prediabetes       Unnamed: 0        Gender     N  Population  Percent                   Status
+26401           1  Total Gender  2114    91483323    21.17  Undiagnosed Prediabetes
+26421          21          Male  1016    46140986    19.74  Undiagnosed Prediabetes
+26441          41        Female  1098    45342337    22.63  Undiagnosed Prediabetes
+26461          61         Other     0           0     0.00  Undiagnosed Prediabetes
+26481          81       Unknown     0           0     0.00  Undiagnosed Prediabetes

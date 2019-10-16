@@ -235,11 +235,11 @@ run;
 proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
 WEIGHT WTMEC2YR;
-SUBGROUP DMAge DMRace DMGndr DMBMI;
-LEVELS 10 7 4 4;
+SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk;
+LEVELS 10 7 4 4 3;
 CATLEVEL 1;
 var DMStat;
-tables DMAge*DMRace*DMGndr*DMBMI;
+tables DMAge*DMRace*DMGndr*DMBMI*DMRisk;
 output nsum wsum percent / FILENAME = PD.dgDM FILETYPE = SAS REPLACE;
 run;
 
@@ -256,17 +256,17 @@ run;
 proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
 WEIGHT WTMEC2YR;
-SUBGROUP DMAge DMRace DMGndr DMBMI;
-LEVELS 10 7 4 4;
+SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk;
+LEVELS 10 7 4 4 3;
 CATLEVEL 2;
 var DMStat;
-tables DMAge*DMRace*DMGndr*DMBMI;
+tables DMAge*DMRace*DMGndr*DMBMI*DMRisk;
 output nsum wsum percent / FILENAME = PD.dgPD FILETYPE = SAS REPLACE;
 run;
 
 *Export SAS file to Excel;
 
-proc export data = PD.unPD dbms = csv
+proc export data = PD.dgPD dbms = csv
 outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_dgPD_sudaan_raw.csv"
 replace;
 run;
@@ -278,11 +278,11 @@ run;
 proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
 WEIGHT WTMEC2YR;
-SUBGROUP DMAge DMRace DMGndr DMBMI;
-LEVELS 10 7 4 4;
+SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk;
+LEVELS 10 7 4 4 3;
 CATLEVEL 3;
 var DMStat;
-tables DMAge*DMRace*DMGndr*DMBMI;
+tables DMAge*DMRace*DMGndr*DMBMI*DMRisk;
 output nsum wsum percent / FILENAME = PD.unDM FILETYPE = SAS REPLACE;
 run;
 
@@ -299,11 +299,11 @@ run;
 proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
 WEIGHT WTMEC2YR;
-SUBGROUP DMAge DMRace DMGndr DMBMI;
-LEVELS 10 7 4 4;
+SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk;
+LEVELS 10 7 4 4 3;
 CATLEVEL 4;
 var DMStat;
-tables DMAge*DMRace*DMGndr*DMBMI;
+tables DMAge*DMRace*DMGndr*DMBMI*DMRisk;
 output nsum wsum percent / FILENAME = PD.unPD FILETYPE = SAS REPLACE;
 run;
 
@@ -319,11 +319,11 @@ run;
 proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
 WEIGHT WTMEC2YR;
-SUBGROUP DMAge DMRace DMGndr DMBMI;
-LEVELS 10 7 4 4;
+SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk;
+LEVELS 10 7 4 4 3;
 CATLEVEL 5;
 var DMStat;
-tables DMAge*DMRace*DMGndr*DMBMI;
+tables DMAge*DMRace*DMGndr*DMBMI*DMRisk;
 output nsum wsum percent / FILENAME = PD.misd FILETYPE = SAS REPLACE;
 run;
 
@@ -339,11 +339,11 @@ run;
 proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
 WEIGHT WTMEC2YR;
-SUBGROUP DMAge DMRace DMGndr DMBMI;
-LEVELS 10 7 4 4;
+SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk;
+LEVELS 10 7 4 4 3;
 CATLEVEL 6;
 var DMStat;
-tables DMAge*DMRace*DMGndr*DMBMI;
+tables DMAge*DMRace*DMGndr*DMBMI*DMRisk;
 output nsum wsum percent / FILENAME = PD.hlty FILETYPE = SAS REPLACE;
 run;
 
@@ -359,11 +359,11 @@ run;
 proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
 NEST SDMVSTRA SDMVPSU;
 WEIGHT WTMEC2YR;
-SUBGROUP DMAge DMRace DMGndr DMBMI;
-LEVELS 10 7 4 4;
+SUBGROUP DMAge DMRace DMGndr DMBMI DMRisk;
+LEVELS 10 7 4 4 3;
 CATLEVEL 7;
 var DMStat;
-tables DMAge*DMRace*DMGndr*DMBMI;
+tables DMAge*DMRace*DMGndr*DMBMI*DMRisk;
 output nsum wsum percent / FILENAME = PD.unkn FILETYPE = SAS REPLACE;
 run;
 
@@ -374,3 +374,31 @@ outfile = "C:\Users\drewc\GitHub\PreDM\_data\nhanes_unkn_sudaan_raw.csv"
 replace;
 run;
 
+*** Step 6: Set Weights and CLusters to get At Risk Population Percentages;
+
+*Sort Data by strata and cluster;
+
+proc sort data = PD.labels;
+by SDMVSTRA SDMVPSU;
+run;
+
+*Get Prevaence of Diabetes Status and Risk in Population Using SUDAAN: Undiagnosed Prediabetes;
+
+proc descript data = PD.labels design = wr atlevel1 = 1 atlevel2 = 2;
+SUBPOPN DMRisk = 1;
+NEST SDMVSTRA SDMVPSU;
+WEIGHT WTMEC2YR;
+SUBGROUP DMAge DMRace DMGndr;
+LEVELS 10 7 4;
+CATLEVEL 4;
+var DMStat;
+tables DMAge*DMRace*DMGndr;
+output nsum wsum percent / FILENAME = PD.atrisk FILETYPE = SAS REPLACE;
+run;
+
+*Export SAS file to Excel;
+
+proc export data = PD.atrisk dbms = csv
+outfile = "C:\Users\drewc\GitHub\PreDM\_data\cost_atrisk_raw.csv"
+replace;
+run;
