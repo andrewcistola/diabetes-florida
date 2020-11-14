@@ -1,7 +1,7 @@
 # Diabetes in Florida
-Public health research on Diabetes Outcomes in Florida. 
+Current and previous public health research on diabetes outcomes in Florida. 
 
-## Finding Equity: Utilizing Artificial Intelligence to Identify Social and Infrastructural Predictors of Diabetes Mortality in Florida
+### Finding Equity: Utilizing Artificial Intelligence to Identify Social and Infrastructural Predictors of Diabetes Mortality in Florida
 Andrew S. Cistola, MPH<br>
 Department of Health Services Research, Management, and Policy<br>
 University of Florida
