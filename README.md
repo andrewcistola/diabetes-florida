@@ -1,4 +1,5 @@
 # Diabetes in Florida
+Current public health research on diabetes outcomes in Florida.
 
 ### Finding Equity: Utilizing Artificial Intelligence to Identify Social and Infrastructural Predictors of Diabetes Mortality in Florida
 Andrew S. Cistola, MPH<br>
@@ -15,7 +16,7 @@ University of Florida
 <br>
 ![](_fig/fldm2_map.png)<br>
 
-### Repository contents:
+## Repository contents:
 `fldm2_manuscript.doc` Manuscript for Diabates Mortality in Florida case study<br>
 `fldm2_2020-11-06.txt` Results file from Diabates Mortality in Florida case study<br>
 `fldm2_book.ipynb` Jupyter notebook for Diabetes Mortality in Florida case study<br>
